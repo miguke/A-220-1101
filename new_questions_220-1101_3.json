@@ -1,0 +1,1941 @@
+[
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A startup company is outgrowing its current office space and is requiring employees to work remotely. The company must comply with government-enforced\nrequirements to safeguard all aspects of data, so the IT department plans to maintain complete control over users' operating systems. Which of the following\nshould the IT department implement?",
+    "options": [
+      "VDI",
+      "laaS",
+      "VPN",
+      "SaaS"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The IT department should implement VDI. Virtual Desktop Infrastructure (VDI) is a technology that allows users to access a desktop operating system from a\nremote location. VDI provides complete control over users’ operating systems, which is important for safeguarding data. VDI also provides a secure way to access\ndata from remote locations, which is important for compliance with government-enforced requirements1."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A user on the marketing team uses various multimedia applications that consume a lot of memory. The user needs to install more RAM to run these applications\neffectively. When the user opens the computer case, the user sees four slots in two sets of colors. Which of\nthe following memory types is MOST likely required?",
+    "options": [
+      "Dual-channel",
+      "Triple-channel",
+      "Single-channel",
+      "Quad-channel",
+      "Error correction code RAM"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The two sets of colors on the motherboard indicate that it supports dual- channel memory, which doubles the bandwidth available to the memory controller. Dual-\nchannel memory requires two identical memory modules to be installed in pairs in the correct slots to work effectively. In this case, the user can install two identical\nRAM modules to enable dual-channel memory, which will provide better performance when using multimedia applications that consume a lot of memory."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "An end user discovered that the touch-screen features on a Windows device have stopped working. Which of the following should a technician check?",
+    "options": [
+      "Performance monitor",
+      "Tablet/PC settings",
+      "System configuration",
+      "Display settings"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "If the touch-screen features on a Windows device have stopped working, a technician should check the Tablet/PC settings. The Tablet/PC settings contain options\nfor configuring the touch-screen features on a Windows device. By checking the Tablet/PC settings, the technician can ensure that the touch-screen features are\nenabled and configured correctly.\nIf the touch-screen features on a Windows device have stopped working, a technician should check the Tablet/PC settings. The touch-screen settings may have\nbeen disabled or there may be a driver issue that needs to be resolved. References: CompTIA A+ Certification Exam Guide, pg. 536"
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A help desk technician has been tasked with installing an IP phone in a small office with an unmanaged switch. When connected to an RJ45 receptacle, the phone\ndoes not boot. Which of the following is the QUICKEST way to resolve this issue?",
+    "options": [
+      "Upgrade the Ethernet cable to the latest specification.",
+      "Replace the phone.",
+      "Install a PoE injector.",
+      "Change ports on the switch."
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "https://intellinetnetwork.eu/pages/what-is-a-poe-injector\nThe quickest way to resolve the issue is to install a Power over Ethernet (PoE) injector to provide power to the IP phone. An unmanaged switch does not provide\nPoE, so an injector is needed to power the phone."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A technician is investigating the output shown on a monitor. The output is clear, but it has a pink hue. The technician has replaced the video card and updated the\ngraphics drivers. Which of the following would be the MOST likely cause?",
+    "options": [
+      "Physical cabling issues",
+      "Burned-out bulb",
+      "Display burn-in",
+      "Incorrect data source"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The pink hue is most likely caused by physical cabling issues the output on a monitor is clear but has a pink hue, it could be due to an issue with the physical\ncabling connecting the monitor to the computer. The video signal may be degraded or distorted due to a damaged or loose cable. The technician should check and\nreplace the cable if necessary to resolve the issue."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A technician is replacing a computer with a connected point-of-sale system using a 9-pin serial adapter. The new computer does not have a 9-pin serial port.\nWhich of the following ports can an adapter be installed on in order to connect to the point-of-sale system?",
+    "options": [
+      "HDMI",
+      "Bluetooth",
+      "USB",
+      "Lightning"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "A USB to 9-pin serial adapter can be used to connect the new computer to the point-of-sale system using a USB port. USB is a common and versatile port type\nfound on most computers.\nIf a technician is replacing a computer with a connected point-of-sale system using a 9-pin serial adapter and the new computer does not have a 9-pin serial port,\nan adapter can be installed on the USB port in order to connect to the point-of-sale system. A USB-to-serial adapter can be used to connect a serial device to a\nUSB port on a computer."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "Which of the following allows all VMs in a virtual environment to have RAM allocated for use?",
+    "options": [
+      "Measured service",
+      "Containerization",
+      "Synchronization",
+      "Resource pooling"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "The concept described in the question is related to virtualization and resource management in a virtual environment. The approach that allows all virtual machines\n(VMs) to have memory (RAM) allocated for use is known as resource pooling. Therefore, the correct answer is D: \"Resource pooling.\" This approach allows\nresources to be allocated dynamically to VMs based on their current needs, and ensures that resources are used efficiently in the virtual environment.\nResource pooling is a technique used in virtualization to share resources among multiple virtual machines (VMs). With resource pooling, RAM can be allocated\ndynamically to VMs as needed, allowing all VMs in a virtual environment to have RAM allocated for use. References:\nhttps://en.wikipedia.org/wiki/Resource_pooling"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A technician is tasked with installing additional RAM in a desktop computer. Which of the following types of RAM is MOST likely to be used?",
+    "options": [
+      "SODIMM",
+      "DDR3\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)",
+      "ECC",
+      "VRAM"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "DDR3 is the most commonly used RAM type in modern desktop computers. It is faster and more energy efficient than its predecessors, and offers larger capacity\nmodules. References: CompTIA A+ Certification Exam Guide, Ninth Edition, Chapter 5"
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A desktop support technician is tasked with upgrading a laptop so that it has the fastest data access possible. Which of the following BEST satisfies this\nrequirement?",
+    "options": [
+      "mSATASSD",
+      "M.2NVMeSSD",
+      "2.5SATASSD",
+      "2.5SASHHD"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "M.2 NVMe SSD provides the fastest data access possible for a laptop. It is a high-performance solid-state drive that connects directly to the motherboard through\nan M.2 slot."
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A user reports that a PC occasionally falls to boot. The user reboots the PC. but the performance is degrading. The technician hears a strange, repetitive, ticking\nnoise coming from the PC. Which of the following should the technician do FIRST?",
+    "options": [
+      "Try to extract data.",
+      "Reseat the RAM modules.",
+      "Inspect the fan.",
+      "Check the CD tray."
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "This is a safe and sensible option if you value your data more than anything else. You don’t want to risk losing your data by trying other methods that may worsen\nthe situation. You can use a software tool or a service provider to recover your data before attempting any repairs."
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "Which of the following network devices is used to separate broadcast domains?",
+    "options": [
+      "Switch",
+      "Wireless access point",
+      "Router",
+      "Hub"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "A router (option C) is a network device that is used to separate broadcast domains. A broadcast domain is a logical division of a computer network in which all\nnodes can reach each other by broadcast at the data link layer. Routers operate at the network layer of the OSI model and use routing tables to determine the best\npath for forwarding packets between different networks.\nBy separating broadcast domains, routers can help to reduce network congestion and improve performance. When a router receives a broadcast packet on one of\nits interfaces, it does not forward the packet to any other interfaces. This means that only devices within the same broadcast domain as the sender will receive the\nbroadcast packet."
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A colleague has a laptop that has been working as expected for several years wall outlet. The MOST likely component that needs to be replaced is the:",
+    "options": [
+      "power adapter.",
+      "battery.",
+      "system fan.",
+      "hard drive."
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Based on the information provided in the question, the MOST likely component that needs to be replaced is A. power adapter. If a laptop has been working as\nexpected for several years but suddenly stops working when it is plugged into a wall outlet, it is possible that the power adapter has failed and is no longer able to\nprovide power to the laptop. In this case, replacing the power adapter would likely resolve the issue.\nThe other components listed in the options (battery, system fan, and hard drive) could also potentially fail and cause issues with a laptop’s performance. However,\nbased on the specific scenario described in the question (the laptop suddenly stops working when plugged into a wall outlet), it seems most likely that the issue is\nrelated to the power adapter.\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)\nIf the laptop has been working as expected for several years and suddenly stops working, the power adapter is the most likely component that needs to be\nreplaced. Over time, the power adapter can become worn or damaged, resulting in a loss of power to the laptop. References: CompTIA A+ Certification Exam\nGuide, Ninth Edition, Chapter 3"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A user submits a help desk ticket regarding a smartphone that will no longer accept its charging cable. The assigned technician notices the phone does not have a\nprotective case, and the user constantly transport the phone in a pocket. The technician attempts to use a secondary charger, but the cable falls out of the phone.\nWhich of the following is the MOST likely cause of the issue?",
+    "options": [
+      "The phone requires a firmware update to address charging issues.",
+      "The charge port contains foreign objects, such as lint.",
+      "The phone’s battery has swelled, preventing the utilization of the charge port.",
+      "The phone has experienced water damage, thus the battery is not charring."
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "The symptoms suggest that the charging cable falls out of the phone, indicating that the charge port may contain foreign objects such as lint, which can interfere\nwith the connection between the charging cable and the phone."
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "Several users who share a multifunction printer in an office have reported unintended, thin, vertical lines that cover the entire height of every page printed from the\nprinter. Which of the following steps should a technician complete in order to MOST likely resolve this issue?",
+    "options": [
+      "Replace the printer paper with a new ream.",
+      "Clear the print spooler on each computer.",
+      "Reinstall the printer driver on each computer",
+      "Perform the drum-cleaning procedure."
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Thin, vertical lines on every printed page are usually caused by a dirty drum or toner cartridge. Performing the drum-cleaning procedure will likely resolve the\nissue. References: CompTIA A+ Certification Exam Guide, Ninth Edition, Chapter 18"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A company has a dot matrix printer that uses carbon paper. The company reports that the first page is printing too light, although the following pages are still\nlegible. Which of the following MOST likely needs to be fixed?",
+    "options": [
+      "The print drum is worn and loose causing the printing to be light in places",
+      "The ribbon is low on ink or missing and must be replaced to get proper output",
+      "The heating element has failed, and a new one needs to be installed for proper transfer",
+      "The wrong type of filement is loaded, preventing it from sticking correctly",
+      "The fuser assembly is not calibrated properly, causing it to impact the paper too hard"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Dot Matrix printers do not use heat, they use a pin striking an inked ribbon (for the first copy, the subsequent copies are handled by the carbon paper)\nThe ribbon is low on ink or missing and must be replaced to get proper output in a dot matrix printer that uses carbon paper. References: CompTIA A+ Certification\nExam Guide, Exam 220-1001, Page 361"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A technician installed a Cat 5 UTP cable approximately 275ft (84m) from a network switch in an office to a workstation located on a factory floor The technician\nsees both a flashing green LED and a flashing orange LED on the workstation's NIC. Which of the following should the technician do FIRST?",
+    "options": [
+      "Check for loose connections, pinched bends, and physical damage.",
+      "Install a powered hub as close as possible to the halfway point in the Cat 5 UTP cable run.",
+      "Replace the entire run of Cat 5 UTP cable with Cat 5 STP cable.",
+      "Upgrade the entire cable run to multimode fiber."
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The flashing green and orange LEDs on the NIC indicate connection issues. The technician should first check for loose connections, pinched bends, and physical\ndamage, which are the most common causes of connection problems. References: CompTIA A+ Certification Exam Guide, Ninth Edition, Chapter 14"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A technician is monitoring all outbound traffic in a SOHO. Which of the following is the MOST cost-effective solution to monitor the traffic?",
+    "options": [
+      "Spectrum analyzer",
+      "Network tap",
+      "Lookback plug\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)",
+      "Toner probe"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "A network tap is used to intercept the signals passing over a cable and send them to a packet or protocol analyzer. Taps are either powered or unpowered:"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A technician logs on to a PC and inserts an encrypted USB drive. When opening File Explorer, the technician cannot see the USB drive. Which of the following\ntools should the technician use to see all drives?",
+    "options": [
+      "DiskPart",
+      "Diskmgmt",
+      "Disk Cleanup",
+      "BitLocker"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "The tool that the technician should use to see all drives is Diskmgmt. Diskmgmt is a Windows utility that allows you to manage disk drives and partitions on your\ncomputer. It can be used to view all drives, including USB drives, that are connected to the computer12."
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A user submitted a ticket to report an issue with a new printer that is no longer accepting new print jobs. The technician verifies the printer is on and notices the\nprinter LCD screen has the following error message:\nPaper Jam, Jam in fuser.\nWhich of the following is the MOST efficient next step the technician should complete?",
+    "options": [
+      "Apply a maintenance kit to the printer",
+      "Check the printer paper path to locate any obstructions.",
+      "Turn the printer on and off to see if the error clears.",
+      "Replace the fuser."
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "The MOST efficient next step the technician should complete is to check the printer paper path to locate any obstructions1. The error message “Paper Jam, Jam\nin fuser” indicates that there is a paper jam in the fuser2. The fuser is one of the parts of a laser printer most likely to fail without giving any explicit message2.\nThe printer LCD screen indicates a paper jam in the fuser. The most efficient next step the\ntechnician should complete is to check the printer paper path to locate any obstructions. Applying a maintenance kit or replacing the fuser may not be necessary if\nthe issue is caused by a paper jam."
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A user acquired a new workstation and is attempting to open multiple targe Excel files simultaneously. The user is not experiencing the expected performance\nwhen executing such large requests. Which of the following should a technician do FIRST?",
+    "options": [
+      "Increase the swap partition.",
+      "Upgrade the CPU in the workstation.",
+      "Upgrade the power supply in the workstation.",
+      "Upgrade the RAM in the workstation."
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Opening multiple large Excel files simultaneously requires a large amount of RAM. Upgrading the RAM in the workstation should improve performance.\nReferences: CompTIA A+ Certification Exam Guide, Ninth Edition, Chapter 9"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "Which of the following BEST describes the main function of a web server?",
+    "options": [
+      "Storing files and controlling user access",
+      "Setting up personal mailboxes and calendars",
+      "Providing IP addresses and printing services",
+      "Hosting home pages and business portals"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "A web server is a software application that serves HTTP (Hypertext Transfer Protocol) requests by delivering web pages and other files to users' web browsers.\nThe main function of a web server is to host home pages and business portals, making them accessible to users via the internet. References: CompTIA A+\nCertification Exam Objectives 220-1001 - Networking - 1.6"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "Passing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)\n\nWhich of the following would be BEST reason to use a virtual machine as a sandbox?",
+    "options": [
+      "To test new software in a safe environment",
+      "To increase the efficient use of computing resources",
+      "To run multiple machines on the same hardware",
+      "To have dedicated hardware for a single system"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The main reason to use a virtual machine as a sandbox is to test new software in a safe environment without risking the integrity of the host operating system.\nUsing a virtual machine enables the testing of software and allows for the isolation of the software from the host system. References: CompTIA A+ Certification\nStudy Guide, Tenth Edition, pg. 409"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "DRAG DROP \nAn office manager reports that a printer is experiencing performance issues. Printouts are smudging when they are handled, and. recently, whenever the manager\ntries to print oversized documents, the paper jams before anything is printed on it.",
+    "options": [
+      "Mastered",
+      "Not Mastered"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": ""
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A technician is receiving reports that the entire office sporadically loses network connectivity throughout the day. The technician determines the root cause to be\nEMI. Which of the following cable mediums would be the MOST cost effective without sacrificing system performance?",
+    "options": [
+      "Coaxial",
+      "Shielded Cat 6",
+      "Plenum Cat 5e\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)",
+      "Multimode fiber"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "In this situation, the MOST cost-effective cable medium that would not sacrifice system performance would be B. Shielded Cat 6. Electromagnetic interference\n(EMI) can disrupt network connectivity by interfering with the signals transmitted over network cables. Shielded Cat 6 cables are designed to provide protection\nagainst EMI by incorporating a layer of shielding material around the cable’s conductors. This shielding helps to prevent EMI from interfering with the signals\ntransmitted over the cable."
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "An organization maintains various record types, including health and criminal justice records. Which of the following cloud environments is the organization MOST\nlikely to use to limit the attack surface?",
+    "options": [
+      "Public",
+      "Hybrid",
+      "Community",
+      "Private"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Private cloud environments are designed for use by a single organization and offer the greatest control over security and access to data. They are typically used\nfor sensitive or confidential data, such as health and criminal justice records. Public cloud environments are shared by multiple organizations and offer less control\nover security and access to data. Hybrid cloud environments combine public and private clouds, while community clouds are shared by multiple organizations with\nsimilar needs. References: CompTIA A+ Certification Exam: Core 1 - Page 234"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A user failed to gain access to a building's entrance after security measures at the entrance were upgraded last week. The company implemented the 13.56MHz\nfrequency short band, and users can now utilize their mobile devices to authenticate. Which of the following has to be enabled for the mobile device to\nauthenticate?",
+    "options": [
+      "Bluetooth",
+      "Biometrics",
+      "NFC",
+      "PIN"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "NFC (Near Field Communication) is a technology used for short-range wireless communication between devices, typically used for contactless payments and\nauthentication. In this scenario, the 13.56MHz frequency short band was implemented, and users can authenticate using their mobile devices, which requires NFC\nto be enabled on the device. References: CompTIA A+ Certification Exam Objectives 220-1001 - Mobile device network and device synchronization - 4.4"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A laptop PC user is reporting issues with the hard drive. A filesystem check shows that all files are accessible and the filesystem is clean. After the check, the PC\nstill issues a hard drive error message. Which of the following is the MOST likely cause of the error?",
+    "options": [
+      "S.M.A.R.T failure",
+      "IOPS failure",
+      "DIMM failure",
+      "RAID failure"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "If the filesystem check shows that all files are accessible and the filesystem is clean, but a hard drive error message persists, it's possible that the hard drive is\nexperiencing S.M.A.R.T. (Self-Monitoring, Analysis, and Reporting Technology) failure. This is a warning system built into hard drives to alert users of potential\nissues before they become critical. References: CompTIA A+ Certification Exam Core 1 Exam Objectives - 3.3 Given a scenario, troubleshoot mobile device\nissues"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A user in a medical office contacts a technician regarding a printer that is used to print A4-\nsized labels. After the labels are printed, they mistakenly contain white space in the middle of the page. Which of the following would MOST likely be the cause?",
+    "options": [
+      "Contaminated fuser",
+      "Worn rollers",
+      "A misfeed",
+      "Page orientation"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "The most likely cause of the issue is that the page orientation is incorrect. The printer may be set to print labels in a different orientation than the orientation of the\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)\nlabel sheet1."
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "Which of the following would MOST likely be used to obtain electronic images of a large number of printed documents?",
+    "options": [
+      "NFC device",
+      "ADF/flatbed scanner",
+      "Camera/webcam",
+      "QR scanner"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "ADF/flatbed scanner would most likely be used to obtain electronic images of a large number of printed documents. References: CompTIA A+ Certification Exam\nGuide, Exam 220-1001, Page 351"
+  },
+  {
+    "topic": 1,
+    "type": "multiple",
+    "question": "A user requested upgrades to a company-issued laptop to increase its performance while working with a large database stored on drive C. Which of the following\ntasks should a systems administrator complete to BEST meet this goal? (Select TWO).",
+    "options": [
+      "Configure RAID 1.",
+      "Install a hybrid drive.",
+      "Upgrade to 1GB NIC.",
+      "Increase the RAM.",
+      "Migrate to a SSD.",
+      "Upgrade the power supply."
+    ],
+    "correct": [
+      3,
+      4
+    ],
+    "explanation": "To increase the performance of a laptop working with a large database stored on drive C, a systems administrator should increase the RAM and migrate to an\nSSD. Increasing the RAM will help the laptop to better handle the large database, while migrating to an SSD will improve the speed at which the laptop can access\nthe database. Configuring RAID 1, installing a hybrid drive, upgrading to a 1GB NIC, and upgrading the power supply will not directly improve the laptop's\nperformance when working with a large database. References: CompTIA A+ Certification Exam: Core 1 - Objective 3.1"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "SIMULATION \nA small ISP has hired a new technician Joe, the new technician, is being trained to configure customers* home networks The trailing instructor gives me technician\na starter kit with cables, cable ends, and other network equipment and asks mm to build a working network.\nThe computer should be connected to have internet connectivity and the phone should be connected to have a dial tone.\nINSTRUCTIONS\nUse the appropriate cables. cable ends, tools and equipment to configure the network ana connect an components accordingly\nThere are 3 steps and the simulation starts on step 1.\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)",
+    "options": [
+      "Mastered",
+      "Not Mastered"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Answer of both steps below.\nA picture containing text, screenshot, indoor\nDescription automatically generated\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)\nDiagram Description automatically generated with medium confidence"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A user submitted a support ticket that states all of the printouts from a laser printer appear to have double images imposed on them. A review of past printer\nsupport tickets shows that maintenance kit has not been installed in more than a year. Which of the following printer consumables is MOST likely causing the\nissue?",
+    "options": [
+      "Separation pad",
+      "Transfer roller",
+      "Ink cartridge",
+      "Fuser"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "https://www.vingle.net/posts/4651722"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "SIMULATION \nLaura, a customer, has instructed you to configure her home office wireless access point.\nShe plans to use the wireless network for finances and has requested that the network be setup with the highest encryption possible.\nAdditionally, Laura knows that her neighbors have wireless networks and wants to ensure that her network is not being interfered with by the other networks.\nShe requests that the default settings be changed to the following.\nWireless Name: HomeWiFi Shared Key: CompTIA Router Password: Secure$1\nFinally, Laura wants to ensure that only her laptop and Smartphone can connect to the network.\nLaptop: IP Address 192.168.1.100 Hardware Address: 00:0A:BF:03:C4:54 Smartphone: IP Address 192.168.1.101 Hardware Address: 09:2C:D0:22:3F:11\nINSTRUCTIONS\nConfigure Laura’s wireless network using the network adapter window.\nIf at any time you would like to bring back the initial state of the situation, please click the Reset All button.\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)",
+    "options": [
+      "Mastered",
+      "Not Mastered"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "solution as\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "An IT manager discovered that hundreds of pages of printed materials are being recycled each day because the materials are left on the printer tray instead of\nbeing picked up by users. Which of the following would BEST prevent this waste?",
+    "options": [
+      "Send friendly reminders to not print unnecessarily.",
+      "Enable duplex printing to reduce paper utilization.",
+      "Bill each department for the excess material cost.",
+      "Require a code or badge before releasing a print job."
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "By requiring a code or badge before releasing a print job, it ensures that only authorized personnel can collect the printouts. This method is effective in preventing\nwaste and in keeping sensitive documents confidential. Sending reminders, enabling duplex printing, and billing departments are useful strategies for reducing\npaper utilization but may not necessarily prevent waste caused by uncollected printouts.\nRequiring a code or badge before releasing a print job is the best solution to prevent the waste of printed materials, as it ensures that only the user who initiated\nthe print job is able to pick up the printed materials. This can be achieved by implementing print release software or requiring users to enter a PIN code at the\nprinter. References: CompTIA A+ Certification Exam Objectives 1001, 2.10"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A company just bought a printer capable of automatically printing on both sides of the paper After installation, however, the technician can only print on both sides\nof the paper manually. Which of the following should the technician do to fix the issue?",
+    "options": [
+      "Install the most recent firmware upgrade available for the printer.",
+      "Contact the vendor for a hardware replacement.",
+      "Reinstall the printer software and drivers, and then restart the printer.",
+      "Read the installation manual and configure duplex settings."
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Passing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)\nThe issue described in the question is most likely due to an incorrect configuration of the printer's duplex settings. To enable automatic duplex printing, the\ntechnician needs to read the printer's installation manual to understand how to configure the printer's duplex settings correctly. Once the settings are configured,\nthe printer should be able to print on both sides of the paper automatically.\nTo fix the issue of a newly installed printer capable of automatically printing on both sides of the paper but only printing on both sides manually, the technician\nshould read the installation manual and configure duplex settings. Duplex printing settings can be configured in the printer driver software, which can be accessed\nthrough the printer settings in the Control Panel. Installing the most recent firmware upgrade available for the printer, contacting the vendor for a hardware\nreplacement, or reinstalling the printer software and drivers and restarting the printer will not resolve the issue."
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "Which of the following should the data center hardware technician implement to ensure maximum uptime for customers' virtual machines?",
+    "options": [
+      "Line conditioner",
+      "AC voltage regulator",
+      "Uninterruptible power supply",
+      "Cloud storage backup"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "An uninterruptible power supply (UPS) can help ensure maximum uptime for\ncustomers' virtual machines by providing a backup power source in case of a power outage or other power-related issues. A line conditioner and AC voltage\nregulator are designed to stabilize the power supply, but do not provide backup power. Cloud storage backup is a way to backup data, but does not directly impact\nuptime. References: CompTIA A+ Certification Exam: Core 1 - Page 159"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A laptop has been returned for a screen repair. The owner insists the screen is broken, but occasionally a faded image is able to be seen in very bright settings on\nthe desktop. Which of the following steps should the repair technician take FIRST?",
+    "options": [
+      "Replace the graphics card.",
+      "Replace the screen, as the customer insists.",
+      "Recommend the usage of an external display instead.",
+      "Ensure the backlight is functioning as expected."
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "If a laptop has been returned for a screen repair and the owner insists the screen is broken, but occasionally a faded image is able to be seen in very bright\nsettings on the desktop, the first step the repair technician should take is to ensure the backlight is functioning as expected. If the backlight is faulty, the screen\nmay appear to be broken, but it may only be dim or too dark to be visible"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A technician is upgrading a faulty motherboard that was ordered by an end user for an old, high-end desktop computer. However, the technician is unable to install\nthe CPU into the socket. Upon closer inspection, the technician notices the pins on the CPU do not line up with the socket. Which of the following would be the\nbest course of action for the technician to take NEXT?",
+    "options": [
+      "Try to set as many pins as possible.",
+      "Install an adaptor to create a universal socket.",
+      "Verify the socket type and manufacturer.",
+      "Find a compatible motherboard for the CPU."
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "In this situation, the best course of action for the technician to take NEXT would be C. Verify the socket type and manufacturer. If the pins on the CPU do not line\nup with the socket on the motherboard, it is likely that there is a compatibility issue between the two components. The technician should verify that the socket type\nand manufacturer of the motherboard match those of the CPU to ensure that they are compatible."
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "An online retailer wants to save money and is considering migrating to the public cloud so peak is over. Which of the following BEST describes this aspect of cloud\ncomputing?",
+    "options": [
+      "Rapid elasticity",
+      "Metered utilization",
+      "Shared resources",
+      "High availability"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Rapid elasticity is only suitable for a domain whose resource requirements suddenly up and down for a specific time interval. Referring to the question the online\nretailer wants to migrate to public cloud services during peak season, then wants it to be removed \"automatically\" when the peak is over."
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "Passing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)\nA Microsoft Windows user is preparing to work in another country and needs to comply with corporate policy for data protection when copying files to portable\nmedia. Which of the following solutions would MOST likely satisfy this requirement?",
+    "options": [
+      "A USB 3.1 flash drive with BitLocker to Go installed",
+      "An SD memory card with NTFS",
+      "An xD memory card with ext3",
+      "A portable hard drive with FAT32"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Using a USB 3.1 flash drive with BitLocker to Go installed is the best option for complying with corporate policy for data protection when copying files to portable\nmedia. References: CompTIA A+ Certification Exam Guide, Ninth Edition, Chapter 12"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A customer reports that a computer is never able to reach more than a 100Mbps transfer data rate, even when using a Gigabit LAN card. While troubleshooting,\nthe technician notices the network cable needs to be replaced. Which of the following cable categories is limiting the transfer speed?",
+    "options": [
+      "Cat 5",
+      "Cat 5e",
+      "Cat 6",
+      "Cat 6a"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Cat 5 cable is limited to a maximum data transfer rate of 100Mbps, while Cat 5e, Cat 6, and Cat 6a cables support Gigabit Ethernet (1000Mbps) and higher\nspeeds. Even though the LAN card is capable of Gigabit speeds, it cannot achieve that speed when using a Cat 5 cable. Upgrading to a Cat 5e or higher cable\nwould allow the computer to achieve Gigabit speeds. References: CompTIA A+ Certification Exam: Core 1 - Page 196"
+  },
+  {
+    "topic": 1,
+    "type": "multiple",
+    "question": "A technician receives several error alerts on a server after an unexpected reboot. A message states that one or more disks are in a degraded state. When the\ntechnician advances to the next error message, it indicates the OS is missing. Which of the following are the MOST likely causes of these errors? (Choose two.)",
+    "options": [
+      "Missing drives in the OS",
+      "RAID failure",
+      "Bootable device not found",
+      "Data loss",
+      "Controller failure",
+      "CMOS corruption\nG. TPM malfunction"
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explanation": "The message stating that one or more disks are in a degraded state is a clear indication of a RAID failure. RAID stands for Redundant Array of Independent\nDisks, and it is a technology used to provide fault tolerance and improve performance by combining multiple hard drives into a single logical unit.\nThe message indicating that the OS is missing is most likely caused by a bootable device not found. This means that the server is unable to boot from the\ndesignated boot device, which could be the hard drive, a CD/DVD drive, or a USB flash drive. This could be caused by a faulty boot device, a loose cable, or a\nmisconfiguration in the BIOS or UEFI settings."
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A technician needs to improve a workstation's overall response time for frequently used applications and data without removing the current hard drive. Which of the\nfollowing storage devices should the technician install to BEST accomplish the objective?",
+    "options": [
+      "M.2",
+      "SAS",
+      "HDD",
+      "SCSI"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Installing an M.2 SSD will improve a workstation's overall response time for frequently used applications and data without removing the current hard drive. M.2\ndrives are faster and more efficient than traditional hard drives, making them a good option for increasing overall performance. References: CompTIA A+\nCertification Exam Core 1 Exam Objectives - 1.5 Given a scenario, configure storage devices and use appropriate media"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A customer is using a satellite internet connection that is experiencing slowness. A technician notices high latency while pinging, but the download test is\nperforming perfectly with very good download speeds. Which of the following represents the NEXT action the technician should perform?",
+    "options": [
+      "Restart the modem and run an online internet connection and speed diagnostic tool.",
+      "Guide the customer on how to upgrade the internet plan with the provider in order to improve latency.",
+      "Explain to the customer this is not an issue; this situation is normal for this type of internet connection.",
+      "Replace the modem because it is not working correctly based on the test result.\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The technician should restart the modem and run an online internet connection and speed diagnostic tool1. High latency is a common issue with satellite internet\nconnections, and it can cause slow internet speeds2. Restarting the modem can help to resolve the issue1. The technician should also run an online internet\nconnection and speed diagnostic tool to check the connection and speed1. Guiding the customer on how to upgrade the internet plan with the provider in order to\nimprove latency is not likely to be the correct option2.\nHigh latency while pinging can indicate a problem with the modem or the connection between the modem and the satellite. Restarting the modem can often\nresolve connectivity issues. Running an online internet connection and speed diagnostic tool can help identify any other issues with the connection. Upgrading the\ninternet plan may not resolve latency issues and may not be necessary if the download test is performing perfectly with very good download speeds. High latency\nis not normal for satellite internet connections, so replacing the modem based on this one test result is premature. References: CompTIA A+ Certification Exam:\nCore 1 - Page 102"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "Which of the following would an administrator use to migrate virtual machines from on premises to the cloud?",
+    "options": [
+      "laaS",
+      "SaaS",
+      "DBaaS",
+      "DRaaS"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "An administrator would use Infrastructure as a Service (IaaS) to migrate virtual machines from on-premises to the cloud. IaaS is a cloud computing service that\nprovides virtualized computing resources, such as servers, storage, and networking, that can be used to deploy and run applications in the cloud. By using IaaS,\nan administrator can create a virtual machine in the cloud and migrate the existing virtual machine from on- premises to the cloud. References: CompTIA A+\nCertification Exam: Core 1 - Objective 3.3"
+  },
+  {
+    "topic": 1,
+    "type": "multiple",
+    "question": "A technician needs to fix a Cat 5 cable issue. The cable, which is connected to a network jack, fails when it is moved around. Which of the following items must the\ntechnician use to fix the issue? (Select TWO).",
+    "options": [
+      "Scissors",
+      "Network tap",
+      "Magnetized screwdriver",
+      "Tone generator",
+      "RJ45 connector",
+      "Crimper"
+    ],
+    "correct": [
+      4,
+      5
+    ],
+    "explanation": "To fix a Cat 5 cable issue where the cable fails when it is moved around, the technician would need to use an RJ45 connector (option E) and a crimper (option F).\nThe technician can use the crimper to attach a new RJ45 connector to the end of the cable, which should resolve the issue.\nAn RJ45 connector (option E) is a type of connector commonly used for Ethernet networking. It is an 8-position, 8-contact (8P8C) modular plug and jack that is\nused to terminate Cat 5 and other types of twisted pair cables. A crimper (option F) is a tool used to attach connectors to the ends of cables. In this case, the\ntechnician would use the crimper to attach a new RJ45 connector to the end of the Cat 5 cable.\nWhen a cable fails when it is moved around, it often indicates that there is a problem with the connector at the end of the cable. By attaching a new RJ45\nconnector using a crimper, the technician can ensure that the cable has a secure and reliable connection."
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A laptop's external webcam software is running, but it shows no image or video. Which of the following should a technician perform FIRST?",
+    "options": [
+      "Research new webcam firmware.",
+      "Restart the computer and run system diagnostics.",
+      "Reseat the webcam.",
+      "Reinstall the webcam software and drivers."
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "https://www.lifewire.com/fix-it-when-webcam-is-not-working-4588517\nIf a laptop's external webcam software is running, but it shows no image or video, the first step the technician should perform is to reseat the webcam. Reseating\nthe webcam involves disconnecting it from the motherboard and then reconnecting it. If this doesn't work, the technician should then check the webcam drivers or\nsoftware. References: CompTIA A+ Certification All-in-One Exam Guide, Tenth Edition by Mike Meyers (Page 502)"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A technician is upgrading a legacy wireless router for a home user. After installing the new router and configuring the SSID to be the same, none of the devices will\nconnect to the network. Which of the following should the technician check NEXT?",
+    "options": [
+      "OHCP pool configuration",
+      "MAC filtering list",
+      "Wireless protocol settings",
+      "ONS servers\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "The technician should check the MAC filtering list next as the new router may have a different MAC address than the old router. References: CompTIA A+\nCertification Exam Guide, Exam 220-1001, Page 332"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A network administrator was notified that laptop users are unable to access or ping any network resources on the corporate network. Which of the following should\nthe network administrator check FIRST?",
+    "options": [
+      "DHCP",
+      "AAA",
+      "DNS",
+      "ARP"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Domain Name System (DNS) is an Internet service that translates domain names (e.g., its.umich.edu) into IP addresses. Dynamic Host Configuration Protocol\n(DHCP) is a protocol for automatically assigning IP addresses and other configurations to devices when they connect to a network."
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A technician needs to recommend an internet connection for a customer who travels around the world and wants to have connectivity while visiting remote\ncamping locations. Some of the locations the customer visits have limited or unreliable cellular service. Which of the following connection types should the\ntechnician recommend?",
+    "options": [
+      "Satellite",
+      "DSL",
+      "Fiber",
+      "Hotspot"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The connection type that the technician should recommend is Satellite. Satellite internet is a good option for people who travel around the world and want to have\nconnectivity while visiting remote camping locations. It works by using terminals which can give you internet access in remote locations as long as they have a line\nof sight to the satellite in orbit above12.\nSince the customer travels to remote camping locations with limited or unreliable cellular service, the best recommendation is satellite internet connection. Satellite\ninternet uses a dish to connect to satellites orbiting the earth, which can provide coverage anywhere in the world as long as there is a clear line of sight to the\nsatellite. This is especially useful in remote areas where traditional terrestrial connections are not available. References: CompTIA A+ Certification Exam\nObjectives - 220-1001: 1.6 Given a scenario, evaluate connection type and bandwidth."
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A remote user called the help desk to report a notification indicating there is limited or no connectivity. The user can access local file folders and other local\nmachines but none of the organization's servers or network items. Web pages do not appear to function either. Which of the following is the MOST likely cause of\nthe issue?",
+    "options": [
+      "The user's internet connection is down.",
+      "The user's domain account is locked out.",
+      "The user's switch has stopped working.",
+      "The user's IP address needs to be renewed."
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Based on the information provided in the scenario, the most likely cause of the issue is that the user’s internet connection is down (option A). This would explain\nwhy the user is unable to access any of the organization’s servers or network items and why web pages are not functioning. However, since the user can still\naccess local file folders and other local machines, it suggests that their local network is still functioning.\nThe user can access local file folders and other local machines but none of the organization's servers or network items, indicating that the issue is with the user's\ninternet connection, not with the user's domain account, switch, or IP address.\nWhen a user receives a notification indicating that there is limited or no connectivity, it means that their device is unable to establish a connection to the network. In\nthis scenario, the user can access local file folders and other local machines but is unable to access any of the organization’s servers or network items and web\npages are not functioning. This suggests that the issue is with the user’s internet connection.\nAn internet connection allows a device to communicate with other devices and servers outside of its local network. If the internet connection is down or not\nfunctioning properly, the device will be unable to access any resources outside of its local network. This would explain why the user in this scenario can still access\nlocal resources but is unable to access any of the organization’s servers or network items."
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "Which of the following describes the operational difference between hubs and switches when transmitting data to a specific computer inside the network?",
+    "options": [
+      "Switches only send data to the specific computer, while hubs send data to all computersinside the network.",
+      "Switches compress data while hubs send uncompressed data",
+      "Switches receive data and route it to all computers inside the network while hubs receive data and do not route",
+      "Switches scramble data, while hubs send data in the original form.\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Switches only send data to the specific computer, while hubs send data to all computers inside the network. References: CompTIA A+ Certification Exam Guide,\nExam 220-1001, Page 323"
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A technician needs to add storage to a workstation. The workstation does not have room to add any internal storage, so the technician plans to add an external\nstorage device. Which of the following connection types should the technician MOST likely use?",
+    "options": [
+      "SCSI",
+      "eSATA",
+      "PCIe",
+      "NVMe"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "eSATA is the best choice for adding external storage as it offers a fast transfer rate and is specifically designed for external storage devices. SCSI is an older\ninterface that is rarely used today, PCIe is typically used to add expansion cards to a computer, and NVMe is a newer interface for high-speed solid-state storage,\nbut it is typically used for internal storage devices."
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A technician goes to a classroom to troubleshoot a projector that occasionally powers off.\nThe technician recreates the issue and notices the projector will not power back on until approximately 15 minutes have passed. After 15 minutes of being\npowered on. the projector shuts off again. Which of the following should the technician perform NEXT to resolve the issue?",
+    "options": [
+      "Clean the filter.",
+      "Adjust the standby timeout.",
+      "Check the power cable connection.",
+      "Replace the bulb."
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Based on the given information, it seems that the projector is experiencing issues with overheating or a faulty power supply. The fact that it shuts off and cannot\nbe turned back on until it has cooled down for 15 minutes suggests that the projector is overheating or there is a problem with the power supply. Therefore, the\nnext logical step would be to clean the filter to ensure proper ventilation and airflow, as a dirty filter can cause overheating."
+  },
+  {
+    "topic": 1,
+    "type": "single",
+    "question": "A technician unboxed a new computer, plugged it in to a UPS. and connected the requested peripherals. The computer lights and fans turn on, but the technician\nhears three loud, consecutive beeps during boot. Which of the following actions will remediate the issue?",
+    "options": [
+      "Replacing the power supply",
+      "Replacing the UPS",
+      "Changing the CMOS battery",
+      "Reseating the RAM"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Three beeps indicate a \"base memory read/write test error\". Check out \"beep codes\" for more information.\nhttps://en.wikipedia.org/wiki/Power-on_self- test#POST_beep_codes_on_CompTIA_A.2B_certification_exam\nReseating the RAM is the best course of action to remediate the issue of three consecutive beeps during boot, as it may indicate a RAM failure or loose\nconnection. By reseating the RAM, the technician can ensure that the connection is secure and the computer should boot normally. References: CompTIA A+\nCertification Exam Objectives 1001, 1.9"
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A user attempted to install an application on a desktop, and the installation attempt failed. A technician compares these installation files to those on another user's\nmachine and finds the files are different. Which of the following should the technician do NEXT?",
+    "options": [
+      "Attempt to reinstall the application.",
+      "Verify the system functionality.",
+      "Test the functionality of the antivirus.",
+      "Complete the final report.",
+      "Determine the source of the installation file."
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": ""
+  },
+  {
+    "topic": 2,
+    "type": "multiple",
+    "question": "The owner of a restaurant reports that wireless network connections are lost intermittently throughout the day. Which of the following steps should a technician\ntake to troubleshoot the issue? (Select TWO).\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)",
+    "options": [
+      "Identify the location of devices that utilize 2.4GHz.",
+      "Check to see if the phones are IJTP or STP lines.",
+      "Test to see if the copper electrical Wires are causing interference.",
+      "Map all of the wireless signals in the restaurant.",
+      "Verify T568B is being used in the wiring closet patch panel.",
+      "Schedule timed router reboots throughout the day."
+    ],
+    "correct": [
+      0,
+      3
+    ],
+    "explanation": "The correct answers are A. Identify the location of devices that utilize 2.4GHz and D. Map all of the wireless signals in the restaurant. In order to troubleshoot the\nissue, the technician should first identify the location of devices that utilize the 2.4GHz frequency, as this can cause interference with the wireless signal.\nAdditionally, the technician should map all of the wireless signals in the restaurant in order to identify any potential sources of interference. Checking to see if the\nphones are IJTP or STP lines, testing to see if the copper electrical wires are causing interference, verifying T568B is being used in the wiring closet patch panel,\nand scheduling timed router reboots throughout the day are not necessary steps for troubleshooting this issue."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A user is unable to access the internet on a PC. A technician examines the PC and runs the following commands:\nWhich of the following steps in the troubleshooting process does this series of commands represent?",
+    "options": [
+      "Establish a theory.",
+      "Verify full system functionality.",
+      "Establish a plan of action.",
+      "Identify the problem."
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A technical lead wants to migrate all common business applications, including email and fileshares, to the cloud. Which of the following cloud concepts should be\nused?",
+    "options": [
+      "MaaS",
+      "PaaS",
+      "SaaS",
+      "laaS"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "The cloud concept that should be used for migrating all common business applications, including email and fileshares, to the cloud is Software as a Service\n(SaaS)."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A user entered a help desk ticket stating the latest calendar updates have not appeared on the user's corporate mobile device for several days, even though\nupdates do appear on the user's laptop. Which of the following actions will MOST likely enable calendar alerts?",
+    "options": [
+      "Checking that the ringer volume on the device is high enough to be audible",
+      "Ensuring the corporate password is saved correctly in the calendar application",
+      "Installing a third-party calendar application and synchronizing it with the corporate calendar",
+      "Remotely wiping the mobile device and reinstalling all applications"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A help desk technician thinks a desktop PC has failed due to a defective power supply. Which of the following steps should the technician take NEXT?",
+    "options": [
+      "Inquire about environmental or infrastructure changes.",
+      "Conduct external or internal research based on symptoms.",
+      "Establish a plan of action to resolve the problem and implement the solution.",
+      "Document the findings, actions, and outcomes."
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Once the technician has determined that the power supply is likely to be defective, they should establish a plan of action to resolve the problem. This may include\nreplacing the power supply or further testing to confirm that it is indeed defective. After establishing a plan of action, the technician should implement the solution\nand verify that it has resolved the issue.\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)"
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A technician recently discovered me root cause of an application error that several users have been experiencing. The technician updated the configurations on\nthe affected\nmachines and verified full functionality was restored for all users, which of the following actions should the technician perform NEXT?",
+    "options": [
+      "Write a knowledge base article in the ticketing software to expedite future Incidents.",
+      "Submit a bug report to the developer of the application, along with the steps taken to resolve the Issue.",
+      "Work with the developer to proactively collect the application logs to identify future errors of this type.",
+      "Send an email communication to the company about the issue and the steps taken to resolve it."
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "CompTIA 6-Step Troubleshooting Process:\n* 1. Identify the problem.\n* 2. Establish a theory of probably cause. (Question the obvious)\n* 3. Test the theory to determine cause.\n* 4. Establish a plan of action to resolve the problem and implement the solution.\n* 5. Verify full system functionality and if applicable implement preventative measures.\n* 6. Document findings, actions, and outcomes.\nWriting a knowledge base article in the ticketing software would help document the root cause of the application error and the steps taken to resolve it, which can\nhelp other technicians resolve similar issues in the future. This is an example of knowledge management best practices. References: CompTIA A+ Certification All-\nin-One Exam Guide, Tenth Edition, Chapter 6"
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "To control costs a company provides a limited number or users with company phones One of these users opens a support ticket because the phone no longer\nallows internet Drowsing over a cellular connection The user acknowledges that the phone worked before the user's child streamed several movies using the\ndevice Which of the following describes why the phone cannot browse the Internet?",
+    "options": [
+      "The child accidentally connected to a neighbor's WLAN",
+      "The company's group policy disabled the device",
+      "The device has a data cap and has reached that limit",
+      "The device's plan has been unpaid"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "It is common for companies to place a data cap on the devices they provide to their employees, to control costs. If a user has exceeded the data cap, the phone\nmay no longer allow internet browsing over a cellular connection. This is usually because the cellular data usage has exceeded the allotted amount for the\nparticular plan the device is on, and the service provider has temporarily suspended the data connection.\nIt is unlikely that the child accidentally connected to a neighbor's WLAN because this would not affect the cellular data connection. Similarly, it is unlikely that the\ncompany's group policy has disabled the device, as this would likely affect all devices under the same policy. If the device's plan has been unpaid, the service\nprovider would likely temporarily suspend all services, not just the cellular data connection.\nReference: CompTIA A+ Core 1 Exam Guide, page 329."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A technician is replacing a ribbon on a printer that produces faded text and Images when priming. Which of the following types of primers is the technician working\non?",
+    "options": [
+      "Impact",
+      "Inkjet",
+      "Laser",
+      "Thermal"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "An impact printer is a type of printer that uses a ribbon to produce text and images on paper. If an impact printer is producing faded text and images when printing,\nit could be due to a worn-out ribbon that needs to be replaced. The technician would need to replace the ribbon on the impact printer to resolve the issue.\nA ribbon is a consumable component used in impact printers that uses a cloth or plastic strip coated with ink to produce text and images on paper. Examples of\nimpact printers include dot matrix printers and line printers. References: Study Guide Section 4.6 - Printer technologies"
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A thermal punier that is used 10 print order buckets m a factory has been experiencing Issues following the failure of the alt conditioner during the summer. Each\nticket has blank spots or is missing text. Which of the following would MOST likely solve these Issues?",
+    "options": [
+      "Restore function to the air conditioner.",
+      "Clean the heating element.",
+      "Replace the paper rolls.",
+      "Install new toner."
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "it appears that option A, restoring function to the air conditioner, would most likely solve the thermal printer issue in the described scenario. The failure of the air\nconditioner during the summer could likely have caused high humidity or heat in the factory, which can affect the printing quality of thermal printers by causing\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)\nblank spots or missing text. By restoring function to the air conditioner, the temperature and humidity in the factory can be controlled, which can help eliminate\nthese printing issues. However, it is still possible that any of the other options listed could also potentially solve the issue, so it is best to assess the situation further\nand try different solutions if necessary."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A user is trying to play a DVD on a projector. The user can hear the audio; however, the projector is showing an error message that states:\nHDMI Blocked due to Copy Protection\nWhich of the following is the MOST likely cause of the error?",
+    "options": [
+      "The HDMI cannot carry the signal from the DVD to the projector.",
+      "The user needs to switch from HDMI to a cable standard such as DisplayPort.",
+      "The projector does not support the necessary HDCP protocol.",
+      "The user needs to enable cony-protected sources in the projector's settings."
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "The Official CompTIA® A+® Core 1 and Core 2 Student Guide (Exams 220-\n1001 and 220-1002) | 193 Protected content. If you encounter an error that indicates unauthorized content or an HDCP error: • DVI, HDMI, DisplayPort, and\nThunderbolt all provide support for the Digital Rights Management (DRM) mechanism High-bandwidth Digital Content Protection (HDCP). HDCP allows a content\nsource (such as a Blu-ray disc) to disable itself if the display adapter and monitor and/or speaker system do not support HDCP and fail to authenticate themselves\nwith the playback source. There have been various iterations of HDCP (at time of writing the current version is 2.2) and backward- compatibility can be problematic\nas authentication may fail between devices that support different versions of the standard."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "The Chief Executive Officer wants to ensure company data is stored in a manner that provides the company with complete control over how the data is managed.\nWhich of the following is the BEST cloud deployment model for this request?",
+    "options": [
+      "Community",
+      "Hybrid",
+      "Public",
+      "Private"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "A private cloud deployment model provides the company with complete control over how the data is managed. This is because a private cloud is managed solely\nby the organization and resides on-premises or in a data center. Therefore, a private cloud deployment model is the best option for this scenario."
+  },
+  {
+    "topic": 2,
+    "type": "multiple",
+    "question": "A user reports a cell phone is getting hot. Which of the following are MOST likely to be possible causes? (Select THREE).",
+    "options": [
+      "Using the device as a Wi-Fi hotspot",
+      "A cracked screen",
+      "A failing battery",
+      "Less than 15% free storage space on the phone",
+      "Privileged control",
+      "Recurring prompts to install OS updates\nG. Granting too many application camera permissions\nH. Too many open applications"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Using the device as a Wi-Fi hotspot, a failing battery, and too many open applications are the most likely causes of the cell phone getting hot. These actions\nrequire the phone to use more power and processing, causing it to heat up."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "Which of the following network services allows a networked device to always be assigned the same IP address based on the device's MAC address?",
+    "options": [
+      "DHCP",
+      "LDAP",
+      "UTM",
+      "DNS"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Dynamic Host Configuration Protocol (DHCP) allows a networked device to always be assigned the same IP address based on the device's MAC address. DHCP\ncan also assign other network configuration settings to devices automatically."
+  },
+  {
+    "topic": 2,
+    "type": "multiple",
+    "question": "Which of the following options provides correct information about 2.4GHz and 5GHz wireless frequencies? (Select TWO)\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)",
+    "options": [
+      "2.4GHz has less interferenc",
+      "5GHz transmits inlower speed.",
+      "2.4GHz penetrates solid objects more effectivel",
+      "5GHz provides faster data connections.",
+      "2.4GHz has a higher data rat",
+      "5GHz has 23 channels.\nG. 2.4GHz has Il channel\nH. 5GHz has no data interference.\nI. 2.4GHz has a higher coverage are\nJ. 5GHz has higher bandwidth.\nK. 2.4GHz has a higher bandwidt\nL. 5GHz has lower transmit power."
+    ],
+    "correct": [
+      1,
+      4
+    ],
+    "explanation": "The correct answers are B. 2.4GHz penetrates solid objects more effectively. 5GHz provides faster data connections and E. 2.4GHz has a higher coverage area.\n5GHz has higher bandwidth. The 2.4GHz frequency has a lower data rate compared to 5GHz, but it can penetrate solid objects more effectively and has a higher\ncoverage area. The 5GHz frequency, on the other hand, provides faster data connections and has higher bandwidth,\nbut it has fewer channels and lower transmit power."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A technician responds to a help desk ticket that indicates a user's workstation is not booting. The technician initially suspects a failed hard drive. The technician\nperforms diagnostics and confirms the hard drive is fully operational.\nWhich of the following steps should the technician complete NEXT?",
+    "options": [
+      "Reinstall the operating system.",
+      "Configure a new RAID array.",
+      "Report the status of the drive and close the ticket.",
+      "Consider another possible cause of the issue.",
+      "Restore the latest backup of the system."
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Since the hard drive appears to be functioning normally, the technician should investigate other potential causes of the issue. This could include checking the\nBIOS settings, verifying the connections to the hard drive, and testing the RAM. Once these steps have been completed, the technician can then take the\nnecessary steps to resolve the issue."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A salesperson is using a weather application on a mobile device. The application appears to be draining the device's battery very quickly. Which of the following is\nthe BEST action for the salesperson to take in order to view weather forecasts while travelling?",
+    "options": [
+      "Enable the GPS service to ensure accurate location detection.",
+      "Manually enter office locations in the weather application.",
+      "Configure less frequent location checks using cellular location services.",
+      "Use the offices' Wi-Fi IP addresses as the geolocation mechanism."
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Reducing the frequency of location checks using cellular location services will consume less battery power while still allowing the user to view weather forecasts\nwhile travelling. The other options may not solve the battery drain issue while using the weather application.\nConfiguring less frequent location checks using cellular location services is the best option for the salesperson to view weather forecasts while traveling without\ndraining the battery too quickly. References: https://www.makeuseof.com/tag/5-ways-improve-battery-life- android-phone/"
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A university student was able to boot from a live Linux CD on a computer in a shared space on campus. Which of the following will BEST prevent this type of\naction from occurring in the future?",
+    "options": [
+      "Require TPM security features.",
+      "Set a boot password.",
+      "Disable all media options.",
+      "Enable secure boot."
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Enabling secure boot will verify the digital signature of the bootloader and operating system, ensuring that the system only boots from trusted and authorised\nsources. This can prevent booting from an unauthorised live CD or other external media. The best way to prevent booting from a live Linux CD on a computer in a\nshared space on campus is to enable secure boot. Secure boot is a feature that ensures that the system only runs software that is signed by an authorized party.\nThis means that the system will not boot from any unauthorized media, including live Linux CDs.\nSecure Boot is a feature that ensures that the system only runs software that is signed by an authorized party. This means that the system will not boot from any\nunauthorized media, including live Linux CDs. Secure Boot is an important security feature designed to prevent malicious software from loading when your PC\nstarts up (boots)1.\nBooting from a live Linux CD is a process that allows you to run a Linux operating system from a CD or DVD without installing it on your hard drive. This can be\nuseful for testing or troubleshooting purposes. To boot from a live Linux CD, you need to insert the CD or DVD into your computer’s CD/DVD drive and restart\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)\nyour computer. Most systems are set up to automatically boot from the CD/DVD drive, but if your system is not set up this way, you may need to change a system\nsetting to boot from a Linux CD/DVD23."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A technician is working on a critical warehouse machine that will not turn on. The technician has determined the power supply for the machine failed. The\nwarehouse manager is looking for a solution that will prevent downtime in the future. Which of the following devices should the technician install to meet this\nrequirement?",
+    "options": [
+      "Grounded power supply",
+      "Modular power supply",
+      "220V power supply",
+      "Redundant power supply"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "A redundant power supply is a device that provides two or more power supplies connected in parallel so that when one fails, the other one will take over to ensure\ncontinuous power. This is ideal for critical warehouse machines that require a reliable power source and are at risk of downtime in the event of a power failure.\nInstalling a redundant power supply will help to reduce the chances of an unexpected power outage and keep the machine running."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "The IT department at an insurance brokerage needs to acquire laptops that have built-in fingerprint readers in order to create a more secure environment. Which of\nthe following would be the MOST secure way to implement the fingerprint readers?",
+    "options": [
+      "Grant all registered employees access to each machine.",
+      "Restrict device access to only the user to whom the laptop is assigned.",
+      "Limit device access to departments and guest users.",
+      "Give each team member a USB drive that bypasses the reader to allow guest users lo log in."
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "The most secure way to implement fingerprint readers would be to restrict device access to only the user to whom the laptop is assigned. This ensures that only\nauthorized personnel have access to the device, reducing the risk of unauthorized access and data breaches."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A user wants a second monitor installed on a laptop. The VGA/DVI or HDMI cables have already been connected. Which of the following should the technician do\nto configure the laptop to show both screens?",
+    "options": [
+      "Power cycle the laptop.",
+      "Plug in the monitor to the USB port.",
+      "Adjust the monitor display settings.",
+      "Power cycle the monitor."
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "To configure the laptop to show both screens, the technician should adjust the monitor display settings. On Windows 10 or 11, the technician can select the Start\nmenu, then open Settings, then select Display. The PC should automatically detect the monitors and show the desktop. If the monitors are not detected, the\ntechnician can select Multiple displays, then Detect. The technician can then use the dropdown list next to the image of the desktop to choose how the screen will\nproject across the displays12345."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A user creates a support ticket to report a conference room projector that does not work. The user says that even though the provided cables are being used, the\nprojector screen shows the following error message:\nNo signal input\nWhich of the following describes the FIRST action that should be taken?",
+    "options": [
+      "Verify that the projector is turned on.",
+      "Verify that the user is using an approved OS.",
+      "Replace the projector bulb.",
+      "Check the video cable and replace it if necessary."
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "The most common reasons you may be seeing the \"No Signal\" message: The projector and the source device are not connected correctly.\nThe first action should be to check the video cable and replace it if necessary, as the error message suggests that the projector is not receiving a signal from the\nlaptop. Verifying that the projector is turned on and checking the bulb would come after verifying the video cable."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "Vertical streaks are appearing on the output of a laser printer. Which of the following items is the MOST likely cause?\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)",
+    "options": [
+      "Roller",
+      "Drum",
+      "Transfer belt",
+      "Ribbon"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Vertical or horizontal lines—Marks that appear in the same place (referred to as repetitive defects) are often due to dirty feed rollers (note that there are rollers in the\ntoner cartridge and fuser unit too) or a damaged or dirty photosensitive drum.\nVertical streaks on a laser printer output are usually caused by a damaged or worn-out drum, which is responsible for transferring toner to the paper. If the drum is\ndamaged, toner may accumulate on certain parts of the drum, leading to streaks on the printed output. References: CompTIA A+ Certification All-in-One Exam\nGuide, Tenth Edition, Chapter 15"
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A new version of Windows was released and a piece of software vital to the engineering department will not run on the new version. Which of the following is the\nBEST option to enable this department to be able to continue using this software?",
+    "options": [
+      "Do not upgrade any workstations within the organization.",
+      "Upgrade all workstations and provide a virtual environment for the legacy software.",
+      "Upgrade all workstations except those used by the engineering department.",
+      "Purchase new workstations for the engineering department."
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Upgrading all workstations and providing a virtual environment for the legacy software is the best option, as it allows the engineering department to continue using\nthe vital software while also upgrading to the latest version of Windows. This also ensures that the rest of the organization can take advantage of the latest\nsoftware and security features."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A technician is troubleshooting a projector that will not display any Images. The technician has verified the computer output and cable are providing a good video\nsignal. Which of the following should the technician do NEXT?",
+    "options": [
+      "Calibrate the image.",
+      "Replace the bulb.",
+      "Test the output resolution.",
+      "Clean the fans."
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "The MOST efficient next step the technician should do is to test the output resolution1. The issue of a projector that will not display any images could be related to\nthe output resolution1. If the output resolution is not compatible with the projector, the projector will not display any images1. Calibrating the image, replacing the\nbulb, or cleaning the fans may not be effective1.\nIf a projector is not displaying any images despite verifying that the computer output and cable are providing a good video signal, the technician should test the\noutput resolution. The output resolution of the computer may not be compatible with the projector, which can cause the projector to not display any images."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A technician set up a new access point and has noticed significant latency on the selected channel. Which of the following tools can assist with locating the BEST\nchannel to use?",
+    "options": [
+      "Wi-Fi analyzer",
+      "Netstat",
+      "Net use",
+      "Traceroute",
+      "Network tap"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "A Wi-Fi analyzer is a tool that can be used to scan the local area for available wireless networks and can provide information such as signal strength, interference,\nand available channels. It can also be used to locate the best channel to use for a given access point, which can help to reduce latency and improve performance."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "The help desk received a ticket regarding Issues with a laser printer. The printer has had repairs previously for scanning Issues. Currently, the printed text is not\nadhering properly to the paper. Which of the following should be replaced lo resolve this Issue?",
+    "options": [
+      "Fuser",
+      "Waste container",
+      "Roller",
+      "Toner"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "If the printed text is not adhering properly to the paper on a laser printer that has had repairs previously for scanning issues, the fuser should be replaced to\nresolve this issue. The fuser is a component of the printer that uses heat and pressure to fuse the toner onto the paper. If the fuser is not functioning properly, the\ntoner may not adhere properly to the paper."
+  },
+  {
+    "topic": 2,
+    "type": "single",
+    "question": "A new employee has been issued a company laptop. The employee requests an accessory with a single power source that has wired network connectivity and\nsupports a keyboard, mouse, speakers, and dual monitors. Which of the following accessories should the systems administrator deploy to BEST meet the new\nuser's needs?",
+    "options": [
+      "Poe switch",
+      "USB-C hub with power delivery",
+      "Docking station with DisplayPort",
+      "KVM switch with audio"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "A docking station is a hardware accessory that allows laptops to connect to multiple peripherals and devices with a single connection. A docking station with\nDisplayPort would provide the necessary connectivity for the dual monitors, and it can also support the required peripherals such as the keyboard, mouse, and\nspeakers. In addition, it will provide a wired network connectivity for faster and more reliable network access."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A technician needs to increase the available RAM on a virtual workstation. Which of the following should the technician do?",
+    "options": [
+      "Increase the ECC memory timings in the BIOS.",
+      "Upgrade to the latest DDR5 modules.",
+      "Clear the temporary files on the workstation’s boot drive.",
+      "Use a hypervisor to adjust the resource allocation."
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "A hypervisor is a software layer that manages and allocates resources for virtual machines (VMs) on a physical host machine. A technician can use a hypervisor\nto adjust the resource allocation for a virtual workstation, such as increasing the amount of RAM assigned to it from the available pool of memory on the host\nmachine. This can improve the performance and functionality of the virtual workstation without requiring any hardware changes or modifications. Reference:\nhttps://www.comptia.org/training/books/a- core-1-220-1101-study-guide (page 59)"
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "HOTSPOT \nA customer has contacted you about building two new desktops. The first desktop will be a gaming workstation. The customer requirements include:\nPlaying the newest games at a high frame rate Fast game load times\nEnough storage to have several games installed at once High-end audio\nNo concern about cost\nRunning the current Windows OS\nThe second workstation will be a family workstation. The requirements include: Capability for word processing, videoconferencing, and basic web surfing Minimal\ncost, as long as it meets the requirements\nRunning the current Windows OS",
+    "options": [
+      "Mastered",
+      "Not Mastered"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Passing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)"
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "Which of the following network options would work BEST to ensure a client-side virtual machine cannot access the rest of the network?",
+    "options": [
+      "NAT mode",
+      "Bridge mode",
+      "Direct mode",
+      "Host-only mode"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Host-only mode is a network option that isolates a client-side virtual machine from the rest of the network. It allows the virtual machine to communicate only with\nthe host machine and other virtual machines on the same host. NAT mode allows the virtual machine to share the host’s IP address and access the network\nthrough it. Bridge mode allows the virtual machine to have its own IP address and connect directly to the network. Direct mode is not a valid network option for\nvirtual machines."
+  },
+  {
+    "topic": 3,
+    "type": "multiple",
+    "question": "A user’s Windows computer started running slowly after the installation of a CAD program. The computer has intermittent timeouts and often has to be rebooted to\nrestore functionally. The computer seems to work correctly if the application is not running. Which of the following should the technician do NEXT to help\ntroubleshoot the issue? (Select TWO).",
+    "options": [
+      "Replace the video card.",
+      "Research the requirements of the application.",
+      "Install a new case fun.",
+      "Run chkdsk on the HDD.",
+      "Check the Event Viewer logs.",
+      "Reinstall the application."
+    ],
+    "correct": [
+      1,
+      4
+    ],
+    "explanation": "The technician should research the requirements of the CAD program to see if the computer meets them or needs any upgrades or updates to run it properly. The\ntechnician should also check the Event Viewer logs to see if there are any errors or warnings related to the application or system performance that could indicate\nthe cause of the problem or suggest a solution. Reference: https://www.comptia.org/training/books/a- core-1-220-1101-study-guide (pages 43, 47)"
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "An end user needs to upgrade the hard drive on a laptop and wants one that is fast and shock resistant. Which of the following is the BEST option for this end\nuser?",
+    "options": [
+      "Hybrid HHD/SSD",
+      "5,400rpm HDD",
+      "7,200rpm HDD",
+      "NVMe SDD"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "A non-volatile memory express (NVMe) solid state drive (SSD) is the best option for an end user who wants to upgrade the hard drive on a laptop and wants one\nthat is fast and shock resistant.NVMe SSDs use flash memory and PCIe interface to achieve high performance and low latency.SSDs are also more shock\nresistant than hard disk drives (HDDs) because they have no moving parts.Hybrid HDD/SSD combines both technologies but does not offer the same speed or\ncapacity as pure SSDs.A 5,400rpm HDD or a 7,200rpm HDD are slower and less shock resistant than SSDs\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)"
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A technician is preparing laptops for deployment to a medical department. The laptops require SSD-level encryption to be enabled, but BitLocker refuses to turn it\non. An error message states that a BIOS-level setting has not been turned on. Which of the following should the technician check FIRST when troubleshooting this\nissue?",
+    "options": [
+      "Recorder the priority in Widows Boot Manager.",
+      "Check to make sure Secure Boot is turned on.",
+      "Ensure that the Trusted Platform Module enabled.",
+      "Verify that the latest updates are installed."
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "The Trusted Platform Module (TPM) is a hardware component that provides cryptographic functions and secure storage for encryption keys, passwords, and\ncertificates. BitLocker requires a TPM to be enabled and activated in the BIOS or UEFI settings of the laptop in order to use SSD-level encryption. The technician\nshould check that the TPM is enabled and activated before trying to turn on BitLocker. Reference: https://partners.comptia.org/docs/default-source/resources/a-\ncore-series-combined- content-guide (page 34)"
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A user reports that all print jobs sent to a laser printer have random and incorrect characters throughout the pages. Which of the fallowing actions should the\ntechnician do to resolve this issue?",
+    "options": [
+      "Replace the fuser.",
+      "Adjust the rollers.",
+      "Update the driver.",
+      "Shake the toner"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "One of the possible causes of random and incorrect characters appearing on print jobs sent to a laser printer is an outdated or corrupted driver. The driver is a\nsoftware component that communicates between the operating system and the printer, and converts data into a format that the printer can understand. If the driver\nis outdated or corrupted, it may send incorrect or garbled data to the printer, resulting in poor print quality or errors. The technician should update the driver to the\nlatest version from the manufacturer’s website, or uninstall and reinstall it if necessary. Reference:\nhttps://www.comptia.org/training/books/a-core-1-220-1101-study-guide (page 47)"
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A technician receives an alert indicating all VMs are down. After some troubleshooting, the technician discovers the network is out of space. To resolve the issue,\nthe technician decides to add more space. Which of the following network types will the technician be working with?",
+    "options": [
+      "SCSI",
+      "NAC",
+      "SAN",
+      "WISP"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "A storage area network (SAN) is the type of network that the technician will be working with when adding more space to resolve the issue of all VMs being down\ndue to the network being out of space. A SAN is a network that provides access to consolidated and block-level data storage, which can be used for virtualization\nand backup purposes. SCSI is a type of interface that connects devices such as hard drives and optical drives to a computer. NAC is a type of security solution\nthat controls access to a network based on policies and device compliance. WISP is a type of internet service provider that delivers wireless broadband access\nover long distances."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A technician connects a new computer to the internet and then opens the wiring closet. Even though all of the wires are terminated, nothing in the wring closet is\nlabeled. Which of the following tools should the technician use to complete the task?",
+    "options": [
+      "Cable tester",
+      "Loopback plug",
+      "Toner probe",
+      "Punchdown tool"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "A toner probe is a tool that can be used to trace and identify cables in a wiring closet. The technician can use a toner probe to find the cable that connects the new\ncomputer to the internet. A cable tester is a tool that can be used to check the continuity and quality of a cable. A loopback plug is a tool that can be used to test\nnetwork ports or cables by sending and receiving signals from the same device. A punchdown tool is a tool that can be used to terminate wires into a patch panel\nor jack."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A user’s laptop is experiencing severe slowdowns when operating process-intensive tasks. Which of the following memory upgrades is compatible with a laptop?\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)",
+    "options": [
+      "DIMM",
+      "ECC RAM",
+      "Virtual RAM",
+      "SODIMM"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "SODIMM stands for Small Outline Dual In-line Memory Module and is a type of memory module that is compatible with laptops and other small devices.\nSODIMMs are smaller and thinner than DIMMs (Dual In-line Memory Modules), which are typically used for desktop PCs and servers. Upgrading or adding\nSODIMMs can increase the amount of RAM available for a laptop, which can improve its performance and speed when running process-intensive tasks.\nReference: https://partners.comptia.org/docs/default- source/resources/a-core-series-combined-content-guide (page 24)"
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "The GPS on a user's phone has been unreliable. Which of the following will MOST likely resolve the issue?",
+    "options": [
+      "Enabling high-accuracy mode",
+      "Replacing the battery",
+      "Disabling Wi-Fi connections",
+      "Utilizing a third-party map application"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Enabling high-accuracy mode is the most likely action to resolve the issue of unreliable GPS on a user’s phone. High-accuracy mode uses multiple sources of\nlocation data, such as Wi-Fi, cellular networks, and Bluetooth, to improve the accuracy and reliability of GPS. Replacing the battery, disabling Wi-Fi connections, or\nutilizing a third- party map application are unlikely to fix the GPS issue, as they are not directly related to the GPS function"
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "An IT manager is evaluating ticket resolution times. While reviewing the data, the manager notices repetitive issues are taking longer than expected to resolve.\nWhich of the following changes should the manager implement to resolve repetitive issues more quickly?",
+    "options": [
+      "Require the technicians to spend more time testing theories to determine the root causes of issues.",
+      "Require the technicians to verify full system functionality when resolving issues.",
+      "Require the technicians to gather more information when speaking with users aboutissues.",
+      "Require the technicians to document the findings, action, and outcomes of issues."
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "By documenting the findings, action, and outcomes of issues, the technicians can create a knowledge base that can be used to resolve similar issues in the future\nmore quickly and efficiently. The documentation can also help identify patterns or trends that can lead to preventive measures or root cause analysis. Documenting\nthe issues can also improve communication and collaboration among technicians and users, as well as provide evidence of service quality and performance.\nReference: https://partners.comptia.org/docs/default-source/resources/a-core-1-content-guide (page 4)"
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A desktop support technician receives an escalated ticket regarding a computer that displays the following message upon booting up: The amount of system\nmemory has changed. Which of the following components is failing?",
+    "options": [
+      "GPU",
+      "HDD",
+      "RAM",
+      "CPU"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "The message “The amount of system memory has changed” indicates that there is a problem with the random access memory (RAM) modules in the computer.\nThe RAM may be loose, faulty, or incompatible with the motherboard or other components. The GPU, HDD, and CPU are not directly related to system memory\nand would not cause this message to appear."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A user receives the following error when trying to reboot a computer:\nWhich of the following is the MOST likely cause of this error message?",
+    "options": [
+      "Corrupted bootloader",
+      "Faulty RAID controller\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)",
+      "Failed hard drive",
+      "Incorrect storage device driver"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "The error message \"Reboot and Select Proper Boot Device\" indicates that the computer cannot find the boot device that contains the operating system12. This can\nhappen if the hard drive that stores the operating system is damaged or failed, and the BIOS cannot detect it or read from it23. A failed hard drive can also cause\nother symptoms such as clicking noises, corrupted files, or slow performance4."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "An insurance company wants to implement cloud computing and would like a cloud solution in which the infrastructure is shared with businesses in the same\nindustry. Which of the following cloud models BEST addresses the company's need?",
+    "options": [
+      "Community",
+      "Private",
+      "Public",
+      "Hybrid"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The cloud model that BEST addresses the company’s need is the Community cloud model. A community cloud is a cloud infrastructure in which multiple\norganizations share resources and services based on common operational and regulatory requirements. The concept of a community cloud is akin to a community\ngarden, where different individuals grow produce on a single piece of shared land1."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A company would like to take advantage of the cost savings of cloud computing by only paying for the resources used. Which of the following will BEST address\nthis need?",
+    "options": [
+      "Shared resources",
+      "Rapid elasticity",
+      "Metered utilization",
+      "High availability"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Metered utilization is a cloud feature that allows cloud providers to charge customers based on their actual consumption of resources, such as CPU time, storage\nspace, bandwidth, or transactions.This enables customers to pay only for the resources they use, rather than a fixed or flat rate, which can reduce costs and\nincrease efficiency. Metered utilization can also provide more transparency and accountability for both cloud providers and customers, as they can track and\nmonitor their resource usage and billing. Reference: https://partners.comptia.org/docs/default-source/resources/a-core-1-content- guide (page 97)"
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "Which of the following handles touch-screen operation on a mobile device?",
+    "options": [
+      "Stylus",
+      "Liquid crystal display",
+      "Processor",
+      "Digitizer"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "A digitizer is a component that handles touch-screen operation on a mobile device. It is a layer of material that detects and converts the touch of a finger or a\nstylus into an electrical signal that can be processed by the device12. A digitizer works with a display screen to create a touch-screen interface that allows a user\nto interact with the device by touching pictures or words on the screen."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A user reports a repetitive clicking noise is coming from a personal laptop. A technician notes the laptop's inputs are severely delayed. Which of the following\nshould the technician replace to resolve the issue?",
+    "options": [
+      "The memory",
+      "The storage device",
+      "The integrated keyboard",
+      "The battery"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "A repetitive clicking noise coming from a laptop is usually a sign of a failing hard disk drive (HDD), which is a type of storage device that uses spinning platters and\nmoving heads to read and write data. A failing HDD can also cause severe delays in input and output operations, as well as data loss or corruption. The technician\nshould replace the HDD with a new one or upgrade it to a solid state drive (SSD), which is another type of storage device that uses flash memory and has no\nmoving parts. Reference: https://partners.comptia.org/docs/default-source/resources/a-core-series-combined- content-guide (page 24)\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)"
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A technician is working on a desktop PC and wants to verify its NIC is functional. Which of the following should the technician use?",
+    "options": [
+      "Cable tester",
+      "Loopback Plug",
+      "Toner probe",
+      "Network tap"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Reference: https://www.comptia.org/training/books/a-core-1-220-1101-study-guide (page 76)"
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A video game developer is requesting a new desktop computer with eight sticks of memory. The developer wants the desktop computer to take advantage of all\navailable memory bandwidth without sacrificing performance. Which of the following would be the BEST solution?",
+    "options": [
+      "Triple-channel with DDR5 ECC RAM",
+      "Quad-channel with DDR4 RAM",
+      "Quad-channel with DDR5 SODIMM",
+      "Dual-channel with DDR4 RAM"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Quad-channel memory architecture allows the CPU to access four memory modules simultaneously, increasing the memory bandwidth and performance. DDR4\nRAM is a type of memory that has higher speed and lower power consumption than DDR3. SODIMM is a smaller form factor of memory that is typically used in\nlaptops, not desktops. ECC RAM is a type of memory that can detect and correct errors, but it is more expensive and slower than non-ECC RAM. Triple-channel\nmemory architecture is less common and less efficient than quad-channel. References: https://www.comptia.org/certifications/a#examdetails\nhttps://www.comptia.org/blog/what-is- ddr4-ram https://www.comptia.org/blog/what-is-quad-channel-memory"
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A technician is troubleshooting an issue involving lines appearing down copied pages, but printed pages sent directly to the copier render as intended. Which of\nthe following is the MOST likely cause of this issue?",
+    "options": [
+      "Empty imager drum",
+      "Overheated system fuser",
+      "Scratched scanner glass",
+      "Third-party toner"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "If lines appear down copied pages but printed pages sent directly to copier render as intended, it could be due to scratched scanner glass which can cause lines\nor streaks on copied pages.\nIf there are lines appearing on copied pages, but not on printed pages sent directly to the copier, the issue is most likely caused by a scratch on the scanner glass.\nReferences: https://www.pacificoffice.com/how-to-fix-lines-on-copier/"
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A user who is facilitating a videoconference reports that the participants can be heard. However, when the user attempts to speak, none of the participants can\nhear the user. Which of the following is the FIRST step the technician should take?",
+    "options": [
+      "Restart the Videoconference.",
+      "Replace the laptop.",
+      "Check the audio inputs.",
+      "Try another microphone."
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "The technician should check that the audio inputs are configured correctly for the videoconference software and that they are not muted or disabled.The\ntechnician should also make sure that the microphone is plugged in properly and that it is not faulty or damaged.If possible, the technician should test the\nmicrophone on another device or use another microphone on the same device to isolate the problem. Reference: https://partners.comptia.org/docs/default-\nsource/resources/a-core-1-content-guide (page 11)"
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A user is unable to connect a mobile phone while in a car. However, a second mobile Device is able To connect in The same car, WHICH of the Following settings\nshould the user check on the first phone?",
+    "options": [
+      "Wi-Fi",
+      "Hotspot",
+      "Bluetooth",
+      "Location\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "To connect a mobile phone to a car, you need to pair them using Bluetooth, which is a wireless technology that allows secure local networks between devices1. If\none phone can connect to the car but another cannot, it means that the first phone has Bluetooth enabled and paired with the car, while the second phone does\nnot. Therefore, the user should check the Bluetooth settings on the second phone and make sure it is turned on and discoverable21."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A user reports a tablet restarts on its own every five to ten minutes. In addition, the tablet has intermittent issues with charging. The technician gives the user a\nnew power adapter and charging cable, and the technician also tries resetting the OS. but the issue persists. Which of the following is the MOST likely cause of the\nissue?",
+    "options": [
+      "Water damage",
+      "Incorrect OS version",
+      "Faulty battery",
+      "Damaged charging port"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "A faulty battery could cause a tablet to restart on its own and have intermittent issues with charging. Water damage could also cause these symptoms, but it is not\nthe most likely cause unless there is evidence of liquid exposure. Incorrect OS version could cause compatibility or performance issues, but not charging problems.\nDamaged charging port could prevent the tablet from charging, but not cause it to restart randomly."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "Which of the following cloud-computing concepts describes an application that is hosted on the internet but can be used and configured as needed internally per\norganization?",
+    "options": [
+      "Hybrid cloud",
+      "Public cloud",
+      "laaS",
+      "SaaS",
+      "PaaS"
+    ],
+    "correct": [
+      4
+    ],
+    "explanation": "Platform as a service (PaaS) is a cloud-computing concept that describes an application that is hosted on the internet but can be used and configured as needed\ninternally per organization. PaaS provides a platform for developing, testing, deploying, and managing applications without having to maintain the underlying\ninfrastructure or software. Hybrid cloud is a combination of public and private cloud services that share data and resources. Public cloud is a cloud computing\nmodel that provides services and resources to anyone over the internet. Infrastructure as a service (IaaS) is a cloud computing model that provides servers,\nstorage, networking, and software over the internet"
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A user's track pad has stopped working. Which of the following should the user do to resolve the track pad's functionality?",
+    "options": [
+      "Reinstall the mouse drivers",
+      "Use the Function key.",
+      "Calibrate the digitizer",
+      "Configure the mouse settings."
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "The correct answer is B. Use the Function key.\nThe explanation is that some laptops have a Function key (Fn) that can be used to toggle the track pad on or off. This can be useful if the user wants to use an\nexternal mouse instead of the track pad, or if the track pad is accidentally activated by palm movements. The user should look for a Fn key on their keyboard and a\ntrack pad icon on one of the other keys, such as F5 or F9, and press them together to enable or disable the track pad."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A virtual file server in the cloud is configured to automatically add compute resources during times of high load on the server. Which of the following describes this\ncloud feature?",
+    "options": [
+      "File synchronization",
+      "High availability",
+      "Rapid elasticity",
+      "Shared resources"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Rapid elasticity is a cloud feature that allows cloud services to scale up or down automatically according to demand or load on the server, without requiring\nmanual intervention or configuration changes by users or administrators.This enables cloud services to provide optimal performance and efficiency at all times, as\nwell as reducing costs by only using resources when needed. Reference: https://www.comptia.org/training/books/a-core-1-220-1101-study-guide (page 98)\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)"
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A technician is working to connect an RS-232 serial signature pad to a customer's ultralightweight laptop. Which of the following should the technician use to install\nthe device?",
+    "options": [
+      "Port replicator",
+      "Wi-Fi Direct",
+      "Hotspot",
+      "USB-C cable"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "A USB-C cable is the best option for installing an RS-232 serial signature pad to an ultralightweight laptop. USB-C is a universal connector that supports various\nprotocols and devices, including serial devices. A port replicator is a device that expands the connectivity options of a laptop by providing additional ports. Wi-Fi\nDirect is a wireless technology that allows devices to connect directly without a router or access point. Hotspot is a feature that allows a device to share its internet\nconnection with other devices via Wi-Fi, Bluetooth, or USB."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A laptop does not have any audio output from the built-in speakers. The Windows Device Manager shows a down arrow for the audio device. Which of the\nfollowing will correct this audio issue?",
+    "options": [
+      "Replacing the speakers",
+      "Increasing the volume",
+      "Enabling the audio device",
+      "Updating the driver"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Enabling the audio device is the correct action to correct an audio issue where a laptop does not have any audio output from the built-in speakers and Windows\nDevice Manager shows a down arrow for the audio device. A down arrow indicates that the audio device is disabled and needs to be enabled by right-clicking on it\nand selecting Enable device. Replacing the speakers, increasing the volume, or updating the driver are unlikely to solve the issue if the audio device is disabled."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "While on a VoIP call, one user is unable to understand the other because the audio is breaking up. Which of the following BEST describes what is occurring on the\ncall?",
+    "options": [
+      "High latency",
+      "External interference",
+      "No connectivity",
+      "Port flapping"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "High latency is what best describes what is occurring on a VoIP call when one user is unable to understand the other because the audio is breaking up. Latency is\nthe delay between sending and receiving data over a network, and high latency can cause poor quality or interruptions in VoIP calls. External interference, no\nconnectivity, or port flapping are not likely to cause audio breaking up, but rather complete loss of signal or connection."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "The motherboard on a user's company laptop was recently replaced Now the user is unable to log in using the fingerprint reader The fingerprint reader is working\nbut it does not recognize the user's fingerprint Which of the following should a technician perform FIRST to fix the issue?",
+    "options": [
+      "Restore the system to a previous recovery point",
+      "Reinstall the fingerprint software",
+      "Access the BIOS and clear the TPM",
+      "Update the drivers and the fingerprint software",
+      "Flash the newest BIOS firmware that is available"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "If a user is unable to log in using the fingerprint reader on a company laptop after the motherboard was replaced, it could be due to an issue with the fingerprint\nsoftware. The first step to fix the issue would be for the technician to reinstall the fingerprint software."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "An administrator chose a shared-tenant model for a cloud deployment. Which of the following is the MOST likely reason the administrator chose this model?",
+    "options": [
+      "Cost savings",
+      "Highly available",
+      "Dedicated hardware",
+      "Increased security\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The shared-tenant model for a cloud deployment, also known as a multi- tenant model, allows multiple customers to use the same resources and infrastructure of\nthe cloud service provider, with each customer's data and applications isolated from one another. This model is often chosen for cost savings, as resources are\nshared and users only pay for what they use. Therefore, the MOST likely reason that an administrator chose this model is A. Cost savings."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "DRAG DROP \nA natural disaster occurred, and the storage system for the development team is unrecoverable. The technician is preparing replacement storage arrays that\ninclude a hypervisor with the capacity to support several virtual machines. Two separate bays are available, and both should be utilized.\nRequirements for the primary array include the following:\n• No need to be scalable\n• Very fast on reads\n• Fault tolerance of one drive\n• Ability to function with only one drive\n• Easily recoverable data\n• High redundancy\n• Minimum number of drives\nRequirements for the secondary array include the following:\n• Fault tolerance of one drive\n• Total space of 600G3\n• Best write performance\n• Minimum number of drives Instructions:\nDrag and Drop the appropriate Hard Drives. Then Open each array to complete the configuration.",
+    "options": [
+      "Mastered",
+      "Not Mastered"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Primary Array:\n? Drag and drop two 120 GB SSD hard drives to the primary array bay.\n? Open the primary array and select RAID 1 as the RAID level. RAID 1 provides fault tolerance of one drive, ability to function with only one drive, easily\nrecoverable data, high redundancy, and very fast on reads. It also does not need to be scalable and uses the minimum number of drives (two) for RAID 1.\n? Confirm the configuration and close the primary array. Secondary Array:\n? Drag and drop two 300 GB SSD hard drives to the secondary array bay.\n? Open the secondary array and select RAID 0 as the RAID level. RAID 0 provides the best write performance and uses the minimum number of drives (two) for\nRAID 0. It also provides a total space of 600 GB (300 GB x 2), which meets the requirement.\n? Confirm the configuration and close the secondary array.\nYou have completed the configuration of the storage arrays."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A salesperson is using a weather application on a mobile device. The application appears to be draining the device's battery very quickly. Which of the following is\nthe BEST action for the salesperson to take in order to view weather forecasts while traveling?",
+    "options": [
+      "Enable the GPS service to ensure accurate location detection.",
+      "Update the PRL when getting to a new location.",
+      "Configure less location checks using cellular location services,",
+      "use the offices' Wi-Fi IP addresses as the geolocation mechanism."
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "The best action for the salesperson to take in order to view weather forecasts while traveling and minimize the battery drain on their mobile device is to configure\nfewer location checks using cellular location services. This can be done by adjusting the settings for the weather application to limit how often it checks for updates\nand uses location services. This will help to conserve the battery on the device and keep the application from consuming too much power.\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)"
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A technician is configuring a desktop computer, and the hard drive must be encrypted. Which of the following will the technician need to verify is enabled to\ncomplete this configuration?",
+    "options": [
+      "ATX",
+      "NIC",
+      "TPM",
+      "ARM"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "TPM stands for Trusted Platform Module, which is a hardware component that securely stores encryption keys and other sensitive data12. TPM can be used to\nenable hard drive encryption, which is a technology that encrypts the data stored on a hard drive using sophisticated mathematical functions34. Hard drive\nencryption protects the data from unauthorized access in case the hard drive is lost, stolen, or tampered with."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A software developer used client-side virtualization on a server to configure a web application. Although the application is working locally on the software\ndeveloper's PC, other users on the LAN are not able to access the application. Which of the following would allow other users to access the application?",
+    "options": [
+      "Bridge networking",
+      "Application virtualization",
+      "Virtual desktop",
+      "Site-to-site VPN"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Client-side virtualization is used to run an application or process on a separate virtual machine, isolated from the main operating system. To allow other users on\nthe LAN to access the application, the software developer should configure a bridge networking connection between the virtual machine and the LAN. This will\nallow the virtual machine to communicate with other computers on the network. Application virtualization, virtual desktop, and site-to-site VPN are not necessary\nsteps for allowing other users to access the application."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A technician is upgrading a computer OS from Windows 7 to Windows 10. During the OS installation, the system is not able to find the hard drive. Which of the\nfollowing can the technician do to MOST likely fix the issue?",
+    "options": [
+      "Change the partition to MBR",
+      "Load the HDD drivers using a flash drive.",
+      "Upgrade the RAM modules.",
+      "Replace the hard drive."
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Loading the hard disk drive (HDD) drivers using a flash drive is the most likely action that can fix the issue of a computer not being able to find the hard drive\nduring an OS installation from Windows 7 to Windows 10. The HDD may have a different interface or controller than what Windows 10 supports by default, such as\nSATA or RAID, which would require loading additional drivers during the installation process. The technician can use a flash drive to load the drivers from another\ndevice or source. Changing the partition to MBR, upgrading the RAM modules, or replacing the hard drive are not likely to fix the issue, as they are not related to\nthe HDD drivers"
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A technician is troubleshooting a laptop that is unable to browse the internet when connected to the company’s wireless network. The technician has verified\nnetwork connectivity is functional when using an Ethernet cable. Which of the following should the technician use to check if the laptop's wireless NIC is functional?",
+    "options": [
+      "Hotspot",
+      "Near-field communication",
+      "Ethernet tap",
+      "Spectrum analyzer"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "A hotspot is a wireless access point that provides internet access to devices that are connected to it. The technician can use a hotspot to check if the laptop's\nwireless NIC is functional by connecting the laptop to the hotspot and then trying to browse the internet. If the laptop is able to browse the internet, then the\nwireless NIC is functional. Near-field communication (NFC) is a wireless technology that allows two devices to communicate with each other when they are in close\nproximity. NFC is not typically used to check if a wireless NIC is functional.\nAn Ethernet tap is a device that is used to monitor network traffic. An Ethernet tap is not typically used to check if a wireless NIC is functional.\nA spectrum analyzer is a device that is used to measure the frequency spectrum of a signal. A spectrum analyzer is not typically used to check if a wireless NIC is\nfunctional. Therefore, the correct answer is A. Hotspot."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A technician is troubleshooting a classroom projector that shuts down after fifteen minutes of use. Which of the following should the technician do to resolve the\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)\nissue?",
+    "options": [
+      "Replace the video input cable.",
+      "Change the bulb.",
+      "Clean the air filter.",
+      "Swap the power cord."
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Cleaning the air filter is the best action to resolve the issue of a projector that shuts down after fifteen minutes of use. A dirty air filter can cause overheating and\ntrigger the projector’s thermal protection mechanism. Replacing the video input cable, changing the bulb, or swapping the power cord are unlikely to solve the\noverheating issue"
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A user's desktop computer slows down after a few minutes of use, and the fans alternate between silent and very loud. Which of the following is MOST likely\nfailing, therefore causing these symptoms?",
+    "options": [
+      "CPU fan",
+      "Memory",
+      "Power supply",
+      "Hard drive"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "A CPU fan is a component that cools down the CPU, which is the main processor of the computer. If the CPU fan is failing, it can cause the computer to slow\ndown and the fans to alternate between silent and very loud12. This is because the CPU fan cannot maintain a consistent speed and airflow to keep the CPU at a\nsafe temperature.\nWhen the CPU gets too hot, it throttles its performance to avoid overheating, which results in a slower computer. The other fans in the computer also try to\ncompensate for the lack of cooling from the CPU fan by spinning faster and louder2."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A technician is attempting to connect the wired LANs at two nearby buildings by installing a wireless point-to-point connection. Which of the following should the\ntechnician consider?",
+    "options": [
+      "NFC protocol data rate",
+      "RFID frequency range",
+      "Bluetooth version compatibility",
+      "Allowable limits for transmit power"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "When installing a wireless point-to-point connection between two buildings, the technician should consider the allowable limits for transmit power, which vary\ndepending on the country or region. Exceeding these limits could interfere with other wireless devices or violate regulations. NFC protocol data rate, RFID\nfrequency range, and Bluetooth version compatibility are not relevant for a wireless point-to-point connection."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A technician is troubleshooting connectivity issues and needs to promiscuously route a copy of traffic to a separate machine for analysis. Which of the following\nphysical tools v/ould BEST accomplish this task?",
+    "options": [
+      "Toner probe",
+      "Wi-Fi analyzer",
+      "Network tap",
+      "Loopbackplug"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "A network tap is a physical device that allows promiscuous monitoring of network traffic by creating a copy of the data packets for analysis. A toner probe is used\nto trace and identify cables. A Wi-Fi analyzer is used to measure wireless signal strength and interference. A loopback plug is used to test network ports or cables\nby sending and receiving signals from the same device."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A technician verifies the slow boot time and slow OS performance of a tower server with a RAID 5 on a PCIe RAID card that does not support hot swapping. Which\nof the following steps should the technician take NEXT to verify RAID health?",
+    "options": [
+      "Verify S.M.A.R.",
+      "operation on the RAID card.",
+      "Replace the failed drive while users are connected",
+      "Physically clean the HDDs and connectors.",
+      "Shut down the server and check the RAID controller's status."
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Since the RAID card does not support hot swapping, the technician needs to shut down the server and check the RAID controller’s status to verify RAID health.\nS.M.A.R.T. is a feature of hard drives, not RAID cards. Replacing the failed drive while users are connected could cause data loss or corruption. Physically\ncleaning the HDDs and connectors is unlikely to solve the slow boot time and performance issues."
+  },
+  {
+    "topic": 3,
+    "type": "single",
+    "question": "A user's laptop is running out of disk space and requires a new hard drive. The user wants to replace the existing hard drive with the fastest possible I TB HDD. A\ntechnician assesses the user's hardware and determines the connections that are available. Which of the following drive types should the technician recommend\nas the BEST choice?",
+    "options": [
+      "1TB NVMe SSD",
+      "1TB flash drive",
+      "1TB SATA SSD",
+      "1TB SAS"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The best choice for the user's laptop is a 1TB NVMe SSD. NVMe (Non- Volatile Memory Express) is a high-performance storage protocol designed specifically for\nsolid-state drives (SSDs). It is significantly faster than SATA SSDs and SAS hard drives, making it ideal for users who need fast storage for their laptop. NVMe\nSSDs also have lower latency and higher bandwidth than traditional hard drives, making them well-suited for data-intensive tasks such as video editing, gaming,\nand running multiple applications simultaneously. Additionally, NVMe offers more reliable data reliability than traditional hard drives, and is less susceptible to\nperformance degradation over time."
+  },
+  {
+    "topic": 4,
+    "type": "single",
+    "question": "A user dropped a laptop while it was turned on. The hard drive now makes a clicking sound, and the laptop will not start up. Which of the following most likely\nexplains this\nsituation?",
+    "options": [
+      "The hard drive bracket screws are lose.",
+      "The hard drive jumpers need to be reseated.",
+      "The hard drive is damaged.",
+      "The SATA cable is lose."
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "A clicking hard drive is usually a sign of a mechanical failure, where the read/write heads are not functioning properly or the platters are scratched or broken. This\ncan be caused by physical shock, such as dropping the laptop while it was turned on. A damaged hard drive may not be able to boot up the operating system or\naccess the data stored on it. This is a serious problem that requires data recovery and hard drive replacement.\nReferences\nIdentifying Hard Drive Sounds and Determining What They Mean Hard Drive Clicking? See How to Fix Click Hard Drive On Your Own Chapter 3: Hardware"
+  }
+]

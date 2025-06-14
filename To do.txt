@@ -1,0 +1,2 @@
+fix text like userâ€™s.
+Exam simulated do not apear if is multiple choice.

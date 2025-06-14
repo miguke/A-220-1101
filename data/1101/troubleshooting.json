@@ -1,6 +1,20 @@
 [
   {
-    "id": 1,
+    "type": "single",
+    "question": "A user dropped a laptop while it was turned on. The hard drive now makes a clicking sound, and the laptop will not start up. Which of the following most likely\nexplains this\nsituation?",
+    "options": [
+      "The hard drive bracket screws are lose.",
+      "The hard drive jumpers need to be reseated.",
+      "The hard drive is damaged.",
+      "The SATA cable is lose."
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "A clicking hard drive is usually a sign of a mechanical failure, where the read/write heads are not functioning properly or the platters are scratched or broken. This\ncan be caused by physical shock, such as dropping the laptop while it was turned on. A damaged hard drive may not be able to boot up the operating system or\naccess the data stored on it. This is a serious problem that requires data recovery and hard drive replacement.\nReferences\nIdentifying Hard Drive Sounds and Determining What They Mean Hard Drive Clicking? See How to Fix Click Hard Drive On Your Own Chapter 3: Hardware",
+    "id": 1
+  },
+  {
     "type": "single",
     "question": "Which tool is commonly used to test network connectivity?",
     "options": [
@@ -12,10 +26,10 @@
     "correct": [
       0
     ],
-    "explanation": "The ping command is used to test network connectivity between devices."
+    "explanation": "The ping command is used to test network connectivity between devices.",
+    "id": 2
   },
   {
-    "id": 2,
     "type": "multiple",
     "question": "Which of the following are common hardware troubleshooting steps?",
     "options": [
@@ -31,10 +45,10 @@
       2,
       3
     ],
-    "explanation": "The first four options are common hardware troubleshooting steps, while reinstalling OS is typically a last resort."
+    "explanation": "The first four options are common hardware troubleshooting steps, while reinstalling OS is typically a last resort.",
+    "id": 3
   },
   {
-    "id": 3,
     "type": "single",
     "question": "A user contacts the help desk regarding a failing thumbprint scanner. The user states the scanner was functioning correctly yesterday. Which of the following troubleshooting steps should be performed FIRST after the ticket has been filed?",
     "options": [
@@ -46,10 +60,10 @@
     "correct": [
       0
     ],
-    "explanation": "The first step in any troubleshooting process is to inquire about recent changes. This may reveal if a software update or configuration change caused the scanner failure."
+    "explanation": "The first step in any troubleshooting process is to inquire about recent changes. This may reveal if a software update or configuration change caused the scanner failure.",
+    "id": 4
   },
   {
-    "id": 4,
     "type": "single",
     "question": "Several users who share a multifunction printer in an office have reported unintended, thin, vertical lines that cover the entire height of every page printed from the printer. Which of the following steps should a technician complete in order to MOST likely resolve this issue?",
     "options": [
@@ -61,10 +75,10 @@
     "correct": [
       3
     ],
-    "explanation": "Thin, vertical lines typically indicate a dirty drum or toner roller. Running the drum-cleaning procedure is the most likely way to eliminate those lines."
+    "explanation": "Thin, vertical lines typically indicate a dirty drum or toner roller. Running the drum-cleaning procedure is the most likely way to eliminate those lines.",
+    "id": 5
   },
   {
-    "id": 5,
     "type": "single",
     "question": "An office manager reports that a printer is experiencing performance issues. Printouts are smudging when they are handled, and recently, whenever the manager tries to print oversized documents, the paper jams before anything is printed on it. In the Drag & Drop simulation, which option would be flagged as 'Mastered'?",
     "options": [
@@ -74,10 +88,10 @@
     "correct": [
       0
     ],
-    "explanation": "The simulation answer indicates that the manager has 'Mastered' the configured steps, meaning the procedure was performed correctly the first time."
+    "explanation": "The simulation answer indicates that the manager has 'Mastered' the configured steps, meaning the procedure was performed correctly the first time.",
+    "id": 6
   },
   {
-    "id": 6,
     "type": "multiple",
     "question": "A user reboots a machine. On rebooting, the user hears one beep, and then an error message is displayed. Which of the following are MOST likely causing this issue? (Select TWO)",
     "options": [
@@ -92,10 +106,10 @@
       0,
       3
     ],
-    "explanation": "One beep indicates that memory (RAM) passed POST but there is a subsequent error\u00e2\u20ac\u201doften due to a boot order issue. A misconfigured boot order can also trigger a one-beep error."
+    "explanation": "One beep indicates that memory (RAM) passed POST but there is a subsequent error\u00e2\u20ac\u201doften due to a boot order issue. A misconfigured boot order can also trigger a one-beep error.",
+    "id": 7
   },
   {
-    "id": 7,
     "type": "multiple",
     "question": "A technician receives several error alerts on a server after an unexpected reboot. A message states that one or more disks are in a degraded state. When the technician advances to the next error message, it indicates the OS is missing. Which of the following are the MOST likely causes of these errors? (Choose TWO)",
     "options": [
@@ -111,10 +125,10 @@
       1,
       2
     ],
-    "explanation": "A RAID failure can leave disks in a degraded state, and a missing or misconfigured bootable device will result in an OS-not-found error."
+    "explanation": "A RAID failure can leave disks in a degraded state, and a missing or misconfigured bootable device will result in an OS-not-found error.",
+    "id": 8
   },
   {
-    "id": 8,
     "type": "multiple",
     "question": "A user reports that printed receipts have black smudges over the entire image. The text is still present but is very dark and sometimes illegible. Which of the following are the MOST likely cause and solution for the printer issue? (Select TWO)",
     "options": [
@@ -127,10 +141,10 @@
       0,
       2
     ],
-    "explanation": "A jammed or misaligned ribbon can smear toner/ink, and using the wrong paper type (e.g., non-thermal paper in a thermal printer) can cause dark smudges."
+    "explanation": "A jammed or misaligned ribbon can smear toner/ink, and using the wrong paper type (e.g., non-thermal paper in a thermal printer) can cause dark smudges.",
+    "id": 9
   },
   {
-    "id": 9,
     "type": "single",
     "question": "A user visits the desk to report that a smartphone takes more than a day to fully charge. The user has already tested multiple wall outlets and swapped the charging cable, but the results are the same. Which of the following should the technician do FIRST?",
     "options": [
@@ -142,10 +156,10 @@
     "correct": [
       0
     ],
-    "explanation": "Verifying the charger's power rating is the first step, as an underpowered charger can cause extremely slow charging."
+    "explanation": "Verifying the charger's power rating is the first step, as an underpowered charger can cause extremely slow charging.",
+    "id": 10
   },
   {
-    "id": 10,
     "type": "single",
     "question": "Which of the following is the MOST likely cause of a single beep on startup and no video output on a desktop?",
     "options": [
@@ -157,10 +171,10 @@
     "correct": [
       1
     ],
-    "explanation": "A single beep in many BIOS implementations indicates a memory (RAM) error\u00e2\u20ac\u201dtypically meaning the RAM module is bad or not seated properly."
+    "explanation": "A single beep in many BIOS implementations indicates a memory (RAM) error\u00e2\u20ac\u201dtypically meaning the RAM module is bad or not seated properly.",
+    "id": 11
   },
   {
-    "id": 11,
     "type": "single",
     "question": "A user\u00e2\u20ac\u2122s desktop will only boot when two RAM modules are installed in slots 1 and 3, but will not power on if installed in 2 and 4. Which of the following is the MOST likely cause?",
     "options": [
@@ -172,10 +186,10 @@
     "correct": [
       1
     ],
-    "explanation": "RAM modules must be seated in the correct slot pairs (DIMM1 & DIMM3 or DIMM2 & DIMM4) depending on the motherboard\u00e2\u20ac\u2122s channel configuration."
+    "explanation": "RAM modules must be seated in the correct slot pairs (DIMM1 & DIMM3 or DIMM2 & DIMM4) depending on the motherboard\u00e2\u20ac\u2122s channel configuration.",
+    "id": 12
   },
   {
-    "id": 12,
     "type": "single",
     "question": "Which of the following disk types provides the fastest sequential read and write performance?",
     "options": [
@@ -187,10 +201,10 @@
     "correct": [
       1
     ],
-    "explanation": "NVMe SSDs have significantly higher sequential read/write speeds than SATA SSDs or HDDs."
+    "explanation": "NVMe SSDs have significantly higher sequential read/write speeds than SATA SSDs or HDDs.",
+    "id": 13
   },
   {
-    "id": 13,
     "type": "single",
     "question": "A desktop system posts with two consecutive beeps, indicating a memory error. Which of the following should the technician perform NEXT?",
     "options": [
@@ -202,10 +216,10 @@
     "correct": [
       0
     ],
-    "explanation": "Two beeps typically indicate a memory problem. Reseating the RAM modules can resolve loose or improperly seated memory."
+    "explanation": "Two beeps typically indicate a memory problem. Reseating the RAM modules can resolve loose or improperly seated memory.",
+    "id": 14
   },
   {
-    "id": 14,
     "type": "single",
     "question": "A technician is troubleshooting a desktop that powers on but has no display output and no POST beeps. Which of the following components should be checked FIRST?",
     "options": [
@@ -217,10 +231,10 @@
     "correct": [
       3
     ],
-    "explanation": "If there are no POST beeps or display output, verifying the motherboard\u00e2\u20ac\u2122s power connectors are fully seated is the first step."
+    "explanation": "If there are no POST beeps or display output, verifying the motherboard\u00e2\u20ac\u2122s power connectors are fully seated is the first step.",
+    "id": 15
   },
   {
-    "id": 15,
     "type": "single",
     "question": "A desktop powers off unexpectedly after running hardware diagnostics. Which of the following is the MOST likely cause?",
     "options": [
@@ -232,10 +246,10 @@
     "correct": [
       0
     ],
-    "explanation": "If a system powers off under load (during diagnostics), the CPU is likely overheating and triggering a shutdown to protect itself."
+    "explanation": "If a system powers off under load (during diagnostics), the CPU is likely overheating and triggering a shutdown to protect itself.",
+    "id": 16
   },
   {
-    "id": 16,
     "type": "single",
     "question": "A desktop displays a message 'CPU fan error' at boot, and then powers off. Which of the following is the MOST likely cause?",
     "options": [
@@ -247,10 +261,10 @@
     "correct": [
       0
     ],
-    "explanation": "The 'CPU fan error' indicates the BIOS has detected that the CPU fan is not spinning, which causes the system to shut down to prevent overheating."
+    "explanation": "The 'CPU fan error' indicates the BIOS has detected that the CPU fan is not spinning, which causes the system to shut down to prevent overheating.",
+    "id": 17
   },
   {
-    "id": 17,
     "type": "single",
     "question": "A technician is troubleshooting a desktop that posts with a single short beep and then powers off. Which of the following is the MOST likely cause?",
     "options": [
@@ -262,10 +276,10 @@
     "correct": [
       1
     ],
-    "explanation": "A single short beep followed by a shutdown often indicates a RAM problem. The system POSTs but then fails due to memory errors."
+    "explanation": "A single short beep followed by a shutdown often indicates a RAM problem. The system POSTs but then fails due to memory errors.",
+    "id": 18
   },
   {
-    "id": 18,
     "type": "single",
     "question": "A user reports their printer is not printing. What is the first thing to check?",
     "options": [
@@ -277,10 +291,10 @@
     "correct": [
       2
     ],
-    "explanation": "Always check basic power and cable connections first when a printer is not responding."
+    "explanation": "Always check basic power and cable connections first when a printer is not responding.",
+    "id": 19
   },
   {
-    "id": 19,
     "type": "single",
     "question": "A computer is making a continuous beeping sound on startup. What does this usually indicate?",
     "options": [
@@ -292,10 +306,10 @@
     "correct": [
       1
     ],
-    "explanation": "Continuous beeping or a specific beep code on startup often indicates a problem with RAM modules (e.g., not seated correctly or faulty)."
+    "explanation": "Continuous beeping or a specific beep code on startup often indicates a problem with RAM modules (e.g., not seated correctly or faulty).",
+    "id": 20
   },
   {
-    "id": 20,
     "type": "single",
     "question": "What is the typical voltage for a CMOS battery?",
     "options": [
@@ -307,10 +321,10 @@
     "correct": [
       1
     ],
-    "explanation": "CMOS batteries are typically 3-volt lithium coin cells."
+    "explanation": "CMOS batteries are typically 3-volt lithium coin cells.",
+    "id": 21
   },
   {
-    "id": 21,
     "type": "single",
     "question": "Which of the following is a common safety procedure when working inside a computer case?",
     "options": [
@@ -322,12 +336,12 @@
     "correct": [
       1
     ],
-    "explanation": "Wearing an anti-static wrist strap helps prevent electrostatic discharge (ESD) which can damage sensitive components."
+    "explanation": "Wearing an anti-static wrist strap helps prevent electrostatic discharge (ESD) which can damage sensitive components.",
+    "id": 22
   },
   {
-    "id": 22,
     "type": "single",
-    "question": "A technician is troubleshooting a laptop that is unable to browse the internet when connected to the company’s wireless network. The technician has verified network connectivity is functional when using an Ethernet cable. Which of the following should the technician use to check if the laptop's wireless NIC is functional?",
+    "question": "A technician is troubleshooting a laptop that is unable to browse the internet when connected to the company\u2019s wireless network. The technician has verified network connectivity is functional when using an Ethernet cable. Which of the following should the technician use to check if the laptop's wireless NIC is functional?",
     "options": [
       "Hotspot",
       "Near-field communication",
@@ -337,10 +351,10 @@
     "correct": [
       0
     ],
-    "explanation": "A hotspot can confirm if the wireless NIC is functional by testing internet access independently."
+    "explanation": "A hotspot can confirm if the wireless NIC is functional by testing internet access independently.",
+    "id": 23
   },
   {
-    "id": 23,
     "type": "single",
     "question": "A technician is troubleshooting a classroom projector that shuts down after fifteen minutes of use. Which of the following should the technician do to resolve the issue?",
     "options": [
@@ -352,12 +366,12 @@
     "correct": [
       2
     ],
-    "explanation": "Overheating is likely due to a dirty air filter. Cleaning it resolves the issue."
+    "explanation": "Overheating is likely due to a dirty air filter. Cleaning it resolves the issue.",
+    "id": 24
   },
   {
-    "id": 24,
     "type": "single",
-    "question": "A user’s desktop computer slows down after a few minutes of use, and the fans alternate between silent and very loud. Which of the following is MOST likely failing, therefore causing these symptoms?",
+    "question": "A user\u2019s desktop computer slows down after a few minutes of use, and the fans alternate between silent and very loud. Which of the following is MOST likely failing, therefore causing these symptoms?",
     "options": [
       "CPU fan",
       "Memory",
@@ -367,10 +381,10 @@
     "correct": [
       0
     ],
-    "explanation": "A failing CPU fan leads to thermal throttling and erratic fan behavior."
+    "explanation": "A failing CPU fan leads to thermal throttling and erratic fan behavior.",
+    "id": 25
   },
   {
-    "id": 25,
     "type": "single",
     "question": "A technician is attempting to connect the wired LANs at two nearby buildings by installing a wireless point-to-point connection. Which of the following should the technician consider?",
     "options": [
@@ -382,10 +396,10 @@
     "correct": [
       3
     ],
-    "explanation": "Legal limits on transmission power are crucial in wireless point-to-point setups."
+    "explanation": "Legal limits on transmission power are crucial in wireless point-to-point setups.",
+    "id": 26
   },
   {
-    "id": 26,
     "type": "single",
     "question": "A technician is troubleshooting connectivity issues and needs to promiscuously route a copy of traffic to a separate machine for analysis. Which of the following physical tools would BEST accomplish this task?",
     "options": [
@@ -397,10 +411,10 @@
     "correct": [
       2
     ],
-    "explanation": "A network tap duplicates traffic for external analysis."
+    "explanation": "A network tap duplicates traffic for external analysis.",
+    "id": 27
   },
   {
-    "id": 27,
     "type": "single",
     "question": "A technician verifies the slow boot time and slow OS performance of a tower server with a RAID 5 on a PCIe RAID card that does not support hot swapping. Which of the following steps should the technician take NEXT to verify RAID health?",
     "options": [
@@ -412,6 +426,114 @@
     "correct": [
       3
     ],
-    "explanation": "Since hot swapping is not supported, shut down is needed to inspect RAID."
+    "explanation": "Since hot swapping is not supported, shut down is needed to inspect RAID.",
+    "id": 28
+  },
+  {
+    "type": "single",
+    "question": "Which of the following statements best describes the purpose of thermal throttling on a CPU?",
+    "options": [
+      "Increase CPU clock speed under load",
+      "Reduce CPU voltage to prevent spikes",
+      "Lower CPU performance to reduce temperature",
+      "Disable CPU cores no longer in use"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Thermal throttling reduces the CPU\u00e2\u20ac\u2122s clock frequency when temperatures rise too high",
+    "id": 29
+  },
+  {
+    "type": "single",
+    "question": "A desktop is equipped with a single 24-pin ATX power connector to the motherboard. The technician is installing a high-performance CPU that requires additional power. Which connector should be added next?",
+    "options": [
+      "4-pin Molex",
+      "4-pin ATX12V",
+      "6-pin PCIe",
+      "8-pin EPS12V"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "High-performance CPUs often require additional 12V power provided by an 8-pin EPS12V connector.",
+    "id": 30
+  },
+  {
+    "type": "single",
+    "question": "Which of the following cooling solutions is LEAST effective for removing heat from a high-end GPU in a compact HTPC case?",
+    "options": [
+      "Blower-style cooler",
+      "Dual-fan air cooler",
+      "120 mm radiator liquid cooler",
+      "Passive heat sink"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Passive heat sinks rely on passive airflow and are not sufficient to cool high-end GPUs in compact enclosures.",
+    "id": 31
+  },
+  {
+    "type": "multiple",
+    "question": "Which of the following are types of RAM?",
+    "options": [
+      "DDR4",
+      "DDR5",
+      "SATA",
+      "NVMe",
+      "SSD"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explanation": "DDR4 and DDR5 are types of RAM, while SATA, NVMe, and SSD are storage technologies.",
+    "id": 32
+  },
+  {
+    "type": "single",
+    "question": "Several users who share a multifunction printer in an office have reported unintended, thin, vertical lines that cover the entire height of every page printed from the\nprinter. Which of the following steps should a technician complete in order to MOST likely resolve this issue?",
+    "options": [
+      "Replace the printer paper with a new ream.",
+      "Clear the print spooler on each computer.",
+      "Reinstall the printer driver on each computer",
+      "Perform the drum-cleaning procedure."
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Thin, vertical lines on every printed page are usually caused by a dirty drum or toner cartridge. Performing the drum-cleaning procedure will likely resolve the\nissue. References: CompTIA A+ Certification Exam Guide, Ninth Edition, Chapter 18",
+    "id": 33
+  },
+  {
+    "type": "single",
+    "question": "A user submits a help desk ticket regarding a smartphone that will no longer accept its charging cable. The assigned technician notices the phone does not have a\nprotective case, and the user constantly transport the phone in a pocket. The technician attempts to use a secondary charger, but the cable falls out of the phone.\nWhich of the following is the MOST likely cause of the issue?",
+    "options": [
+      "The phone requires a firmware update to address charging issues.",
+      "The charge port contains foreign objects, such as lint.",
+      "The phone\u2019s battery has swelled, preventing the utilization of the charge port.",
+      "The phone has experienced water damage, thus the battery is not charring."
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "The symptoms suggest that the charging cable falls out of the phone, indicating that the charge port may contain foreign objects such as lint, which can interfere\nwith the connection between the charging cable and the phone.",
+    "id": 34
+  },
+  {
+    "type": "single",
+    "question": "Which of the following network devices is used to separate broadcast domains?",
+    "options": [
+      "Switch",
+      "Wireless access point",
+      "Router",
+      "Hub"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "A router (option C) is a network device that is used to separate broadcast domains. A broadcast domain is a logical division of a computer network in which all\nnodes can reach each other by broadcast at the data link layer. Routers operate at the network layer of the OSI model and use routing tables to determine the best\npath for forwarding packets between different networks.\nBy separating broadcast domains, routers can help to reduce network congestion and improve performance. When a router receives a broadcast packet on one of\nits interfaces, it does not forward the packet to any other interfaces. This means that only devices within the same broadcast domain as the sender will receive the\nbroadcast packet.",
+    "id": 35
   }
 ]
