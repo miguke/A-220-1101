@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CompTIA A+ 220-1101 Study</title>
+    <link rel="stylesheet" href="../css/quiz.css">
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Start Screen -->
+        <div id="startScreen" class="screen active">
+            <div class="header">
+                <h1>CompTIA A+ 220-1101</h1>
+                <p>Selecione os tópicos para estudar:</p>
+            </div>
+            <div class="menu">
+                <div class="topic-list" id="topicList">
+                    <!-- Topics will be populated by JavaScript -->
+                </div>
+                <div class="actions">
+                    <div class="quiz-mode-selector">
+                        <button id="selectAllBtn" class="btn btn-secondary">Selecionar Tudo</button>
+                        <button id="startBtn" class="btn btn-primary">Iniciar Quiz</button>
+                    </div>
+                    <div class="real-exam-container">
+                        <button id="realExamBtn" class="btn btn-primary btn-real-exam">Simular Exame Real (90 questões)</button>
+                        <p class="exam-info">O exame simulado inclui questões de todos os tópicos, seguindo a distribuição oficial do exame CompTIA A+ 220-1101.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Quiz Screen -->
+        <div id="quizScreen" class="screen quiz-container">
+            <div class="quiz-header">
+                <div class="quiz-progress">
+                    <span id="currentQ">1</span> / <span id="totalQ">10</span>
+                </div>
+                <div id="time-remaining" class="timer" style="display: none;">
+                    <span>⏱️</span> <span id="timer-display">90:00</span>
+                </div>
+                <button id="menuBtn" class="btn btn-outline">Menu</button>
+            </div>
+            
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+            
+            <div class="question-container">
+                <div class="question-text" id="qText"></div>
+                <ul class="options" id="optionsList"></ul>
+                
+                <div class="result-message" id="resultMsg"></div>
+                
+                <div class="explanation" id="explanation">
+                    <h3>Explicação:</h3>
+                    <p id="explText"></p>
+                </div>
+                
+                <div class="quiz-navigation">
+                    <button id="prevBtn" class="btn btn-outline" disabled>Anterior</button>
+                    <div>
+                        <span id="correctCount">0</span> corretas
+                        <span style="margin: 0 10px;">•</span>
+                        <span id="accuracy">0%</span> de precisão
+                    </div>
+                    <button id="submitBtn" class="btn btn-primary">Submeter</button>
+                    <button id="nextBtn" class="btn btn-primary" style="display: none;">Próxima</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Loading Screen -->
+        <div id="loadingScreen" class="screen" style="display: none; text-align: center; padding: 50px 20px;">
+            <h2>Carregando perguntas...</h2>
+            <p>Por favor, aguarde enquanto preparamos seu questionário.</p>
+            <div class="loading-spinner">
+                <div class="spinner"></div>
+            </div>
+        </div>
+        
+        <!-- Result Screen -->
+        <div id="resultScreen" class="screen" style="display: none; text-align: center; padding: 30px 20px;">
+            <h2>Resultado do Questionário</h2>
+            <div class="result-summary">
+                <div class="score-circle">
+                    <span id="score">0</span>%
+                </div>
+                <p class="result-text">Você acertou <span id="correctAnswers">0</span> de <span id="totalQuestions">0</span> perguntas</p>
+                <p class="result-percentage"><span id="percentage">0</span>% de acerto</p>
+            </div>
+            <div class="result-actions">
+                <button id="reviewBtn" class="btn btn-outline">Revisar Respostas</button>
+                <button id="restartBtn" class="btn btn-primary">Fazer Novamente</button>
+                <button id="backToMenuBtn" class="btn btn-secondary">Voltar ao Menu</button>
+            </div>
+        </div>
+    </div>
+
+    <script type="module" src="../js/quiz-app-fixed-v3.js?v=1.0.2"></script>
+    <style>
+        .actions {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .quiz-mode-selector {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .real-exam-container {
+            text-align: center;
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 1px solid #e0e0e0;
+        }
+        .btn-real-exam {
+            background-color: #4CAF50;
+            font-weight: bold;
+            font-size: 1.1em;
+            padding: 12px 24px;
+        }
+        .exam-info {
+            margin-top: 10px;
+            font-size: 0.9em;
+            color: #666;
+            max-width: 500px;
+            margin-left: auto;
+            margin-right: auto;
+            line-height: 1.4;
+        }
+        
+        .error-container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #ffebee;
+            border: 1px solid #ef9a9a;
+            border-radius: 4px;
+            color: #c62828;
+        }
+        .error-container h1 {
+            color: #c62828;
+        }
+    </style>
+</body>
+</html>

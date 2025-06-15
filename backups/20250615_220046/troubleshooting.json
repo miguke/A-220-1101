@@ -1,0 +1,800 @@
+[
+  {
+    "type": "single",
+    "question": "A user dropped a laptop while it was turned on. The hard drive now makes a clicking sound, and the laptop will not start up. Which of the following most likely\nexplains this\nsituation?",
+    "options": [
+      "The hard drive bracket screws are lose.",
+      "The hard drive jumpers need to be reseated.",
+      "The hard drive is damaged.",
+      "The SATA cable is lose."
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "A clicking hard drive is usually a sign of a mechanical failure, where the read/write heads are not functioning properly or the platters are scratched or broken. This\ncan be caused by physical shock, such as dropping the laptop while it was turned on. A damaged hard drive may not be able to boot up the operating system or\naccess the data stored on it. This is a serious problem that requires data recovery and hard drive replacement.\nReferences\nIdentifying Hard Drive Sounds and Determining What They Mean Hard Drive Clicking? See How to Fix Click Hard Drive On Your Own Chapter 3: Hardware",
+    "id": 1
+  },
+  {
+    "type": "single",
+    "question": "Which tool is commonly used to test network connectivity?",
+    "options": [
+      "ping",
+      "traceroute",
+      "nslookup",
+      "ipconfig"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The ping command is used to test network connectivity between devices.",
+    "id": 2
+  },
+  {
+    "type": "multiple",
+    "question": "Which of the following are common hardware troubleshooting steps?",
+    "options": [
+      "Check power connections",
+      "Verify cable integrity",
+      "Test with known good components",
+      "Update firmware",
+      "Reinstall OS"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "The first four options are common hardware troubleshooting steps, while reinstalling OS is typically a last resort.",
+    "id": 3
+  },
+  {
+    "type": "single",
+    "question": "A user contacts the help desk regarding a failing thumbprint scanner. The user states the scanner was functioning correctly yesterday. Which of the following troubleshooting steps should be performed FIRST after the ticket has been filed?",
+    "options": [
+      "Inquire about possible changes",
+      "File a damage report",
+      "Requisition a new scanner",
+      "Attempt to clean the scanner"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The first step in any troubleshooting process is to inquire about recent changes. This may reveal if a software update or configuration change caused the scanner failure.",
+    "id": 4
+  },
+  {
+    "type": "single",
+    "question": "Several users who share a multifunction printer in an office have reported unintended, thin, vertical lines that cover the entire height of every page printed from the printer. Which of the following steps should a technician complete in order to MOST likely resolve this issue?",
+    "options": [
+      "Replace the printer paper with a new ream",
+      "Clear the print spooler on each computer",
+      "Reinstall the printer driver on each computer",
+      "Perform the drum-cleaning procedure"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Thin, vertical lines typically indicate a dirty drum or toner roller. Running the drum-cleaning procedure is the most likely way to eliminate those lines.",
+    "id": 5
+  },
+  {
+    "type": "single",
+    "question": "An office manager reports that a printer is experiencing performance issues. Printouts are smudging when they are handled, and recently, whenever the manager tries to print oversized documents, the paper jams before anything is printed on it. In the Drag & Drop simulation, which option would be flagged as 'Mastered'?",
+    "options": [
+      "Mastered",
+      "Not Mastered"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The simulation answer indicates that the manager has 'Mastered' the configured steps, meaning the procedure was performed correctly the first time.",
+    "id": 6
+  },
+  {
+    "type": "multiple",
+    "question": "A user reboots a machine. On rebooting, the user hears one beep, and then an error message is displayed. Which of the following are MOST likely causing this issue? (Select TWO)",
+    "options": [
+      "RAM module",
+      "Graphics card",
+      "CPU",
+      "Boot order",
+      "USB flash drive",
+      "Power supply"
+    ],
+    "correct": [
+      0,
+      3
+    ],
+    "explanation": "One beep indicates that memory (RAM) passed POST but there is a subsequent error\u00e2\u20ac\u201doften due to a boot order issue. A misconfigured boot order can also trigger a one-beep error.",
+    "id": 7
+  },
+  {
+    "type": "multiple",
+    "question": "A technician receives several error alerts on a server after an unexpected reboot. A message states that one or more disks are in a degraded state. When the technician advances to the next error message, it indicates the OS is missing. Which of the following are the MOST likely causes of these errors? (Choose TWO)",
+    "options": [
+      "Missing drives in the OS",
+      "RAID failure",
+      "Bootable device not found",
+      "Data loss",
+      "Controller failure",
+      "CMOS corruption",
+      "TPM malfunction"
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explanation": "A RAID failure can leave disks in a degraded state, and a missing or misconfigured bootable device will result in an OS-not-found error.",
+    "id": 8
+  },
+  {
+    "type": "multiple",
+    "question": "A user reports that printed receipts have black smudges over the entire image. The text is still present but is very dark and sometimes illegible. Which of the following are the MOST likely cause and solution for the printer issue? (Select TWO)",
+    "options": [
+      "The ribbon is jammed and is rubbing on the paper \u00e2\u20ac\u201c Clear the bad ribbon and feed it through properly.",
+      "The printhead is too hot \u00e2\u20ac\u201c Adjust the temperature down and retry printing.",
+      "The printer is loaded with the wrong type of paper \u00e2\u20ac\u201c Replace the receipt paper with the correct thermal-receipt paper.",
+      "The blue ink cartridge was loaded with black ink \u00e2\u20ac\u201c Put in the correct ink and clean the printhead."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "A jammed or misaligned ribbon can smear toner/ink, and using the wrong paper type (e.g., non-thermal paper in a thermal printer) can cause dark smudges.",
+    "id": 9
+  },
+  {
+    "type": "single",
+    "question": "A user visits the desk to report that a smartphone takes more than a day to fully charge. The user has already tested multiple wall outlets and swapped the charging cable, but the results are the same. Which of the following should the technician do FIRST?",
+    "options": [
+      "Verify the power rating of the charger",
+      "Ensure all unnecessary connectivity features are disabled",
+      "Check that all missing smartphone OS updates are applied",
+      "Complete a factory reset of the phone"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Verifying the charger's power rating is the first step, as an underpowered charger can cause extremely slow charging.",
+    "id": 10
+  },
+  {
+    "type": "single",
+    "question": "Which of the following is the MOST likely cause of a single beep on startup and no video output on a desktop?",
+    "options": [
+      "Bad CPU",
+      "Bad RAM module",
+      "Bad GPU",
+      "Missing OS"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "A single beep in many BIOS implementations indicates a memory (RAM) error\u00e2\u20ac\u201dtypically meaning the RAM module is bad or not seated properly.",
+    "id": 11
+  },
+  {
+    "type": "single",
+    "question": "A user\u00e2\u20ac\u2122s desktop will only boot when two RAM modules are installed in slots 1 and 3, but will not power on if installed in 2 and 4. Which of the following is the MOST likely cause?",
+    "options": [
+      "Incorrect CPU cooler installation",
+      "Improper RAM seating",
+      "Defective motherboard trace",
+      "Bad power supply"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "RAM modules must be seated in the correct slot pairs (DIMM1 & DIMM3 or DIMM2 & DIMM4) depending on the motherboard\u00e2\u20ac\u2122s channel configuration.",
+    "id": 12
+  },
+  {
+    "type": "single",
+    "question": "Which of the following disk types provides the fastest sequential read and write performance?",
+    "options": [
+      "SATA SSD",
+      "NVMe SSD",
+      "7200 RPM HDD",
+      "SATA RAID 1 array"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "NVMe SSDs have significantly higher sequential read/write speeds than SATA SSDs or HDDs.",
+    "id": 13
+  },
+  {
+    "type": "single",
+    "question": "A desktop system posts with two consecutive beeps, indicating a memory error. Which of the following should the technician perform NEXT?",
+    "options": [
+      "Reseat the RAM modules",
+      "Replace the CPU",
+      "Update the BIOS",
+      "Clear the CMOS"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Two beeps typically indicate a memory problem. Reseating the RAM modules can resolve loose or improperly seated memory.",
+    "id": 14
+  },
+  {
+    "type": "single",
+    "question": "A technician is troubleshooting a desktop that powers on but has no display output and no POST beeps. Which of the following components should be checked FIRST?",
+    "options": [
+      "CPU seating",
+      "RAM seating",
+      "GPU seating",
+      "Motherboard power connectors"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "If there are no POST beeps or display output, verifying the motherboard\u00e2\u20ac\u2122s power connectors are fully seated is the first step.",
+    "id": 15
+  },
+  {
+    "type": "single",
+    "question": "A desktop powers off unexpectedly after running hardware diagnostics. Which of the following is the MOST likely cause?",
+    "options": [
+      "Overheating CPU",
+      "Corrupted RAM",
+      "Faulty GPU driver",
+      "Malware infection"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "If a system powers off under load (during diagnostics), the CPU is likely overheating and triggering a shutdown to protect itself.",
+    "id": 16
+  },
+  {
+    "type": "single",
+    "question": "A desktop displays a message 'CPU fan error' at boot, and then powers off. Which of the following is the MOST likely cause?",
+    "options": [
+      "Fan not spinning",
+      "Incorrect BIOS version",
+      "Bad RAM",
+      "Corrupted OS"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The 'CPU fan error' indicates the BIOS has detected that the CPU fan is not spinning, which causes the system to shut down to prevent overheating.",
+    "id": 17
+  },
+  {
+    "type": "single",
+    "question": "A technician is troubleshooting a desktop that posts with a single short beep and then powers off. Which of the following is the MOST likely cause?",
+    "options": [
+      "Overheating CPU",
+      "Faulty RAM",
+      "Incorrect BIOS settings",
+      "Shorted motherboard"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "A single short beep followed by a shutdown often indicates a RAM problem. The system POSTs but then fails due to memory errors.",
+    "id": 18
+  },
+  {
+    "type": "single",
+    "question": "A user reports their printer is not printing. What is the first thing to check?",
+    "options": [
+      "Paper tray",
+      "Ink/Toner levels",
+      "Power and cable connections",
+      "Print queue"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Always check basic power and cable connections first when a printer is not responding.",
+    "id": 19
+  },
+  {
+    "type": "single",
+    "question": "A computer is making a continuous beeping sound on startup. What does this usually indicate?",
+    "options": [
+      "Overheating CPU",
+      "RAM issue",
+      "Hard drive failure",
+      "Corrupted OS"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Continuous beeping or a specific beep code on startup often indicates a problem with RAM modules (e.g., not seated correctly or faulty).",
+    "id": 20
+  },
+  {
+    "type": "single",
+    "question": "What is the typical voltage for a CMOS battery?",
+    "options": [
+      "1.5V",
+      "3V",
+      "5V",
+      "12V"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "CMOS batteries are typically 3-volt lithium coin cells.",
+    "id": 21
+  },
+  {
+    "type": "single",
+    "question": "Which of the following is a common safety procedure when working inside a computer case?",
+    "options": [
+      "Keeping the power cord plugged in for grounding",
+      "Wearing an anti-static wrist strap",
+      "Using magnetic screwdrivers for all components",
+      "Working on a carpeted floor"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Wearing an anti-static wrist strap helps prevent electrostatic discharge (ESD) which can damage sensitive components.",
+    "id": 22
+  },
+  {
+    "type": "single",
+    "question": "A technician is troubleshooting a laptop that is unable to browse the internet when connected to the company\u2019s wireless network. The technician has verified network connectivity is functional when using an Ethernet cable. Which of the following should the technician use to check if the laptop's wireless NIC is functional?",
+    "options": [
+      "Hotspot",
+      "Near-field communication",
+      "Ethernet tap",
+      "Spectrum analyzer"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "A hotspot can confirm if the wireless NIC is functional by testing internet access independently.",
+    "id": 23
+  },
+  {
+    "type": "single",
+    "question": "A technician is troubleshooting a classroom projector that shuts down after fifteen minutes of use. Which of the following should the technician do to resolve the issue?",
+    "options": [
+      "Replace the video input cable",
+      "Change the bulb",
+      "Clean the air filter",
+      "Swap the power cord"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Overheating is likely due to a dirty air filter. Cleaning it resolves the issue.",
+    "id": 24
+  },
+  {
+    "type": "single",
+    "question": "A user\u2019s desktop computer slows down after a few minutes of use, and the fans alternate between silent and very loud. Which of the following is MOST likely failing, therefore causing these symptoms?",
+    "options": [
+      "CPU fan",
+      "Memory",
+      "Power supply",
+      "Hard drive"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "A failing CPU fan leads to thermal throttling and erratic fan behavior.",
+    "id": 25
+  },
+  {
+    "type": "single",
+    "question": "A technician is attempting to connect the wired LANs at two nearby buildings by installing a wireless point-to-point connection. Which of the following should the technician consider?",
+    "options": [
+      "NFC protocol data rate",
+      "RFID frequency range",
+      "Bluetooth version compatibility",
+      "Allowable limits for transmit power"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Legal limits on transmission power are crucial in wireless point-to-point setups.",
+    "id": 26
+  },
+  {
+    "type": "single",
+    "question": "A technician is troubleshooting connectivity issues and needs to promiscuously route a copy of traffic to a separate machine for analysis. Which of the following physical tools would BEST accomplish this task?",
+    "options": [
+      "Toner probe",
+      "Wi-Fi analyzer",
+      "Network tap",
+      "Loopback plug"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "A network tap duplicates traffic for external analysis.",
+    "id": 27
+  },
+  {
+    "type": "single",
+    "question": "A technician verifies the slow boot time and slow OS performance of a tower server with a RAID 5 on a PCIe RAID card that does not support hot swapping. Which of the following steps should the technician take NEXT to verify RAID health?",
+    "options": [
+      "Verify S.M.A.R.T. operation on the RAID card",
+      "Replace the failed drive while users are connected",
+      "Physically clean the HDDs and connectors",
+      "Shut down the server and check the RAID controller's status"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Since hot swapping is not supported, shut down is needed to inspect RAID.",
+    "id": 28
+  },
+  {
+    "type": "single",
+    "question": "Which of the following statements best describes the purpose of thermal throttling on a CPU?",
+    "options": [
+      "Increase CPU clock speed under load",
+      "Reduce CPU voltage to prevent spikes",
+      "Lower CPU performance to reduce temperature",
+      "Disable CPU cores no longer in use"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Thermal throttling reduces the CPU\u00e2\u20ac\u2122s clock frequency when temperatures rise too high",
+    "id": 29
+  },
+  {
+    "type": "single",
+    "question": "A desktop is equipped with a single 24-pin ATX power connector to the motherboard. The technician is installing a high-performance CPU that requires additional power. Which connector should be added next?",
+    "options": [
+      "4-pin Molex",
+      "4-pin ATX12V",
+      "6-pin PCIe",
+      "8-pin EPS12V"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "High-performance CPUs often require additional 12V power provided by an 8-pin EPS12V connector.",
+    "id": 30
+  },
+  {
+    "type": "single",
+    "question": "Which of the following cooling solutions is LEAST effective for removing heat from a high-end GPU in a compact HTPC case?",
+    "options": [
+      "Blower-style cooler",
+      "Dual-fan air cooler",
+      "120 mm radiator liquid cooler",
+      "Passive heat sink"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Passive heat sinks rely on passive airflow and are not sufficient to cool high-end GPUs in compact enclosures.",
+    "id": 31
+  },
+  {
+    "type": "multiple",
+    "question": "Which of the following are types of RAM?",
+    "options": [
+      "DDR4",
+      "DDR5",
+      "SATA",
+      "NVMe",
+      "SSD"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explanation": "DDR4 and DDR5 are types of RAM, while SATA, NVMe, and SSD are storage technologies.",
+    "id": 32
+  },
+  {
+    "type": "single",
+    "question": "Several users who share a multifunction printer in an office have reported unintended, thin, vertical lines that cover the entire height of every page printed from the\nprinter. Which of the following steps should a technician complete in order to MOST likely resolve this issue?",
+    "options": [
+      "Replace the printer paper with a new ream.",
+      "Clear the print spooler on each computer.",
+      "Reinstall the printer driver on each computer",
+      "Perform the drum-cleaning procedure."
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Thin, vertical lines on every printed page are usually caused by a dirty drum or toner cartridge. Performing the drum-cleaning procedure will likely resolve the\nissue. References: CompTIA A+ Certification Exam Guide, Ninth Edition, Chapter 18",
+    "id": 33
+  },
+  {
+    "type": "single",
+    "question": "A user submits a help desk ticket regarding a smartphone that will no longer accept its charging cable. The assigned technician notices the phone does not have a\nprotective case, and the user constantly transport the phone in a pocket. The technician attempts to use a secondary charger, but the cable falls out of the phone.\nWhich of the following is the MOST likely cause of the issue?",
+    "options": [
+      "The phone requires a firmware update to address charging issues.",
+      "The charge port contains foreign objects, such as lint.",
+      "The phone\u2019s battery has swelled, preventing the utilization of the charge port.",
+      "The phone has experienced water damage, thus the battery is not charring."
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "The symptoms suggest that the charging cable falls out of the phone, indicating that the charge port may contain foreign objects such as lint, which can interfere\nwith the connection between the charging cable and the phone.",
+    "id": 34
+  },
+  {
+    "type": "single",
+    "question": "Which of the following network devices is used to separate broadcast domains?",
+    "options": [
+      "Switch",
+      "Wireless access point",
+      "Router",
+      "Hub"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "A router (option C) is a network device that is used to separate broadcast domains. A broadcast domain is a logical division of a computer network in which all\nnodes can reach each other by broadcast at the data link layer. Routers operate at the network layer of the OSI model and use routing tables to determine the best\npath for forwarding packets between different networks.\nBy separating broadcast domains, routers can help to reduce network congestion and improve performance. When a router receives a broadcast packet on one of\nits interfaces, it does not forward the packet to any other interfaces. This means that only devices within the same broadcast domain as the sender will receive the\nbroadcast packet.",
+    "id": 35
+  },
+  {
+    "type": "single",
+    "question": "A technician is tasked with installing a PCIe NVMe SSD into a Windows workstation. Which of the following must be configured in BIOS prior to installing Windows?",
+    "options": [
+      "Enable RAID mode",
+      "Enable AHCI mode",
+      "Disable secure boot",
+      "Enable CSM (Compatibility Support Module)"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "AHCI mode must be enabled for SATA/NVMe support; RAID mode is only necessary for RAID configurations.",
+    "id": 36
+  },
+  {
+    "type": "single",
+    "question": "Which of the following hard drive types uses a spinning platter to store data magnetically?",
+    "options": [
+      "SSD",
+      "HDD",
+      "NVMe",
+      "USB flash drive"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "A Hard Disk Drive (HDD) uses spinning magnetic platters to store data.",
+    "id": 37
+  },
+  {
+    "type": "single",
+    "question": "A technician is configuring a RAID 5 array with three disks. The capacity of each drive is 2 TB. What is the total usable capacity of the array?",
+    "options": [
+      "2 TB",
+      "4 TB",
+      "6 TB",
+      "1 TB"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "RAID 5 uses one disk\u00e2\u20ac\u2122s worth of capacity for parity. Usable capacity = (3 - 1) \u00c3\u2014 2 TB = 4 TB.",
+    "id": 38
+  },
+  {
+    "type": "single",
+    "question": "A desktop computer is exhibiting graphical artifacts on the screen. The technician suspects the GPU is overheating. Which of the following actions should the technician take FIRST?",
+    "options": [
+      "Reseat the GPU",
+      "Clean dust from GPU heatsink and fans",
+      "Update the graphics driver",
+      "Replace the thermal paste"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Cleaning dust from the heatsink and fans can immediately improve cooling and is the first step in addressing overheating.",
+    "id": 39
+  },
+  {
+    "type": "single",
+    "question": "A technician logs on to a PC and inserts an encrypted USB drive. When opening File Explorer, the technician cannot see the USB drive. Which of the following\ntools should the technician use to see all drives?",
+    "options": [
+      "DiskPart",
+      "Diskmgmt",
+      "Disk Cleanup",
+      "BitLocker"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "The tool that the technician should use to see all drives is Diskmgmt. Diskmgmt is a Windows utility that allows you to manage disk drives and partitions on your\ncomputer. It can be used to view all drives, including USB drives, that are connected to the computer12.",
+    "id": 40
+  },
+  {
+    "type": "single",
+    "question": "A technician installed a Cat 5 UTP cable approximately 275ft (84m) from a network switch in an office to a workstation located on a factory floor The technician\nsees both a flashing green LED and a flashing orange LED on the workstation's NIC. Which of the following should the technician do FIRST?",
+    "options": [
+      "Check for loose connections, pinched bends, and physical damage.",
+      "Install a powered hub as close as possible to the halfway point in the Cat 5 UTP cable run.",
+      "Replace the entire run of Cat 5 UTP cable with Cat 5 STP cable.",
+      "Upgrade the entire cable run to multimode fiber."
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The flashing green and orange LEDs on the NIC indicate connection issues. The technician should first check for loose connections, pinched bends, and physical\ndamage, which are the most common causes of connection problems. References: CompTIA A+ Certification Exam Guide, Ninth Edition, Chapter 14",
+    "id": 41
+  },
+  {
+    "type": "single",
+    "question": "A colleague has a laptop that has been working as expected for several years wall outlet. The MOST likely component that needs to be replaced is the:",
+    "options": [
+      "power adapter.",
+      "battery.",
+      "system fan.",
+      "hard drive."
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Based on the information provided in the question, the MOST likely component that needs to be replaced is A. power adapter. If a laptop has been working as\nexpected for several years but suddenly stops working when it is plugged into a wall outlet, it is possible that the power adapter has failed and is no longer able to\nprovide power to the laptop. In this case, replacing the power adapter would likely resolve the issue.\nThe other components listed in the options (battery, system fan, and hard drive) could also potentially fail and cause issues with a laptop\u2019s performance. However,\nbased on the specific scenario described in the question (the laptop suddenly stops working when plugged into a wall outlet), it seems most likely that the issue is\nrelated to the power adapter.\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)\nIf the laptop has been working as expected for several years and suddenly stops working, the power adapter is the most likely component that needs to be\nreplaced. Over time, the power adapter can become worn or damaged, resulting in a loss of power to the laptop. References: CompTIA A+ Certification Exam\nGuide, Ninth Edition, Chapter 3",
+    "id": 42
+  },
+  {
+    "type": "multiple",
+    "question": "Which of the following are common types of CPU sockets? (Select TWO)",
+    "options": [
+      "LGA",
+      "PCIe",
+      "SATA",
+      "PGA",
+      "M.2"
+    ],
+    "correct": [
+      0,
+      3
+    ],
+    "explanation": "LGA (Land Grid Array) and PGA (Pin Grid Array) are common types of CPU sockets on motherboards.",
+    "id": 43
+  },
+  {
+    "type": "single",
+    "question": "What is the primary purpose of a heat sink for a CPU?",
+    "options": [
+      "To increase processing speed",
+      "To dissipate heat",
+      "To provide electrical insulation",
+      "To store temporary data"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "A heat sink's primary purpose is to dissipate heat generated by the CPU, preventing overheating.",
+    "id": 44
+  },
+  {
+    "type": "multiple",
+    "question": "Which of the following disk configurations provide fault tolerance? (Select TWO)",
+    "options": [
+      "RAID 0",
+      "RAID 1",
+      "RAID 5",
+      "RAID 10",
+      "JBOD",
+      "Spanning"
+    ],
+    "correct": [
+      1,
+      3
+    ],
+    "explanation": "RAID 1 (mirroring) and RAID 10 (mirrored stripes) both provide fault tolerance via redundancy.",
+    "id": 45
+  },
+  {
+    "type": "single",
+    "question": "Passing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)\n\nWhich of the following would be BEST reason to use a virtual machine as a sandbox?",
+    "options": [
+      "To test new software in a safe environment",
+      "To increase the efficient use of computing resources",
+      "To run multiple machines on the same hardware",
+      "To have dedicated hardware for a single system"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The main reason to use a virtual machine as a sandbox is to test new software in a safe environment without risking the integrity of the host operating system.\nUsing a virtual machine enables the testing of software and allows for the isolation of the software from the host system. References: CompTIA A+ Certification\nStudy Guide, Tenth Edition, pg. 409",
+    "id": 46
+  },
+  {
+    "type": "single",
+    "question": "A user acquired a new workstation and is attempting to open multiple targe Excel files simultaneously. The user is not experiencing the expected performance\nwhen executing such large requests. Which of the following should a technician do FIRST?",
+    "options": [
+      "Increase the swap partition.",
+      "Upgrade the CPU in the workstation.",
+      "Upgrade the power supply in the workstation.",
+      "Upgrade the RAM in the workstation."
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Opening multiple large Excel files simultaneously requires a large amount of RAM. Upgrading the RAM in the workstation should improve performance.\nReferences: CompTIA A+ Certification Exam Guide, Ninth Edition, Chapter 9",
+    "id": 47
+  },
+  {
+    "type": "single",
+    "question": "A company has a dot matrix printer that uses carbon paper. The company reports that the first page is printing too light, although the following pages are still\nlegible. Which of the following MOST likely needs to be fixed?",
+    "options": [
+      "The print drum is worn and loose causing the printing to be light in places",
+      "The ribbon is low on ink or missing and must be replaced to get proper output",
+      "The heating element has failed, and a new one needs to be installed for proper transfer",
+      "The wrong type of filement is loaded, preventing it from sticking correctly",
+      "The fuser assembly is not calibrated properly, causing it to impact the paper too hard"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Dot Matrix printers do not use heat, they use a pin striking an inked ribbon (for the first copy, the subsequent copies are handled by the carbon paper)\nThe ribbon is low on ink or missing and must be replaced to get proper output in a dot matrix printer that uses carbon paper. References: CompTIA A+ Certification\nExam Guide, Exam 220-1001, Page 361",
+    "id": 48
+  },
+  {
+    "type": "single",
+    "question": "A desktop PC has two identical graphics cards installed in an SLI configuration. One card fails and is removed, but the system will not boot. Which of the following should the technician do?",
+    "options": [
+      "Move the remaining card to the primary PCIe slot",
+      "Update the GPU driver",
+      "Disable SLI in BIOS",
+      "Replace the power supply"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "When running a single GPU, it must be placed in the primary PCIe slot; leaving it in the secondary slot prevents the system from recognizing it.",
+    "id": 49
+  },
+  {
+    "type": "single",
+    "question": "A user failed to gain access to a building's entrance after security measures at the entrance were upgraded last week. The company implemented the 13.56MHz\nfrequency short band, and users can now utilize their mobile devices to authenticate. Which of the following has to be enabled for the mobile device to\nauthenticate?",
+    "options": [
+      "Bluetooth",
+      "Biometrics",
+      "NFC",
+      "PIN"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "NFC (Near Field Communication) is a technology used for short-range wireless communication between devices, typically used for contactless payments and\nauthentication. In this scenario, the 13.56MHz frequency short band was implemented, and users can authenticate using their mobile devices, which requires NFC\nto be enabled on the device. References: CompTIA A+ Certification Exam Objectives 220-1001 - Mobile device network and device synchronization - 4.4",
+    "id": 50
+  },
+  {
+    "type": "single",
+    "question": "A technician is receiving reports that the entire office sporadically loses network connectivity throughout the day. The technician determines the root cause to be\nEMI. Which of the following cable mediums would be the MOST cost effective without sacrificing system performance?",
+    "options": [
+      "Coaxial",
+      "Shielded Cat 6",
+      "Plenum Cat 5e\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)",
+      "Multimode fiber"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "In this situation, the MOST cost-effective cable medium that would not sacrifice system performance would be B. Shielded Cat 6. Electromagnetic interference\n(EMI) can disrupt network connectivity by interfering with the signals transmitted over network cables. Shielded Cat 6 cables are designed to provide protection\nagainst EMI by incorporating a layer of shielding material around the cable\u2019s conductors. This shielding helps to prevent EMI from interfering with the signals\ntransmitted over the cable.",
+    "id": 51
+  },
+  {
+    "type": "single",
+    "question": "A user submitted a ticket to report an issue with a new printer that is no longer accepting new print jobs. The technician verifies the printer is on and notices the\nprinter LCD screen has the following error message:\nPaper Jam, Jam in fuser.\nWhich of the following is the MOST efficient next step the technician should complete?",
+    "options": [
+      "Apply a maintenance kit to the printer",
+      "Check the printer paper path to locate any obstructions.",
+      "Turn the printer on and off to see if the error clears.",
+      "Replace the fuser."
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "The MOST efficient next step the technician should complete is to check the printer paper path to locate any obstructions1. The error message \u201cPaper Jam, Jam\nin fuser\u201d indicates that there is a paper jam in the fuser2. The fuser is one of the parts of a laser printer most likely to fail without giving any explicit message2.\nThe printer LCD screen indicates a paper jam in the fuser. The most efficient next step the\ntechnician should complete is to check the printer paper path to locate any obstructions. Applying a maintenance kit or replacing the fuser may not be necessary if\nthe issue is caused by a paper jam.",
+    "id": 52
+  }
+]

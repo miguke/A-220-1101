@@ -1,0 +1,1469 @@
+[
+  {
+    "type": "single",
+    "question": "A technician needs to increase the available RAM on a virtual workstation. Which of the following should the technician do?",
+    "options": [
+      "Increase the ECC memory timings in the BIOS.",
+      "Upgrade to the latest DDR5 modules.",
+      "Clear the temporary files on the workstation\u2019s boot drive.",
+      "Use a hypervisor to adjust the resource allocation."
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "A hypervisor is a software layer that manages and allocates resources for virtual machines (VMs) on a physical host machine. A technician can use a hypervisor\nto adjust the resource allocation for a virtual workstation, such as increasing the amount of RAM assigned to it from the available pool of memory on the host\nmachine. This can improve the performance and functionality of the virtual workstation without requiring any hardware changes or modifications. Reference:\nhttps://www.comptia.org/training/books/a- core-1-220-1101-study-guide (page 59)",
+    "id": 1
+  },
+  {
+    "type": "single",
+    "question": "HOTSPOT \nA customer has contacted you about building two new desktops. The first desktop will be a gaming workstation. The customer requirements include:\nPlaying the newest games at a high frame rate Fast game load times\nEnough storage to have several games installed at once High-end audio\nNo concern about cost\nRunning the current Windows OS\nThe second workstation will be a family workstation. The requirements include: Capability for word processing, videoconferencing, and basic web surfing Minimal\ncost, as long as it meets the requirements\nRunning the current Windows OS",
+    "options": [
+      "Mastered",
+      "Not Mastered"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Passing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)",
+    "id": 2
+  },
+  {
+    "type": "single",
+    "question": "Which of the following network options would work BEST to ensure a client-side virtual machine cannot access the rest of the network?",
+    "options": [
+      "NAT mode",
+      "Bridge mode",
+      "Direct mode",
+      "Host-only mode"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Host-only mode is a network option that isolates a client-side virtual machine from the rest of the network. It allows the virtual machine to communicate only with\nthe host machine and other virtual machines on the same host. NAT mode allows the virtual machine to share the host\u2019s IP address and access the network\nthrough it. Bridge mode allows the virtual machine to have its own IP address and connect directly to the network. Direct mode is not a valid network option for\nvirtual machines.",
+    "id": 3
+  },
+  {
+    "type": "multiple",
+    "question": "A user\u2019s Windows computer started running slowly after the installation of a CAD program. The computer has intermittent timeouts and often has to be rebooted to\nrestore functionally. The computer seems to work correctly if the application is not running. Which of the following should the technician do NEXT to help\ntroubleshoot the issue? (Select TWO).",
+    "options": [
+      "Replace the video card.",
+      "Research the requirements of the application.",
+      "Install a new case fun.",
+      "Run chkdsk on the HDD.",
+      "Check the Event Viewer logs.",
+      "Reinstall the application."
+    ],
+    "correct": [
+      1,
+      4
+    ],
+    "explanation": "The technician should research the requirements of the CAD program to see if the computer meets them or needs any upgrades or updates to run it properly. The\ntechnician should also check the Event Viewer logs to see if there are any errors or warnings related to the application or system performance that could indicate\nthe cause of the problem or suggest a solution. Reference: https://www.comptia.org/training/books/a- core-1-220-1101-study-guide (pages 43, 47)",
+    "id": 4
+  },
+  {
+    "type": "single",
+    "question": "An end user needs to upgrade the hard drive on a laptop and wants one that is fast and shock resistant. Which of the following is the BEST option for this end\nuser?",
+    "options": [
+      "Hybrid HHD/SSD",
+      "5,400rpm HDD",
+      "7,200rpm HDD",
+      "NVMe SDD"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "A non-volatile memory express (NVMe) solid state drive (SSD) is the best option for an end user who wants to upgrade the hard drive on a laptop and wants one\nthat is fast and shock resistant.NVMe SSDs use flash memory and PCIe interface to achieve high performance and low latency.SSDs are also more shock\nresistant than hard disk drives (HDDs) because they have no moving parts.Hybrid HDD/SSD combines both technologies but does not offer the same speed or\ncapacity as pure SSDs.A 5,400rpm HDD or a 7,200rpm HDD are slower and less shock resistant than SSDs\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)",
+    "id": 5
+  },
+  {
+    "type": "single",
+    "question": "A technician is preparing laptops for deployment to a medical department. The laptops require SSD-level encryption to be enabled, but BitLocker refuses to turn it\non. An error message states that a BIOS-level setting has not been turned on. Which of the following should the technician check FIRST when troubleshooting this\nissue?",
+    "options": [
+      "Recorder the priority in Widows Boot Manager.",
+      "Check to make sure Secure Boot is turned on.",
+      "Ensure that the Trusted Platform Module enabled.",
+      "Verify that the latest updates are installed."
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "The Trusted Platform Module (TPM) is a hardware component that provides cryptographic functions and secure storage for encryption keys, passwords, and\ncertificates. BitLocker requires a TPM to be enabled and activated in the BIOS or UEFI settings of the laptop in order to use SSD-level encryption. The technician\nshould check that the TPM is enabled and activated before trying to turn on BitLocker. Reference: https://partners.comptia.org/docs/default-source/resources/a-\ncore-series-combined- content-guide (page 34)",
+    "id": 6
+  },
+  {
+    "type": "single",
+    "question": "A user reports that all print jobs sent to a laser printer have random and incorrect characters throughout the pages. Which of the fallowing actions should the\ntechnician do to resolve this issue?",
+    "options": [
+      "Replace the fuser.",
+      "Adjust the rollers.",
+      "Update the driver.",
+      "Shake the toner"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "One of the possible causes of random and incorrect characters appearing on print jobs sent to a laser printer is an outdated or corrupted driver. The driver is a\nsoftware component that communicates between the operating system and the printer, and converts data into a format that the printer can understand. If the driver\nis outdated or corrupted, it may send incorrect or garbled data to the printer, resulting in poor print quality or errors. The technician should update the driver to the\nlatest version from the manufacturer\u2019s website, or uninstall and reinstall it if necessary. Reference:\nhttps://www.comptia.org/training/books/a-core-1-220-1101-study-guide (page 47)",
+    "id": 7
+  },
+  {
+    "type": "single",
+    "question": "A technician receives an alert indicating all VMs are down. After some troubleshooting, the technician discovers the network is out of space. To resolve the issue,\nthe technician decides to add more space. Which of the following network types will the technician be working with?",
+    "options": [
+      "SCSI",
+      "NAC",
+      "SAN",
+      "WISP"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "A storage area network (SAN) is the type of network that the technician will be working with when adding more space to resolve the issue of all VMs being down\ndue to the network being out of space. A SAN is a network that provides access to consolidated and block-level data storage, which can be used for virtualization\nand backup purposes. SCSI is a type of interface that connects devices such as hard drives and optical drives to a computer. NAC is a type of security solution\nthat controls access to a network based on policies and device compliance. WISP is a type of internet service provider that delivers wireless broadband access\nover long distances.",
+    "id": 8
+  },
+  {
+    "type": "single",
+    "question": "A technician connects a new computer to the internet and then opens the wiring closet. Even though all of the wires are terminated, nothing in the wring closet is\nlabeled. Which of the following tools should the technician use to complete the task?",
+    "options": [
+      "Cable tester",
+      "Loopback plug",
+      "Toner probe",
+      "Punchdown tool"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "A toner probe is a tool that can be used to trace and identify cables in a wiring closet. The technician can use a toner probe to find the cable that connects the new\ncomputer to the internet. A cable tester is a tool that can be used to check the continuity and quality of a cable. A loopback plug is a tool that can be used to test\nnetwork ports or cables by sending and receiving signals from the same device. A punchdown tool is a tool that can be used to terminate wires into a patch panel\nor jack.",
+    "id": 9
+  },
+  {
+    "type": "single",
+    "question": "A user\u2019s laptop is experiencing severe slowdowns when operating process-intensive tasks. Which of the following memory upgrades is compatible with a laptop?\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)",
+    "options": [
+      "DIMM",
+      "ECC RAM",
+      "Virtual RAM",
+      "SODIMM"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "SODIMM stands for Small Outline Dual In-line Memory Module and is a type of memory module that is compatible with laptops and other small devices.\nSODIMMs are smaller and thinner than DIMMs (Dual In-line Memory Modules), which are typically used for desktop PCs and servers. Upgrading or adding\nSODIMMs can increase the amount of RAM available for a laptop, which can improve its performance and speed when running process-intensive tasks.\nReference: https://partners.comptia.org/docs/default- source/resources/a-core-series-combined-content-guide (page 24)",
+    "id": 10
+  },
+  {
+    "type": "single",
+    "question": "The GPS on a user's phone has been unreliable. Which of the following will MOST likely resolve the issue?",
+    "options": [
+      "Enabling high-accuracy mode",
+      "Replacing the battery",
+      "Disabling Wi-Fi connections",
+      "Utilizing a third-party map application"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Enabling high-accuracy mode is the most likely action to resolve the issue of unreliable GPS on a user\u2019s phone. High-accuracy mode uses multiple sources of\nlocation data, such as Wi-Fi, cellular networks, and Bluetooth, to improve the accuracy and reliability of GPS. Replacing the battery, disabling Wi-Fi connections, or\nutilizing a third- party map application are unlikely to fix the GPS issue, as they are not directly related to the GPS function",
+    "id": 11
+  },
+  {
+    "type": "single",
+    "question": "An IT manager is evaluating ticket resolution times. While reviewing the data, the manager notices repetitive issues are taking longer than expected to resolve.\nWhich of the following changes should the manager implement to resolve repetitive issues more quickly?",
+    "options": [
+      "Require the technicians to spend more time testing theories to determine the root causes of issues.",
+      "Require the technicians to verify full system functionality when resolving issues.",
+      "Require the technicians to gather more information when speaking with users aboutissues.",
+      "Require the technicians to document the findings, action, and outcomes of issues."
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "By documenting the findings, action, and outcomes of issues, the technicians can create a knowledge base that can be used to resolve similar issues in the future\nmore quickly and efficiently. The documentation can also help identify patterns or trends that can lead to preventive measures or root cause analysis. Documenting\nthe issues can also improve communication and collaboration among technicians and users, as well as provide evidence of service quality and performance.\nReference: https://partners.comptia.org/docs/default-source/resources/a-core-1-content-guide (page 4)",
+    "id": 12
+  },
+  {
+    "type": "single",
+    "question": "A desktop support technician receives an escalated ticket regarding a computer that displays the following message upon booting up: The amount of system\nmemory has changed. Which of the following components is failing?",
+    "options": [
+      "GPU",
+      "HDD",
+      "RAM",
+      "CPU"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "The message \u201cThe amount of system memory has changed\u201d indicates that there is a problem with the random access memory (RAM) modules in the computer.\nThe RAM may be loose, faulty, or incompatible with the motherboard or other components. The GPU, HDD, and CPU are not directly related to system memory\nand would not cause this message to appear.",
+    "id": 13
+  },
+  {
+    "type": "single",
+    "question": "A user receives the following error when trying to reboot a computer:\nWhich of the following is the MOST likely cause of this error message?",
+    "options": [
+      "Corrupted bootloader",
+      "Faulty RAID controller\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)",
+      "Failed hard drive",
+      "Incorrect storage device driver"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "The error message \"Reboot and Select Proper Boot Device\" indicates that the computer cannot find the boot device that contains the operating system12. This can\nhappen if the hard drive that stores the operating system is damaged or failed, and the BIOS cannot detect it or read from it23. A failed hard drive can also cause\nother symptoms such as clicking noises, corrupted files, or slow performance4.",
+    "id": 14
+  },
+  {
+    "type": "single",
+    "question": "An insurance company wants to implement cloud computing and would like a cloud solution in which the infrastructure is shared with businesses in the same\nindustry. Which of the following cloud models BEST addresses the company's need?",
+    "options": [
+      "Community",
+      "Private",
+      "Public",
+      "Hybrid"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The cloud model that BEST addresses the company\u2019s need is the Community cloud model. A community cloud is a cloud infrastructure in which multiple\norganizations share resources and services based on common operational and regulatory requirements. The concept of a community cloud is akin to a community\ngarden, where different individuals grow produce on a single piece of shared land1.",
+    "id": 15
+  },
+  {
+    "type": "single",
+    "question": "A company would like to take advantage of the cost savings of cloud computing by only paying for the resources used. Which of the following will BEST address\nthis need?",
+    "options": [
+      "Shared resources",
+      "Rapid elasticity",
+      "Metered utilization",
+      "High availability"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Metered utilization is a cloud feature that allows cloud providers to charge customers based on their actual consumption of resources, such as CPU time, storage\nspace, bandwidth, or transactions.This enables customers to pay only for the resources they use, rather than a fixed or flat rate, which can reduce costs and\nincrease efficiency. Metered utilization can also provide more transparency and accountability for both cloud providers and customers, as they can track and\nmonitor their resource usage and billing. Reference: https://partners.comptia.org/docs/default-source/resources/a-core-1-content- guide (page 97)",
+    "id": 16
+  },
+  {
+    "type": "single",
+    "question": "Which of the following handles touch-screen operation on a mobile device?",
+    "options": [
+      "Stylus",
+      "Liquid crystal display",
+      "Processor",
+      "Digitizer"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "A digitizer is a component that handles touch-screen operation on a mobile device. It is a layer of material that detects and converts the touch of a finger or a\nstylus into an electrical signal that can be processed by the device12. A digitizer works with a display screen to create a touch-screen interface that allows a user\nto interact with the device by touching pictures or words on the screen.",
+    "id": 17
+  },
+  {
+    "type": "single",
+    "question": "A user reports a repetitive clicking noise is coming from a personal laptop. A technician notes the laptop's inputs are severely delayed. Which of the following\nshould the technician replace to resolve the issue?",
+    "options": [
+      "The memory",
+      "The storage device",
+      "The integrated keyboard",
+      "The battery"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "A repetitive clicking noise coming from a laptop is usually a sign of a failing hard disk drive (HDD), which is a type of storage device that uses spinning platters and\nmoving heads to read and write data. A failing HDD can also cause severe delays in input and output operations, as well as data loss or corruption. The technician\nshould replace the HDD with a new one or upgrade it to a solid state drive (SSD), which is another type of storage device that uses flash memory and has no\nmoving parts. Reference: https://partners.comptia.org/docs/default-source/resources/a-core-series-combined- content-guide (page 24)\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)",
+    "id": 18
+  },
+  {
+    "type": "single",
+    "question": "A technician is working on a desktop PC and wants to verify its NIC is functional. Which of the following should the technician use?",
+    "options": [
+      "Cable tester",
+      "Loopback Plug",
+      "Toner probe",
+      "Network tap"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Reference: https://www.comptia.org/training/books/a-core-1-220-1101-study-guide (page 76)",
+    "id": 19
+  },
+  {
+    "type": "single",
+    "question": "A video game developer is requesting a new desktop computer with eight sticks of memory. The developer wants the desktop computer to take advantage of all\navailable memory bandwidth without sacrificing performance. Which of the following would be the BEST solution?",
+    "options": [
+      "Triple-channel with DDR5 ECC RAM",
+      "Quad-channel with DDR4 RAM",
+      "Quad-channel with DDR5 SODIMM",
+      "Dual-channel with DDR4 RAM"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Quad-channel memory architecture allows the CPU to access four memory modules simultaneously, increasing the memory bandwidth and performance. DDR4\nRAM is a type of memory that has higher speed and lower power consumption than DDR3. SODIMM is a smaller form factor of memory that is typically used in\nlaptops, not desktops. ECC RAM is a type of memory that can detect and correct errors, but it is more expensive and slower than non-ECC RAM. Triple-channel\nmemory architecture is less common and less efficient than quad-channel. References: https://www.comptia.org/certifications/a#examdetails\nhttps://www.comptia.org/blog/what-is- ddr4-ram https://www.comptia.org/blog/what-is-quad-channel-memory",
+    "id": 20
+  },
+  {
+    "type": "single",
+    "question": "A technician is troubleshooting an issue involving lines appearing down copied pages, but printed pages sent directly to the copier render as intended. Which of\nthe following is the MOST likely cause of this issue?",
+    "options": [
+      "Empty imager drum",
+      "Overheated system fuser",
+      "Scratched scanner glass",
+      "Third-party toner"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "If lines appear down copied pages but printed pages sent directly to copier render as intended, it could be due to scratched scanner glass which can cause lines\nor streaks on copied pages.\nIf there are lines appearing on copied pages, but not on printed pages sent directly to the copier, the issue is most likely caused by a scratch on the scanner glass.\nReferences: https://www.pacificoffice.com/how-to-fix-lines-on-copier/",
+    "id": 21
+  },
+  {
+    "type": "single",
+    "question": "A user who is facilitating a videoconference reports that the participants can be heard. However, when the user attempts to speak, none of the participants can\nhear the user. Which of the following is the FIRST step the technician should take?",
+    "options": [
+      "Restart the Videoconference.",
+      "Replace the laptop.",
+      "Check the audio inputs.",
+      "Try another microphone."
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "The technician should check that the audio inputs are configured correctly for the videoconference software and that they are not muted or disabled.The\ntechnician should also make sure that the microphone is plugged in properly and that it is not faulty or damaged.If possible, the technician should test the\nmicrophone on another device or use another microphone on the same device to isolate the problem. Reference: https://partners.comptia.org/docs/default-\nsource/resources/a-core-1-content-guide (page 11)",
+    "id": 22
+  },
+  {
+    "type": "single",
+    "question": "A user is unable to connect a mobile phone while in a car. However, a second mobile Device is able To connect in The same car, WHICH of the Following settings\nshould the user check on the first phone?",
+    "options": [
+      "Wi-Fi",
+      "Hotspot",
+      "Bluetooth",
+      "Location\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "To connect a mobile phone to a car, you need to pair them using Bluetooth, which is a wireless technology that allows secure local networks between devices1. If\none phone can connect to the car but another cannot, it means that the first phone has Bluetooth enabled and paired with the car, while the second phone does\nnot. Therefore, the user should check the Bluetooth settings on the second phone and make sure it is turned on and discoverable21.",
+    "id": 23
+  },
+  {
+    "type": "single",
+    "question": "A user reports a tablet restarts on its own every five to ten minutes. In addition, the tablet has intermittent issues with charging. The technician gives the user a\nnew power adapter and charging cable, and the technician also tries resetting the OS. but the issue persists. Which of the following is the MOST likely cause of the\nissue?",
+    "options": [
+      "Water damage",
+      "Incorrect OS version",
+      "Faulty battery",
+      "Damaged charging port"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "A faulty battery could cause a tablet to restart on its own and have intermittent issues with charging. Water damage could also cause these symptoms, but it is not\nthe most likely cause unless there is evidence of liquid exposure. Incorrect OS version could cause compatibility or performance issues, but not charging problems.\nDamaged charging port could prevent the tablet from charging, but not cause it to restart randomly.",
+    "id": 24
+  },
+  {
+    "type": "single",
+    "question": "Which of the following cloud-computing concepts describes an application that is hosted on the internet but can be used and configured as needed internally per\norganization?",
+    "options": [
+      "Hybrid cloud",
+      "Public cloud",
+      "laaS",
+      "SaaS",
+      "PaaS"
+    ],
+    "correct": [
+      4
+    ],
+    "explanation": "Platform as a service (PaaS) is a cloud-computing concept that describes an application that is hosted on the internet but can be used and configured as needed\ninternally per organization. PaaS provides a platform for developing, testing, deploying, and managing applications without having to maintain the underlying\ninfrastructure or software. Hybrid cloud is a combination of public and private cloud services that share data and resources. Public cloud is a cloud computing\nmodel that provides services and resources to anyone over the internet. Infrastructure as a service (IaaS) is a cloud computing model that provides servers,\nstorage, networking, and software over the internet",
+    "id": 25
+  },
+  {
+    "type": "single",
+    "question": "A user's track pad has stopped working. Which of the following should the user do to resolve the track pad's functionality?",
+    "options": [
+      "Reinstall the mouse drivers",
+      "Use the Function key.",
+      "Calibrate the digitizer",
+      "Configure the mouse settings."
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "The correct answer is B. Use the Function key.\nThe explanation is that some laptops have a Function key (Fn) that can be used to toggle the track pad on or off. This can be useful if the user wants to use an\nexternal mouse instead of the track pad, or if the track pad is accidentally activated by palm movements. The user should look for a Fn key on their keyboard and a\ntrack pad icon on one of the other keys, such as F5 or F9, and press them together to enable or disable the track pad.",
+    "id": 26
+  },
+  {
+    "type": "single",
+    "question": "A virtual file server in the cloud is configured to automatically add compute resources during times of high load on the server. Which of the following describes this\ncloud feature?",
+    "options": [
+      "File synchronization",
+      "High availability",
+      "Rapid elasticity",
+      "Shared resources"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Rapid elasticity is a cloud feature that allows cloud services to scale up or down automatically according to demand or load on the server, without requiring\nmanual intervention or configuration changes by users or administrators.This enables cloud services to provide optimal performance and efficiency at all times, as\nwell as reducing costs by only using resources when needed. Reference: https://www.comptia.org/training/books/a-core-1-220-1101-study-guide (page 98)\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)",
+    "id": 27
+  },
+  {
+    "type": "single",
+    "question": "A technician is working to connect an RS-232 serial signature pad to a customer's ultralightweight laptop. Which of the following should the technician use to install\nthe device?",
+    "options": [
+      "Port replicator",
+      "Wi-Fi Direct",
+      "Hotspot",
+      "USB-C cable"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "A USB-C cable is the best option for installing an RS-232 serial signature pad to an ultralightweight laptop. USB-C is a universal connector that supports various\nprotocols and devices, including serial devices. A port replicator is a device that expands the connectivity options of a laptop by providing additional ports. Wi-Fi\nDirect is a wireless technology that allows devices to connect directly without a router or access point. Hotspot is a feature that allows a device to share its internet\nconnection with other devices via Wi-Fi, Bluetooth, or USB.",
+    "id": 28
+  },
+  {
+    "type": "single",
+    "question": "A laptop does not have any audio output from the built-in speakers. The Windows Device Manager shows a down arrow for the audio device. Which of the\nfollowing will correct this audio issue?",
+    "options": [
+      "Replacing the speakers",
+      "Increasing the volume",
+      "Enabling the audio device",
+      "Updating the driver"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Enabling the audio device is the correct action to correct an audio issue where a laptop does not have any audio output from the built-in speakers and Windows\nDevice Manager shows a down arrow for the audio device. A down arrow indicates that the audio device is disabled and needs to be enabled by right-clicking on it\nand selecting Enable device. Replacing the speakers, increasing the volume, or updating the driver are unlikely to solve the issue if the audio device is disabled.",
+    "id": 29
+  },
+  {
+    "type": "single",
+    "question": "While on a VoIP call, one user is unable to understand the other because the audio is breaking up. Which of the following BEST describes what is occurring on the\ncall?",
+    "options": [
+      "High latency",
+      "External interference",
+      "No connectivity",
+      "Port flapping"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "High latency is what best describes what is occurring on a VoIP call when one user is unable to understand the other because the audio is breaking up. Latency is\nthe delay between sending and receiving data over a network, and high latency can cause poor quality or interruptions in VoIP calls. External interference, no\nconnectivity, or port flapping are not likely to cause audio breaking up, but rather complete loss of signal or connection.",
+    "id": 30
+  },
+  {
+    "type": "single",
+    "question": "The motherboard on a user's company laptop was recently replaced Now the user is unable to log in using the fingerprint reader The fingerprint reader is working\nbut it does not recognize the user's fingerprint Which of the following should a technician perform FIRST to fix the issue?",
+    "options": [
+      "Restore the system to a previous recovery point",
+      "Reinstall the fingerprint software",
+      "Access the BIOS and clear the TPM",
+      "Update the drivers and the fingerprint software",
+      "Flash the newest BIOS firmware that is available"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "If a user is unable to log in using the fingerprint reader on a company laptop after the motherboard was replaced, it could be due to an issue with the fingerprint\nsoftware. The first step to fix the issue would be for the technician to reinstall the fingerprint software.",
+    "id": 31
+  },
+  {
+    "type": "single",
+    "question": "An administrator chose a shared-tenant model for a cloud deployment. Which of the following is the MOST likely reason the administrator chose this model?",
+    "options": [
+      "Cost savings",
+      "Highly available",
+      "Dedicated hardware",
+      "Increased security\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The shared-tenant model for a cloud deployment, also known as a multi- tenant model, allows multiple customers to use the same resources and infrastructure of\nthe cloud service provider, with each customer's data and applications isolated from one another. This model is often chosen for cost savings, as resources are\nshared and users only pay for what they use. Therefore, the MOST likely reason that an administrator chose this model is A. Cost savings.",
+    "id": 32
+  },
+  {
+    "type": "single",
+    "question": "DRAG DROP \nA natural disaster occurred, and the storage system for the development team is unrecoverable. The technician is preparing replacement storage arrays that\ninclude a hypervisor with the capacity to support several virtual machines. Two separate bays are available, and both should be utilized.\nRequirements for the primary array include the following:\n\u2022 No need to be scalable\n\u2022 Very fast on reads\n\u2022 Fault tolerance of one drive\n\u2022 Ability to function with only one drive\n\u2022 Easily recoverable data\n\u2022 High redundancy\n\u2022 Minimum number of drives\nRequirements for the secondary array include the following:\n\u2022 Fault tolerance of one drive\n\u2022 Total space of 600G3\n\u2022 Best write performance\n\u2022 Minimum number of drives Instructions:\nDrag and Drop the appropriate Hard Drives. Then Open each array to complete the configuration.",
+    "options": [
+      "Mastered",
+      "Not Mastered"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Primary Array:\n? Drag and drop two 120 GB SSD hard drives to the primary array bay.\n? Open the primary array and select RAID 1 as the RAID level. RAID 1 provides fault tolerance of one drive, ability to function with only one drive, easily\nrecoverable data, high redundancy, and very fast on reads. It also does not need to be scalable and uses the minimum number of drives (two) for RAID 1.\n? Confirm the configuration and close the primary array. Secondary Array:\n? Drag and drop two 300 GB SSD hard drives to the secondary array bay.\n? Open the secondary array and select RAID 0 as the RAID level. RAID 0 provides the best write performance and uses the minimum number of drives (two) for\nRAID 0. It also provides a total space of 600 GB (300 GB x 2), which meets the requirement.\n? Confirm the configuration and close the secondary array.\nYou have completed the configuration of the storage arrays.",
+    "id": 33
+  },
+  {
+    "type": "single",
+    "question": "A salesperson is using a weather application on a mobile device. The application appears to be draining the device's battery very quickly. Which of the following is\nthe BEST action for the salesperson to take in order to view weather forecasts while traveling?",
+    "options": [
+      "Enable the GPS service to ensure accurate location detection.",
+      "Update the PRL when getting to a new location.",
+      "Configure less location checks using cellular location services,",
+      "use the offices' Wi-Fi IP addresses as the geolocation mechanism."
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "The best action for the salesperson to take in order to view weather forecasts while traveling and minimize the battery drain on their mobile device is to configure\nfewer location checks using cellular location services. This can be done by adjusting the settings for the weather application to limit how often it checks for updates\nand uses location services. This will help to conserve the battery on the device and keep the application from consuming too much power.\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)",
+    "id": 34
+  },
+  {
+    "type": "single",
+    "question": "A technician is configuring a desktop computer, and the hard drive must be encrypted. Which of the following will the technician need to verify is enabled to\ncomplete this configuration?",
+    "options": [
+      "ATX",
+      "NIC",
+      "TPM",
+      "ARM"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "TPM stands for Trusted Platform Module, which is a hardware component that securely stores encryption keys and other sensitive data12. TPM can be used to\nenable hard drive encryption, which is a technology that encrypts the data stored on a hard drive using sophisticated mathematical functions34. Hard drive\nencryption protects the data from unauthorized access in case the hard drive is lost, stolen, or tampered with.",
+    "id": 35
+  },
+  {
+    "type": "single",
+    "question": "A software developer used client-side virtualization on a server to configure a web application. Although the application is working locally on the software\ndeveloper's PC, other users on the LAN are not able to access the application. Which of the following would allow other users to access the application?",
+    "options": [
+      "Bridge networking",
+      "Application virtualization",
+      "Virtual desktop",
+      "Site-to-site VPN"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Client-side virtualization is used to run an application or process on a separate virtual machine, isolated from the main operating system. To allow other users on\nthe LAN to access the application, the software developer should configure a bridge networking connection between the virtual machine and the LAN. This will\nallow the virtual machine to communicate with other computers on the network. Application virtualization, virtual desktop, and site-to-site VPN are not necessary\nsteps for allowing other users to access the application.",
+    "id": 36
+  },
+  {
+    "type": "single",
+    "question": "A technician is upgrading a computer OS from Windows 7 to Windows 10. During the OS installation, the system is not able to find the hard drive. Which of the\nfollowing can the technician do to MOST likely fix the issue?",
+    "options": [
+      "Change the partition to MBR",
+      "Load the HDD drivers using a flash drive.",
+      "Upgrade the RAM modules.",
+      "Replace the hard drive."
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Loading the hard disk drive (HDD) drivers using a flash drive is the most likely action that can fix the issue of a computer not being able to find the hard drive\nduring an OS installation from Windows 7 to Windows 10. The HDD may have a different interface or controller than what Windows 10 supports by default, such as\nSATA or RAID, which would require loading additional drivers during the installation process. The technician can use a flash drive to load the drivers from another\ndevice or source. Changing the partition to MBR, upgrading the RAM modules, or replacing the hard drive are not likely to fix the issue, as they are not related to\nthe HDD drivers",
+    "id": 37
+  },
+  {
+    "type": "single",
+    "question": "A technician is troubleshooting a laptop that is unable to browse the internet when connected to the company\u2019s wireless network. The technician has verified\nnetwork connectivity is functional when using an Ethernet cable. Which of the following should the technician use to check if the laptop's wireless NIC is functional?",
+    "options": [
+      "Hotspot",
+      "Near-field communication",
+      "Ethernet tap",
+      "Spectrum analyzer"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "A hotspot is a wireless access point that provides internet access to devices that are connected to it. The technician can use a hotspot to check if the laptop's\nwireless NIC is functional by connecting the laptop to the hotspot and then trying to browse the internet. If the laptop is able to browse the internet, then the\nwireless NIC is functional. Near-field communication (NFC) is a wireless technology that allows two devices to communicate with each other when they are in close\nproximity. NFC is not typically used to check if a wireless NIC is functional.\nAn Ethernet tap is a device that is used to monitor network traffic. An Ethernet tap is not typically used to check if a wireless NIC is functional.\nA spectrum analyzer is a device that is used to measure the frequency spectrum of a signal. A spectrum analyzer is not typically used to check if a wireless NIC is\nfunctional. Therefore, the correct answer is A. Hotspot.",
+    "id": 38
+  },
+  {
+    "type": "single",
+    "question": "A technician is troubleshooting a classroom projector that shuts down after fifteen minutes of use. Which of the following should the technician do to resolve the\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)\nissue?",
+    "options": [
+      "Replace the video input cable.",
+      "Change the bulb.",
+      "Clean the air filter.",
+      "Swap the power cord."
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Cleaning the air filter is the best action to resolve the issue of a projector that shuts down after fifteen minutes of use. A dirty air filter can cause overheating and\ntrigger the projector\u2019s thermal protection mechanism. Replacing the video input cable, changing the bulb, or swapping the power cord are unlikely to solve the\noverheating issue",
+    "id": 39
+  },
+  {
+    "type": "single",
+    "question": "A user's desktop computer slows down after a few minutes of use, and the fans alternate between silent and very loud. Which of the following is MOST likely\nfailing, therefore causing these symptoms?",
+    "options": [
+      "CPU fan",
+      "Memory",
+      "Power supply",
+      "Hard drive"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "A CPU fan is a component that cools down the CPU, which is the main processor of the computer. If the CPU fan is failing, it can cause the computer to slow\ndown and the fans to alternate between silent and very loud12. This is because the CPU fan cannot maintain a consistent speed and airflow to keep the CPU at a\nsafe temperature.\nWhen the CPU gets too hot, it throttles its performance to avoid overheating, which results in a slower computer. The other fans in the computer also try to\ncompensate for the lack of cooling from the CPU fan by spinning faster and louder2.",
+    "id": 40
+  },
+  {
+    "type": "single",
+    "question": "A technician is attempting to connect the wired LANs at two nearby buildings by installing a wireless point-to-point connection. Which of the following should the\ntechnician consider?",
+    "options": [
+      "NFC protocol data rate",
+      "RFID frequency range",
+      "Bluetooth version compatibility",
+      "Allowable limits for transmit power"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "When installing a wireless point-to-point connection between two buildings, the technician should consider the allowable limits for transmit power, which vary\ndepending on the country or region. Exceeding these limits could interfere with other wireless devices or violate regulations. NFC protocol data rate, RFID\nfrequency range, and Bluetooth version compatibility are not relevant for a wireless point-to-point connection.",
+    "id": 41
+  },
+  {
+    "type": "single",
+    "question": "A technician is troubleshooting connectivity issues and needs to promiscuously route a copy of traffic to a separate machine for analysis. Which of the following\nphysical tools v/ould BEST accomplish this task?",
+    "options": [
+      "Toner probe",
+      "Wi-Fi analyzer",
+      "Network tap",
+      "Loopbackplug"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "A network tap is a physical device that allows promiscuous monitoring of network traffic by creating a copy of the data packets for analysis. A toner probe is used\nto trace and identify cables. A Wi-Fi analyzer is used to measure wireless signal strength and interference. A loopback plug is used to test network ports or cables\nby sending and receiving signals from the same device.",
+    "id": 42
+  },
+  {
+    "type": "single",
+    "question": "A technician verifies the slow boot time and slow OS performance of a tower server with a RAID 5 on a PCIe RAID card that does not support hot swapping. Which\nof the following steps should the technician take NEXT to verify RAID health?",
+    "options": [
+      "Verify S.M.A.R.",
+      "operation on the RAID card.",
+      "Replace the failed drive while users are connected",
+      "Physically clean the HDDs and connectors.",
+      "Shut down the server and check the RAID controller's status."
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Since the RAID card does not support hot swapping, the technician needs to shut down the server and check the RAID controller\u2019s status to verify RAID health.\nS.M.A.R.T. is a feature of hard drives, not RAID cards. Replacing the failed drive while users are connected could cause data loss or corruption. Physically\ncleaning the HDDs and connectors is unlikely to solve the slow boot time and performance issues.",
+    "id": 43
+  },
+  {
+    "type": "single",
+    "question": "A user's laptop is running out of disk space and requires a new hard drive. The user wants to replace the existing hard drive with the fastest possible I TB HDD. A\ntechnician assesses the user's hardware and determines the connections that are available. Which of the following drive types should the technician recommend\nas the BEST choice?",
+    "options": [
+      "1TB NVMe SSD",
+      "1TB flash drive",
+      "1TB SATA SSD",
+      "1TB SAS"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The best choice for the user's laptop is a 1TB NVMe SSD. NVMe (Non- Volatile Memory Express) is a high-performance storage protocol designed specifically for\nsolid-state drives (SSDs). It is significantly faster than SATA SSDs and SAS hard drives, making it ideal for users who need fast storage for their laptop. NVMe\nSSDs also have lower latency and higher bandwidth than traditional hard drives, making them well-suited for data-intensive tasks such as video editing, gaming,\nand running multiple applications simultaneously. Additionally, NVMe offers more reliable data reliability than traditional hard drives, and is less susceptible to\nperformance degradation over time.",
+    "id": 44
+  },
+  {
+    "type": "single",
+    "question": "Which connector is used for high-speed data transfer on modern mobile devices?",
+    "options": [
+      "Micro-USB",
+      "USB-C",
+      "Lightning",
+      "Mini-USB"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "USB-C supports high-speed data transfer, power delivery, and video output.",
+    "id": 45
+  },
+  {
+    "type": "single",
+    "question": "Which of the following types of devices MOST often uses a Thunderbolt cable?",
+    "options": [
+      "Linux PC",
+      "Android mobile",
+      "Apple laptop",
+      "Chromebook"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Thunderbolt cables are most commonly associated with Apple products, especially laptops.",
+    "id": 46
+  },
+  {
+    "type": "multiple",
+    "question": "A user is unable to connect an Android phone to an NFC speaker. Which of the following steps should be followed?",
+    "options": [
+      "Enable NFC and Bluetooth on the Android phone",
+      "Tap and hold the phone to the speaker's NFC logo",
+      "Accept the connection prompt on the phone",
+      "Ensure the speaker is connected via USB"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "To pair with an NFC-enabled speaker, NFC and Bluetooth must be on, the devices should be tapped together, and the user must accept the prompt.",
+    "id": 47
+  },
+  {
+    "type": "single",
+    "question": "A user states their smartphone takes more than a day to fully charge. What should be checked FIRST?",
+    "options": [
+      "Perform a factory reset",
+      "Replace the battery",
+      "Verify the power rating of the charger",
+      "Close background apps"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "The issue is likely related to an underpowered charger. Check that the charger meets the device's specifications.",
+    "id": 48
+  },
+  {
+    "type": "multiple",
+    "question": "Which of the following connection types can be used to connect an external keyboard to an Android tablet?",
+    "options": [
+      "DVI",
+      "Infrared",
+      "Lightning",
+      "USB-C",
+      "PS/2",
+      "Bluetooth"
+    ],
+    "correct": [
+      3,
+      5
+    ],
+    "explanation": "USB-C and Bluetooth are both common and supported interfaces for connecting external keyboards to Android devices.",
+    "id": 49
+  },
+  {
+    "type": "single",
+    "question": "Which of the following replaced the Apple 30-pin connector and is also reversible?",
+    "options": [
+      "USB-C",
+      "Lightning",
+      "miniUSB",
+      "DisplayPort"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Apple's Lightning connector replaced the 30-pin connector and features a reversible design.",
+    "id": 50
+  },
+  {
+    "type": "single",
+    "question": "A field technician reports a mobile payment device is not detecting contactless payment options. What is the MOST likely cause?",
+    "options": [
+      "NFC",
+      "Bluetooth",
+      "Wi-Fi",
+      "Lightning adapter"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "NFC is the technology behind contactless payments. A failure in NFC functionality can prevent detection.",
+    "id": 51
+  },
+  {
+    "type": "single",
+    "question": "A user\u2019s phone only charges up to 67% and stops. What component should be replaced?",
+    "options": [
+      "Battery",
+      "Screen",
+      "Charging port",
+      "Motherboard"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "If the phone stops charging before reaching 100%, the battery is most likely degraded and should be replaced.",
+    "id": 52
+  },
+  {
+    "type": "single",
+    "question": "A salesperson uses a weather app that drains battery fast. What action should be taken?",
+    "options": [
+      "Close background apps",
+      "Disable location services for the app",
+      "Restart the phone",
+      "Lower the screen brightness"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Weather apps often use location services continuously. Disabling location access reduces battery consumption.",
+    "id": 53
+  },
+  {
+    "type": "single",
+    "question": "A user wants a mobile device to last longer throughout the day. What should be enabled?",
+    "options": [
+      "Battery saver mode",
+      "Bluetooth",
+      "Background app refresh",
+      "High performance mode"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Enabling battery saver mode reduces power consumption and extends device usage time.",
+    "id": 54
+  },
+  {
+    "type": "single",
+    "question": "Which mobile OS allows apps to be installed from non-official sources?",
+    "options": [
+      "iOS",
+      "Android",
+      "Windows Mobile",
+      "BlackBerry OS"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Android allows installation of APKs from third-party sources when enabled in settings.",
+    "id": 55
+  },
+  {
+    "type": "single",
+    "question": "A user reports blurry images from a smartphone camera. What's the probable cause?",
+    "options": [
+      "Camera app not updated",
+      "Dirty lens",
+      "Low battery",
+      "Screen protector misalignment"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Blurry images are often caused by a dirty or smudged camera lens.",
+    "id": 56
+  },
+  {
+    "type": "single",
+    "question": "A device with a Lithium-Ion battery is bulging. What should the technician do?",
+    "options": [
+      "Discharge and continue using",
+      "Puncture to release pressure",
+      "Replace and dispose properly",
+      "Install new OS"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "A bulging battery is hazardous and should be replaced and disposed of following safety guidelines.",
+    "id": 57
+  },
+  {
+    "type": "single",
+    "question": "A phone is not connecting to a known Wi-Fi network. What should the technician do FIRST?",
+    "options": [
+      "Restart the router",
+      "Update the phone OS",
+      "Forget and reconnect to the network",
+      "Replace the Wi-Fi antenna"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Forgetting and reconnecting clears corrupt credentials and resolves most connectivity issues.",
+    "id": 58
+  },
+  {
+    "type": "single",
+    "question": "A user wants to transfer photos to a PC. What method is BEST?",
+    "options": [
+      "Email",
+      "Cloud sync",
+      "Bluetooth",
+      "NFC"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Cloud sync allows seamless and automated transfer of media to connected devices.",
+    "id": 59
+  },
+  {
+    "type": "single",
+    "question": "A user is unable to access the Internet while on mobile data. What should be verified?",
+    "options": [
+      "Wi-Fi toggle",
+      "Battery level",
+      "Mobile data enabled",
+      "SIM contacts"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Ensure that mobile data is enabled in the network settings for Internet access.",
+    "id": 60
+  },
+  {
+    "type": "single",
+    "question": "A phone isn't ringing for incoming calls. What setting is MOST likely responsible?",
+    "options": [
+      "Volume muted",
+      "Airplane mode",
+      "Low storage",
+      "Mobile data off"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Muted volume will prevent ringing even though the phone receives calls.",
+    "id": 61
+  },
+  {
+    "type": "single",
+    "question": "A user requests location services to be disabled. What setting should be toggled?",
+    "options": [
+      "GPS",
+      "Wi-Fi",
+      "Airplane mode",
+      "Battery saver"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Location services are generally linked to GPS, which should be disabled to stop tracking.",
+    "id": 62
+  },
+  {
+    "type": "single",
+    "question": "A technician must assist with enabling airplane mode. What's the effect of this?",
+    "options": [
+      "Disables Wi-Fi and cellular",
+      "Disables only GPS",
+      "Turns off screen",
+      "Resets settings"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Airplane mode disables all wireless communications like Wi-Fi, Bluetooth, and cellular.",
+    "id": 63
+  },
+  {
+    "type": "single",
+    "question": "A mobile phone is overheating while idle. What could be the reason?",
+    "options": [
+      "Faulty screen",
+      "Background app activity",
+      "Low brightness",
+      "Bluetooth is off"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Apps running in the background can cause processor load and lead to overheating.",
+    "id": 64
+  },
+  {
+    "type": "single",
+    "question": "A mobile device cannot be discovered by Bluetooth. What should be checked FIRST?",
+    "options": [
+      "Wi-Fi is active",
+      "Battery is charged",
+      "Bluetooth is enabled",
+      "SIM card is valid"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Bluetooth must be enabled and visible for the device to be discovered.",
+    "id": 65
+  },
+  {
+    "type": "single",
+    "question": "A technician is adding a work email on a mobile device. What protocol is typically used?",
+    "options": [
+      "POP3",
+      "SMTP",
+      "IMAP",
+      "Exchange ActiveSync"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Exchange ActiveSync is commonly used to sync work email, calendar, and contacts.",
+    "id": 66
+  },
+  {
+    "type": "single",
+    "question": "A smartphone has a cracked screen. Which tool is MOST appropriate to use for replacement?",
+    "options": [
+      "Multimeter",
+      "Plastic spudger",
+      "RJ45 crimper",
+      "Torque wrench"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "A plastic spudger helps in opening mobile devices without damaging internal components.",
+    "id": 67
+  },
+  {
+    "type": "single",
+    "question": "A technician must verify if a smartphone supports wireless charging. What component should they look for?",
+    "options": [
+      "Qi coil",
+      "USB-C port",
+      "IR sensor",
+      "Heat sink"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Qi coils indicate that the device supports wireless charging.",
+    "id": 68
+  },
+  {
+    "type": "single",
+    "question": "A user enables tethering. What network type is MOST commonly shared?",
+    "options": [
+      "Wi-Fi",
+      "NFC",
+      "Bluetooth",
+      "Infrared"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Wi-Fi is the most common interface used in mobile hotspot tethering.",
+    "id": 69
+  },
+  {
+    "type": "single",
+    "question": "A technician is helping a user connect a smartphone to a vehicle. A second phone works. What setting should be checked?",
+    "options": [
+      "Display timeout",
+      "Auto-lock",
+      "Bluetooth visibility",
+      "Background data"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "For pairing to succeed, the phone must be discoverable via Bluetooth.",
+    "id": 70
+  },
+  {
+    "type": "single",
+    "question": "A phone cannot receive signal in a remote area. What setting or option could help?",
+    "options": [
+      "Enable roaming",
+      "Lower screen brightness",
+      "Disable airplane mode",
+      "Close apps"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Enabling roaming allows a device to connect to partner networks when out of native coverage.",
+    "id": 71
+  },
+  {
+    "type": "single",
+    "question": "Which component is responsible for GPS on a smartphone?",
+    "options": [
+      "Gyroscope",
+      "Accelerometer",
+      "GNSS module",
+      "Proximity sensor"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "The GNSS (Global Navigation Satellite System) module is responsible for GPS functionality.",
+    "id": 72
+  },
+  {
+    "type": "single",
+    "question": "A technician needs to back up photos from a mobile device regularly. What is the BEST method?",
+    "options": [
+      "USB cable",
+      "Manual copy",
+      "Cloud backup",
+      "Email to self"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Cloud backup provides regular, automated, and accessible backups of photos and data.",
+    "id": 73
+  },
+  {
+    "type": "single",
+    "question": "A smartphone's screen is unresponsive. Which component may be faulty?",
+    "options": [
+      "LCD",
+      "Digitizer",
+      "Battery",
+      "RAM"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "The digitizer is responsible for touch input. A faulty digitizer causes unresponsive touch.",
+    "id": 74
+  },
+  {
+    "type": "single",
+    "question": "A technician is cleaning a smartphone camera that shows dark spots. What tool should be used?",
+    "options": [
+      "Alcohol wipe",
+      "Steel wool",
+      "Compressed air",
+      "Paper towel"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Use compressed air to safely clean lenses and avoid damaging sensitive components.",
+    "id": 75
+  },
+  {
+    "type": "single",
+    "question": "A user complains of very fast battery drain. What setting should be investigated?",
+    "options": [
+      "Brightness",
+      "Location services",
+      "Bluetooth",
+      "Volume level"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Location services can use constant GPS tracking, significantly draining battery life.",
+    "id": 76
+  },
+  {
+    "type": "single",
+    "question": "What feature allows mobile phones to make payments without contact?",
+    "options": [
+      "NFC",
+      "Bluetooth",
+      "Wi-Fi",
+      "IR"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "NFC (Near Field Communication) is used for contactless payments.",
+    "id": 77
+  },
+  {
+    "type": "single",
+    "question": "What is the MOST secure method to protect data on a lost smartphone?",
+    "options": [
+      "SIM lock",
+      "Screen lock",
+      "Remote wipe",
+      "Airplane mode"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Remote wipe allows complete data erasure to prevent unauthorized access.",
+    "id": 78
+  },
+  {
+    "type": "single",
+    "question": "What security measure ensures apps are from trusted sources on Android?",
+    "options": [
+      "Firewall",
+      "App signature verification",
+      "Factory reset",
+      "VPN"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "App signature verification ensures that only trusted apps from verified sources are installed.",
+    "id": 79
+  },
+  {
+    "type": "single",
+    "question": "What does airplane mode disable on mobile devices?",
+    "options": [
+      "Cellular only",
+      "Bluetooth and Wi-Fi",
+      "All wireless radios",
+      "Microphone"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Airplane mode disables all wireless transmissions including cellular, Wi-Fi, and Bluetooth.",
+    "id": 80
+  },
+  {
+    "type": "single",
+    "question": "Which of the following features tracks physical activity on a mobile device?",
+    "options": [
+      "Accelerometer",
+      "Compass",
+      "Gyroscope",
+      "Ambient sensor"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Accelerometers are used to track motion and step count in mobile fitness tracking.",
+    "id": 81
+  },
+  {
+    "type": "single",
+    "question": "What setting disables all incoming calls, alerts, and notifications?",
+    "options": [
+      "Silent mode",
+      "Airplane mode",
+      "Do Not Disturb",
+      "Night mode"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Do Not Disturb suppresses all alerts and can be scheduled.",
+    "id": 82
+  },
+  {
+    "type": "single",
+    "question": "Which method is used to unlock modern phones with facial recognition?",
+    "options": [
+      "IR sensor",
+      "Front camera",
+      "Fingerprint sensor",
+      "Voice pattern"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Facial recognition uses the front-facing camera with depth sensors.",
+    "id": 83
+  },
+  {
+    "type": "single",
+    "question": "A technician notices ghost touches on a phone screen. What is the likely issue?",
+    "options": [
+      "Overheating",
+      "Digitizer fault",
+      "Loose battery",
+      "Screen protector misalignment"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Ghost touches often indicate a damaged or malfunctioning digitizer.",
+    "id": 84
+  },
+  {
+    "type": "single",
+    "question": "What is the function of the proximity sensor on a smartphone?",
+    "options": [
+      "Detects ambient light",
+      "Disables screen during calls",
+      "Measures signal strength",
+      "Tracks location"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "The proximity sensor disables the screen when the phone is near the user's face during calls to prevent accidental touches.",
+    "id": 85
+  },
+  {
+    "type": "single",
+    "question": "A user reports their phone's battery drains quickly. What should be checked FIRST?",
+    "options": [
+      "Screen brightness",
+      "Background apps",
+      "Battery age",
+      "Charging cable"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Background apps running continuously can significantly drain battery life.",
+    "id": 86
+  },
+  {
+    "type": "single",
+    "question": "A user's smartphone battery drains very quickly. Which setting can help conserve battery life?",
+    "options": [
+      "Increasing screen brightness",
+      "Enabling Bluetooth",
+      "Reducing screen timeout duration",
+      "Setting email to push notifications"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Reducing the screen timeout duration ensures the screen turns off more quickly when not in use, saving battery.",
+    "id": 87
+  },
+  {
+    "type": "single",
+    "question": "What does NFC stand for in mobile devices?",
+    "options": [
+      "Near Field Communication",
+      "Network File Connection",
+      "New Fast Charger",
+      "National Frequency Control"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "NFC stands for Near Field Communication, used for short-range wireless data transfer like contactless payments.",
+    "id": 88
+  },
+  {
+    "type": "single",
+    "question": "A user calls the help desk lot assistance configuring an Android phone with a new NFC-enabled speaker that will be used for an upcoming conference call. The\nuser was unable to direct the phone's audio to the NFC speaker. Which of the following sequences should the help desk technician walk the customer through to\naccomplish this task?\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)",
+    "options": [
+      "Enable NFC on the speake",
+      "Ensure the speaker is less than 33ft (10m) from the Android phon",
+      "On the phone's Bluetooth settings menu for Connected Devices, select Pair New Devic",
+      "Tap to accept the connection to the speaker when the prompt is displayed on the phone's screen.",
+      "Enable NFC and Bluetooth on the Android phon",
+      "From the Android phone's Bluetooth settings menu for Connected Devices, select the Previously Connected Devices optio\nG. Select a listed device that most closely matches the speake\nH. Tap lo accept the connection lo the speaker when the prompt is displayed on the phone's screen.\nI. Enable NFC and Bluetooth on the Android phon\nJ. Tap and hold the Android phone to the spot on the speaker where the NFC logo is displaye\nK. Accept the connection to the speaker when the prompt is displayed on the phone's screen.\nL. Enable Wi-Fi on the speake\nM. Enable Wi-Fi on the Android phon\nN. Tap and hold the Android phone to the spot on the speaker where the NFC logo is displaye\nO. Accept the connection to the speaker when the prompt is displayed on the phone's screen."
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "",
+    "id": 89
+  },
+  {
+    "type": "single",
+    "question": "Which of the following would MOST likely be used to obtain electronic images of a large number of printed documents?",
+    "options": [
+      "NFC device",
+      "ADF/flatbed scanner",
+      "Camera/webcam",
+      "QR scanner"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "ADF/flatbed scanner would most likely be used to obtain electronic images of a large number of printed documents. References: CompTIA A+ Certification Exam\nGuide, Exam 220-1001, Page 351",
+    "id": 90
+  },
+  {
+    "type": "single",
+    "question": "A technician is monitoring all outbound traffic in a SOHO. Which of the following is the MOST cost-effective solution to monitor the traffic?",
+    "options": [
+      "Spectrum analyzer",
+      "Network tap",
+      "Lookback plug\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)",
+      "Toner probe"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "A network tap is used to intercept the signals passing over a cable and send them to a packet or protocol analyzer. Taps are either powered or unpowered:",
+    "id": 91
+  },
+  {
+    "type": "single",
+    "question": "An IT manager discovered that hundreds of pages of printed materials are being recycled each day because the materials are left on the printer tray instead of\nbeing picked up by users. Which of the following would BEST prevent this waste?",
+    "options": [
+      "Send friendly reminders to not print unnecessarily.",
+      "Enable duplex printing to reduce paper utilization.",
+      "Bill each department for the excess material cost.",
+      "Require a code or badge before releasing a print job."
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "By requiring a code or badge before releasing a print job, it ensures that only authorized personnel can collect the printouts. This method is effective in preventing\nwaste and in keeping sensitive documents confidential. Sending reminders, enabling duplex printing, and billing departments are useful strategies for reducing\npaper utilization but may not necessarily prevent waste caused by uncollected printouts.\nRequiring a code or badge before releasing a print job is the best solution to prevent the waste of printed materials, as it ensures that only the user who initiated\nthe print job is able to pick up the printed materials. This can be achieved by implementing print release software or requiring users to enter a PIN code at the\nprinter. References: CompTIA A+ Certification Exam Objectives 1001, 2.10",
+    "id": 92
+  },
+  {
+    "type": "single",
+    "question": "Which of the following BEST describes the main function of a web server?",
+    "options": [
+      "Storing files and controlling user access",
+      "Setting up personal mailboxes and calendars",
+      "Providing IP addresses and printing services",
+      "Hosting home pages and business portals"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "A web server is a software application that serves HTTP (Hypertext Transfer Protocol) requests by delivering web pages and other files to users' web browsers.\nThe main function of a web server is to host home pages and business portals, making them accessible to users via the internet. References: CompTIA A+\nCertification Exam Objectives 220-1001 - Networking - 1.6",
+    "id": 93
+  },
+  {
+    "type": "single",
+    "question": "An online retailer wants to save money and is considering migrating to the public cloud so peak is over. Which of the following BEST describes this aspect of cloud\ncomputing?",
+    "options": [
+      "Rapid elasticity",
+      "Metered utilization",
+      "Shared resources",
+      "High availability"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Rapid elasticity is only suitable for a domain whose resource requirements suddenly up and down for a specific time interval. Referring to the question the online\nretailer wants to migrate to public cloud services during peak season, then wants it to be removed \"automatically\" when the peak is over.",
+    "id": 94
+  },
+  {
+    "type": "single",
+    "question": "An organization maintains various record types, including health and criminal justice records. Which of the following cloud environments is the organization MOST\nlikely to use to limit the attack surface?",
+    "options": [
+      "Public",
+      "Hybrid",
+      "Community",
+      "Private"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Private cloud environments are designed for use by a single organization and offer the greatest control over security and access to data. They are typically used\nfor sensitive or confidential data, such as health and criminal justice records. Public cloud environments are shared by multiple organizations and offer less control\nover security and access to data. Hybrid cloud environments combine public and private clouds, while community clouds are shared by multiple organizations with\nsimilar needs. References: CompTIA A+ Certification Exam: Core 1 - Page 234",
+    "id": 95
+  },
+  {
+    "type": "single",
+    "question": "Which of the following would an administrator use to migrate virtual machines from on premises to the cloud?",
+    "options": [
+      "laaS",
+      "SaaS",
+      "DBaaS",
+      "DRaaS"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "An administrator would use Infrastructure as a Service (IaaS) to migrate virtual machines from on-premises to the cloud. IaaS is a cloud computing service that\nprovides virtualized computing resources, such as servers, storage, and networking, that can be used to deploy and run applications in the cloud. By using IaaS,\nan administrator can create a virtual machine in the cloud and migrate the existing virtual machine from on- premises to the cloud. References: CompTIA A+\nCertification Exam: Core 1 - Objective 3.3",
+    "id": 96
+  },
+  {
+    "type": "multiple",
+    "question": "A user requested upgrades to a company-issued laptop to increase its performance while working with a large database stored on drive C. Which of the following\ntasks should a systems administrator complete to BEST meet this goal? (Select TWO).",
+    "options": [
+      "Configure RAID 1.",
+      "Install a hybrid drive.",
+      "Upgrade to 1GB NIC.",
+      "Increase the RAM.",
+      "Migrate to a SSD.",
+      "Upgrade the power supply."
+    ],
+    "correct": [
+      3,
+      4
+    ],
+    "explanation": "To increase the performance of a laptop working with a large database stored on drive C, a systems administrator should increase the RAM and migrate to an\nSSD. Increasing the RAM will help the laptop to better handle the large database, while migrating to an SSD will improve the speed at which the laptop can access\nthe database. Configuring RAID 1, installing a hybrid drive, upgrading to a 1GB NIC, and upgrading the power supply will not directly improve the laptop's\nperformance when working with a large database. References: CompTIA A+ Certification Exam: Core 1 - Objective 3.1",
+    "id": 97
+  }
+]

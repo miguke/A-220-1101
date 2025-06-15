@@ -1,0 +1,364 @@
+[
+  {
+    "id": -1,
+    "question": "A user calls the help desk lot assistance configuring an Android phone with a new NFC-enabled speaker that will be used for an upcoming conference call. The\nuser was unable to direct the phone's audio to the NFC speaker. Which of the following sequences should the help desk technician walk the customer through to\naccomplish this task?",
+    "options": [
+      "Enable NFC on the speake",
+      "Ensure the speaker is less than 33ft (10m) from the Android phon",
+      "On the phone's Bluetooth settings menu for Connected Devices, select Pair New Devic",
+      "Tap to accept the connection to the speaker when the prompt is displayed on the phone's screen.",
+      "Enable NFC and Bluetooth on the Android phon",
+      "From the Android phone's Bluetooth settings menu for Connected Devices, select the Previously Connected Devices optio",
+      "Select a listed device that most closely matches the speake",
+      "Tap lo accept the connection lo the speaker when the prompt is displayed on the phone's screen.",
+      "Enable NFC and Bluetooth on the Android phon",
+      "Tap and hold the Android phone to the spot on the speaker where the NFC logo is displaye",
+      "Accept the connection to the speaker when the prompt is displayed on the phone's screen.",
+      "Enable Wi-Fi on the speake",
+      "Enable Wi-Fi on the Android phon",
+      "Tap and hold the Android phone to the spot on the speaker where the NFC logo is displaye",
+      "Accept the connection to the speaker when the prompt is displayed on the phone's screen."
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "",
+    "source_pdf": "220-1101_3.pdf",
+    "topic": "miscellaneous"
+  },
+  {
+    "id": -1,
+    "question": "A technician is tasked with installing additional RAM in a desktop computer. Which of the following types of RAM is MOST likely to be used?",
+    "options": [
+      "SODIMM",
+      "DDR3",
+      "ECC",
+      "VRAM"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "DDR3 is the most commonly used RAM type in modern desktop computers. It is faster and more energy efficient than its predecessors, and offers larger capacity\nmodules. References: CompTIA A+ Certification Exam Guide, Ninth Edition, Chapter 5",
+    "source_pdf": "220-1101_3.pdf",
+    "topic": "hardware"
+  },
+  {
+    "id": -1,
+    "question": "A colleague has a laptop that has been working as expected for several years wall outlet. The MOST likely component that needs to be replaced is the:\nA. power adapter.\nB. battery.\nC. system fan.\nD. hard drive.?",
+    "options": [
+      "power adapter.",
+      "battery.",
+      "system fan.",
+      "hard drive."
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Based on the information provided in the question, the MOST likely component that needs to be replaced is A. power adapter. If a laptop has been working as\nexpected for several years but suddenly stops working when it is plugged into a wall outlet, it is possible that the power adapter has failed and is no longer able to\nprovide power to the laptop. In this case, replacing the power adapter would likely resolve the issue.\nThe other components listed in the options (battery, system fan, and hard drive) could also potentially fail and cause issues with a laptop\u2019s performance. However,\nbased on the specific scenario described in the question (the laptop suddenly stops working when plugged into a wall outlet), it seems most likely that the issue is\nrelated to the power adapter.\nPassing Certification Exams Made Easy visit - https://www.2PassEasy.com\nWelcome to download the Newest 2passeasy 220-1101 dumps\nhttps://www.2passeasy.com/dumps/220-1101/ (443 New Questions)\nIf the laptop has been working as expected for several years and suddenly stops working, the power adapter is the most likely component that needs to be\nreplaced. Over time, the power adapter can become worn or damaged, resulting in a loss of power to the laptop. References: CompTIA A+ Certification Exam\nGuide, Ninth Edition, Chapter 3",
+    "source_pdf": "220-1101_3.pdf",
+    "topic": "troubleshooting"
+  },
+  {
+    "id": -1,
+    "question": "A technician is monitoring all outbound traffic in a SOHO. Which of the following is the MOST cost-effective solution to monitor the traffic?",
+    "options": [
+      "Spectrum analyzer",
+      "Network tap",
+      "Lookback plug",
+      "Toner probe"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "A network tap is used to intercept the signals passing over a cable and send them to a packet or protocol analyzer. Taps are either powered or unpowered:",
+    "source_pdf": "220-1101_3.pdf",
+    "topic": "miscellaneous"
+  },
+  {
+    "id": -1,
+    "question": "A technician is receiving reports that the entire office sporadically loses network connectivity throughout the day. The technician determines the root cause to be\nEMI. Which of the following cable mediums would be the MOST cost effective without sacrificing system performance?",
+    "options": [
+      "Coaxial",
+      "Shielded Cat 6",
+      "Plenum Cat 5e",
+      "Multimode fiber"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "In this situation, the MOST cost-effective cable medium that would not sacrifice system performance would be B. Shielded Cat 6. Electromagnetic interference\n(EMI) can disrupt network connectivity by interfering with the signals transmitted over network cables. Shielded Cat 6 cables are designed to provide protection\nagainst EMI by incorporating a layer of shielding material around the cable\u2019s conductors. This shielding helps to prevent EMI from interfering with the signals\ntransmitted over the cable.",
+    "source_pdf": "220-1101_3.pdf",
+    "topic": "miscellaneous"
+  },
+  {
+    "id": -1,
+    "question": "A user requested upgrades to a company-issued laptop to increase its performance while working with a large database stored on drive C. Which of the following\ntasks should a systems administrator complete to BEST meet this goal?",
+    "options": [
+      "Configure RAID 1.",
+      "Install a hybrid drive.",
+      "Upgrade to 1GB NIC.",
+      "Increase the RAM.",
+      "Migrate to a SSD.",
+      "Upgrade the power supply."
+    ],
+    "correct": [
+      3,
+      4
+    ],
+    "explanation": "To increase the performance of a laptop working with a large database stored on drive C, a systems administrator should increase the RAM and migrate to an\nSSD. Increasing the RAM will help the laptop to better handle the large database, while migrating to an SSD will improve the speed at which the laptop can access\nthe database. Configuring RAID 1, installing a hybrid drive, upgrading to a 1GB NIC, and upgrading the power supply will not directly improve the laptop's\nperformance when working with a large database. References: CompTIA A+ Certification Exam: Core 1 - Objective 3.1",
+    "source_pdf": "220-1101_3.pdf",
+    "topic": "hardware"
+  },
+  {
+    "id": -1,
+    "question": "A technician receives several error alerts on a server after an unexpected reboot. A message states that one or more disks are in a degraded state. When the\ntechnician advances to the next error message, it indicates the OS is missing. Which of the following are the MOST likely causes of these errors?",
+    "options": [
+      "Missing drives in the OS",
+      "RAID failure",
+      "Bootable device not found",
+      "Data loss",
+      "Controller failure",
+      "CMOS corruption",
+      "TPM malfunction"
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explanation": "The message stating that one or more disks are in a degraded state is a clear indication of a RAID failure. RAID stands for Redundant Array of Independent\nDisks, and it is a technology used to provide fault tolerance and improve performance by combining multiple hard drives into a single logical unit.\nThe message indicating that the OS is missing is most likely caused by a bootable device not found. This means that the server is unable to boot from the\ndesignated boot device, which could be the hard drive, a CD/DVD drive, or a USB flash drive. This could be caused by a faulty boot device, a loose cable, or a\nmisconfiguration in the BIOS or UEFI settings.",
+    "source_pdf": "220-1101_3.pdf",
+    "topic": "hardware"
+  },
+  {
+    "id": -1,
+    "question": "A customer is using a satellite internet connection that is experiencing slowness. A technician notices high latency while pinging, but the download test is\nperforming perfectly with very good download speeds. Which of the following represents the NEXT action the technician should perform?",
+    "options": [
+      "Restart the modem and run an online internet connection and speed diagnostic tool.",
+      "Guide the customer on how to upgrade the internet plan with the provider in order to improve latency.",
+      "Explain to the customer this is not an issue; this situation is normal for this type of internet connection.",
+      "Replace the modem because it is not working correctly based on the test result."
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The technician should restart the modem and run an online internet connection and speed diagnostic tool1. High latency is a common issue with satellite internet\nconnections, and it can cause slow internet speeds2. Restarting the modem can help to resolve the issue1. The technician should also run an online internet\nconnection and speed diagnostic tool to check the connection and speed1. Guiding the customer on how to upgrade the internet plan with the provider in order to\nimprove latency is not likely to be the correct option2.\nHigh latency while pinging can indicate a problem with the modem or the connection between the modem and the satellite. Restarting the modem can often\nresolve connectivity issues. Running an online internet connection and speed diagnostic tool can help identify any other issues with the connection. Upgrading the\ninternet plan may not resolve latency issues and may not be necessary if the download test is performing perfectly with very good download speeds. High latency\nis not normal for satellite internet connections, so replacing the modem based on this one test result is premature. References: CompTIA A+ Certification Exam:\nCore 1 - Page 102",
+    "source_pdf": "220-1101_3.pdf",
+    "topic": "troubleshooting"
+  },
+  {
+    "id": -1,
+    "question": "A technician needs to fix a Cat 5 cable issue. The cable, which is connected to a network jack, fails when it is moved around. Which of the following items must the\ntechnician use to fix the issue?",
+    "options": [
+      "Scissors",
+      "Network tap",
+      "Magnetized screwdriver",
+      "Tone generator",
+      "RJ45 connector",
+      "Crimper"
+    ],
+    "correct": [
+      4,
+      5
+    ],
+    "explanation": "To fix a Cat 5 cable issue where the cable fails when it is moved around, the technician would need to use an RJ45 connector (option E) and a crimper (option F).\nThe technician can use the crimper to attach a new RJ45 connector to the end of the cable, which should resolve the issue.\nAn RJ45 connector (option E) is a type of connector commonly used for Ethernet networking. It is an 8-position, 8-contact (8P8C) modular plug and jack that is\nused to terminate Cat 5 and other types of twisted pair cables. A crimper (option F) is a tool used to attach connectors to the ends of cables. In this case, the\ntechnician would use the crimper to attach a new RJ45 connector to the end of the Cat 5 cable.\nWhen a cable fails when it is moved around, it often indicates that there is a problem with the connector at the end of the cable. By attaching a new RJ45\nconnector using a crimper, the technician can ensure that the cable has a secure and reliable connection.",
+    "source_pdf": "220-1101_3.pdf",
+    "topic": "troubleshooting"
+  },
+  {
+    "id": -1,
+    "question": "A technician is upgrading a legacy wireless router for a home user. After installing the new router and configuring the SSID to be the same, none of the devices will\nconnect to the network. Which of the following should the technician check NEXT?",
+    "options": [
+      "OHCP pool configuration",
+      "MAC filtering list",
+      "Wireless protocol settings",
+      "ONS servers"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "The technician should check the MAC filtering list next as the new router may have a different MAC address than the old router. References: CompTIA A+\nCertification Exam Guide, Exam 220-1001, Page 332",
+    "source_pdf": "220-1101_3.pdf",
+    "topic": "networking"
+  },
+  {
+    "id": -1,
+    "question": "Which of the following describes the operational difference between hubs and switches when transmitting data to a specific computer inside the network?",
+    "options": [
+      "Switches only send data to the specific computer, while hubs send data to all computersinside the network.",
+      "Switches compress data while hubs send uncompressed data",
+      "Switches receive data and route it to all computers inside the network while hubs receive data and do not route",
+      "Switches scramble data, while hubs send data in the original form."
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Switches only send data to the specific computer, while hubs send data to all computers inside the network. References: CompTIA A+ Certification Exam Guide,\nExam 220-1001, Page 323",
+    "source_pdf": "220-1101_3.pdf",
+    "topic": "networking"
+  },
+  {
+    "id": -1,
+    "question": "The owner of a restaurant reports that wireless network connections are lost intermittently throughout the day. Which of the following steps should a technician\ntake to troubleshoot the issue?",
+    "options": [
+      "Identify the location of devices that utilize 2.4GHz.",
+      "Check to see if the phones are IJTP or STP lines.",
+      "Test to see if the copper electrical Wires are causing interference.",
+      "Map all of the wireless signals in the restaurant.",
+      "Verify T568B is being used in the wiring closet patch panel.",
+      "Schedule timed router reboots throughout the day."
+    ],
+    "correct": [
+      0,
+      3
+    ],
+    "explanation": "The correct answers are A. Identify the location of devices that utilize 2.4GHz and D. Map all of the wireless signals in the restaurant. In order to troubleshoot the\nissue, the technician should first identify the location of devices that utilize the 2.4GHz frequency, as this can cause interference with the wireless signal.\nAdditionally, the technician should map all of the wireless signals in the restaurant in order to identify any potential sources of interference. Checking to see if the\nphones are IJTP or STP lines, testing to see if the copper electrical wires are causing interference, verifying T568B is being used in the wiring closet patch panel,\nand scheduling timed router reboots throughout the day are not necessary steps for troubleshooting this issue.",
+    "source_pdf": "220-1101_3.pdf",
+    "topic": "troubleshooting"
+  },
+  {
+    "id": -1,
+    "question": "A user reports a cell phone is getting hot. Which of the following are MOST likely to be possible causes?",
+    "options": [
+      "Using the device as a Wi-Fi hotspot",
+      "A cracked screen",
+      "A failing battery",
+      "Less than 15% free storage space on the phone",
+      "Privileged control",
+      "Recurring prompts to install OS updates",
+      "Granting too many application camera permissions",
+      "Too many open applications"
+    ],
+    "correct": [
+      0,
+      2,
+      7
+    ],
+    "explanation": "Using the device as a Wi-Fi hotspot, a failing battery, and too many open applications are the most likely causes of the cell phone getting hot. These actions\nrequire the phone to use more power and processing, causing it to heat up.",
+    "source_pdf": "220-1101_3.pdf",
+    "topic": "miscellaneous"
+  },
+  {
+    "id": -1,
+    "question": "Which of the following options provides correct information about 2.4GHz and 5GHz wireless frequencies?",
+    "options": [
+      "2.4GHz has less interferenc",
+      "5GHz transmits inlower speed.",
+      "2.4GHz penetrates solid objects more effectivel",
+      "5GHz provides faster data connections.",
+      "2.4GHz has a higher data rat",
+      "5GHz has 23 channels.",
+      "2.4GHz has Il channel",
+      "5GHz has no data interference.",
+      "2.4GHz has a higher coverage are",
+      "5GHz has higher bandwidth.",
+      "2.4GHz has a higher bandwidt",
+      "5GHz has lower transmit power."
+    ],
+    "correct": [
+      1,
+      4
+    ],
+    "explanation": "The correct answers are B. 2.4GHz penetrates solid objects more effectively. 5GHz provides faster data connections and E. 2.4GHz has a higher coverage area.\n5GHz has higher bandwidth. The 2.4GHz frequency has a lower data rate compared to 5GHz, but it can penetrate solid objects more effectively and has a higher\ncoverage area. The 5GHz frequency, on the other hand, provides faster data connections and has higher bandwidth,\nbut it has fewer channels and lower transmit power.",
+    "source_pdf": "220-1101_3.pdf",
+    "topic": "miscellaneous"
+  },
+  {
+    "id": -1,
+    "question": "Vertical streaks are appearing on the output of a laser printer. Which of the following items is the MOST likely cause?",
+    "options": [
+      "Roller",
+      "Drum",
+      "Transfer belt",
+      "Ribbon"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Vertical or horizontal lines\u2014Marks that appear in the same place (referred to as repetitive defects) are often due to dirty feed rollers (note that there are rollers in the\ntoner cartridge and fuser unit too) or a damaged or dirty photosensitive drum.\nVertical streaks on a laser printer output are usually caused by a damaged or worn-out drum, which is responsible for transferring toner to the paper. If the drum is\ndamaged, toner may accumulate on certain parts of the drum, leading to streaks on the printed output. References: CompTIA A+ Certification All-in-One Exam\nGuide, Tenth Edition, Chapter 15",
+    "source_pdf": "220-1101_3.pdf",
+    "topic": "miscellaneous"
+  },
+  {
+    "id": -1,
+    "question": "A user\u2019s Windows computer started running slowly after the installation of a CAD program. The computer has intermittent timeouts and often has to be rebooted to\nrestore functionally. The computer seems to work correctly if the application is not running. Which of the following should the technician do NEXT to help\ntroubleshoot the issue?",
+    "options": [
+      "Replace the video card.",
+      "Research the requirements of the application.",
+      "Install a new case fun.",
+      "Run chkdsk on the HDD.",
+      "Check the Event Viewer logs.",
+      "Reinstall the application."
+    ],
+    "correct": [
+      1,
+      4
+    ],
+    "explanation": "The technician should research the requirements of the CAD program to see if the computer meets them or needs any upgrades or updates to run it properly. The\ntechnician should also check the Event Viewer logs to see if there are any errors or warnings related to the application or system performance that could indicate\nthe cause of the problem or suggest a solution. Reference: https://www.comptia.org/training/books/a- core-1-220-1101-study-guide (pages 43, 47)",
+    "source_pdf": "220-1101_3.pdf",
+    "topic": "troubleshooting"
+  },
+  {
+    "id": -1,
+    "question": "A user\u2019s laptop is experiencing severe slowdowns when operating process-intensive tasks. Which of the following memory upgrades is compatible with a laptop?",
+    "options": [
+      "DIMM",
+      "ECC RAM",
+      "Virtual RAM",
+      "SODIMM"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "SODIMM stands for Small Outline Dual In-line Memory Module and is a type of memory module that is compatible with laptops and other small devices.\nSODIMMs are smaller and thinner than DIMMs (Dual In-line Memory Modules), which are typically used for desktop PCs and servers. Upgrading or adding\nSODIMMs can increase the amount of RAM available for a laptop, which can improve its performance and speed when running process-intensive tasks.\nReference: https://partners.comptia.org/docs/default- source/resources/a-core-series-combined-content-guide (page 24)",
+    "source_pdf": "220-1101_3.pdf",
+    "topic": "hardware"
+  },
+  {
+    "id": -1,
+    "question": "A user receives the following error when trying to reboot a computer:\nWhich of the following is the MOST likely cause of this error message?",
+    "options": [
+      "Corrupted bootloader",
+      "Faulty RAID controller",
+      "Failed hard drive",
+      "Incorrect storage device driver"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "The error message \"Reboot and Select Proper Boot Device\" indicates that the computer cannot find the boot device that contains the operating system12. This can\nhappen if the hard drive that stores the operating system is damaged or failed, and the BIOS cannot detect it or read from it23. A failed hard drive can also cause\nother symptoms such as clicking noises, corrupted files, or slow performance4.",
+    "source_pdf": "220-1101_3.pdf",
+    "topic": "troubleshooting"
+  },
+  {
+    "id": -1,
+    "question": "A user is unable to connect a mobile phone while in a car. However, a second mobile Device is able To connect in The same car, WHICH of the Following settings\nshould the user check on the first phone?",
+    "options": [
+      "Wi-Fi",
+      "Hotspot",
+      "Bluetooth",
+      "Location"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "To connect a mobile phone to a car, you need to pair them using Bluetooth, which is a wireless technology that allows secure local networks between devices1. If\none phone can connect to the car but another cannot, it means that the first phone has Bluetooth enabled and paired with the car, while the second phone does\nnot. Therefore, the user should check the Bluetooth settings on the second phone and make sure it is turned on and discoverable21.",
+    "source_pdf": "220-1101_3.pdf",
+    "topic": "mobile-devices"
+  },
+  {
+    "id": -1,
+    "question": "An administrator chose a shared-tenant model for a cloud deployment. Which of the following is the MOST likely reason the administrator chose this model?",
+    "options": [
+      "Cost savings",
+      "Highly available",
+      "Dedicated hardware",
+      "Increased security"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The shared-tenant model for a cloud deployment, also known as a multi- tenant model, allows multiple customers to use the same resources and infrastructure of\nthe cloud service provider, with each customer's data and applications isolated from one another. This model is often chosen for cost savings, as resources are\nshared and users only pay for what they use. Therefore, the MOST likely reason that an administrator chose this model is A. Cost savings.",
+    "source_pdf": "220-1101_3.pdf",
+    "topic": "virtualization-cloud"
+  }
+]
